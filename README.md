@@ -1,2 +1,3 @@
-# leondutoit.github.io
-things
+# leonomics
+
+A new incarnation.
