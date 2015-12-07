@@ -4,6 +4,6 @@ usage="./md2html.sh infile.md"
 
 infile=$1
 elements=(${infile//./ })
-outfile=${elements[0]}
+outfile=$(echo ${elements[0]} | sed 's/posts\///')
 
 pandoc -s -c tufte.css -o $outfile.html $infile
