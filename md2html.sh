@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 usage="./md2html.sh infile.md"
 
