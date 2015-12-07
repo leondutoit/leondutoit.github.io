@@ -1,4 +1,4 @@
 
-### Leonomics
+# Leonomics
 
-Soon there will be more than this page.
+Soon there will be more here.
