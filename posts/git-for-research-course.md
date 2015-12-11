@@ -1,5 +1,5 @@
 
-### motivation: use cases
+### Motivation
 
 Why use git? Because it makes collaboration a joy and gives you an audit trail of each change you make to your project while maintaining data integrity. This improves productivity and transparency.
 
@@ -9,23 +9,23 @@ Workflows can be complex even when working alone but the really painful issues a
 
 Git succeeds when simple remote file system synchronisation tools like Dropbox fail.
 
-### git and version control
+### Git and version control
 
 Git was initially developed by Linus Torvalds for Linux kernel development in 2005. It is distributed, so each copy is a respository with full history. It does not need a connection to a central server.
 
 Version control, in general, is the management of changes to documents.
 
-### concepts
+Some core concepts include:
 
-* `repos`: a repository is an on-disk data structure which stores metadata about files and/or directories. The main purpose is to store a set of files along with the history of changes made to those files.
+* `repository`: a repository is an on-disk data structure which stores metadata about files and/or directories. The main purpose is to store a set of files along with the history of changes made to those files.
 
-* `commits`: the unit in which you record changes in a repository
+* `commit`: the unit in which you record changes in a repository
 
-* `remotes`: a respository on a different machine that is synced with one on your own machine. Given git's distributed nature there is no "central" repo, only remotes.
+* `remote`: a respository on a different machine that is synced with one on your own machine. Given git's distributed nature there is no "central" repo, only remotes.
 
-* `branches`: all work in a repository happens on a specific branch. A branch can be seen as a specific line of work, a series of changes that are applied to files. A branch can be used, for example, to develop new features while making sure that other work is not affected.
+* `branch`: all work in a repository happens on a specific branch. A branch can be seen as a specific line of work, a series of changes that are applied to files. A branch can be used, for example, to develop new features while making sure that other work is not affected.
 
-### practical session
+### Practical session
 
 We'll take a learning by doing approach. We will work in a repo that we create ourselves and in one we download from the web.
 
@@ -78,7 +78,7 @@ git rm newfile
 git commit -m 'removing newfile from repo'
 ```
 
-```
+```bash
 # clone a repo
 cd ..
 git clone https://github.com/leondutoit/git-for-research.git
@@ -114,7 +114,7 @@ git merge feature
 git log -n 5
 ```
 
-```
+```bash
 # find out who changed what
 # do this in the git-for-research repo
 git blame README.md
@@ -136,17 +136,15 @@ git checkout newbranch
 # do: git reset --hard <hash>
 ```
 
-### collaborative workflows
-
-#### pushing to the same repo
+### Pushing to the same repo
 
 We simulated a small part of this when I made changes and you pulled them with a rebase. Collaboration could be set up so that everyone can push to the same remote. It would then be the responsibility of each contributor to make sure they pull the latest changes and do a local rebase before pusing their own changes to the remote. You can enforce such workflows in the git configuration.
 
-#### forking and pull requests
+### Forking and pull requests
 
 You can follow the instructions [on github](https://help.github.com/articles/using-pull-requests/).
 
-### commands reference
+### Commands reference
 
 * `commit`: the unit in which changes are recorded in a repository
 * `log`: a summary of commits
@@ -161,20 +159,15 @@ You can follow the instructions [on github](https://help.github.com/articles/usi
 * `branch`: a distinct line of work (a named series of commits)
 * `blame`: an operation/instruction to display the author and other information of a specific change
 
-### tools
-
-#### desktop clients
+### Desktop clients
 
 We have used the command line interface to git during the course, but graphical user interfaces are also [available](https://git-scm.com/download/gui/linux).
 
-#### remote hosting options, pros and cons
+### Remote hosting options, pros and cons
 
-To collaborate you need to host your remote repo somewhere. If you are not going to set up your own then you need to find a hosting option. The following options are all excellent and widely used choices:
-* [github](https://github.com)
-* [gitlab](https://about.gitlab.com/)
-* [bitbucket](https://bitbucket.org/)
+To collaborate you need to host your remote repo somewhere. If you are not going to set up your own then you need to find a hosting option. The following options are all excellent and widely used choices: [github](https://github.com), [gitlab](https://about.gitlab.com/) and [bitbucket](https://bitbucket.org/).
 
-#### git extensions - for special needs
+### Git extensions - for special needs
 
 * [git-annex](https://git-annex.branchable.com/walkthrough/): dealing with large files
 * [libgit2](https://libgit2.github.com/) and [libgit2-backends](https://github.com/libgit2/libgit2-backends) - [how to](http://blog.deveo.com/your-git-repository-in-a-database-pluggable-backends-in-libgit2/) store your git objects in databases, for example
@@ -182,10 +175,10 @@ To collaborate you need to host your remote repo somewhere. If you are not going
 * create your own remotes using [remote-helpers](https://www.kernel.org/pub/software/scm/git/docs/gitremote-helpers.html)
 
 
-### using git to gain insight
+### Using git to gain insight
 
 Using [gource](http://gource.io/) to visualise repo development. The repository is displayed as a tree where the root of the repository is the centre, directories are branches and files are leaves. Contributors to the source code appear and disappear as they contribute to specific files and directories. [Example](https://www.youtube.com/watch?v=P_02QGsHzEQ).
 
-### what next?
+### What next?
 
 If you want to deepen your understanding you can consider reading [git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf).

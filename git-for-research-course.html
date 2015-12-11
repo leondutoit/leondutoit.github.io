@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; }
+code > span.dt { color: #902000; }
+code > span.dv { color: #40a070; }
+code > span.bn { color: #40a070; }
+code > span.fl { color: #40a070; }
+code > span.ch { color: #4070a0; }
+code > span.st { color: #4070a0; }
+code > span.co { color: #60a0b0; font-style: italic; }
+code > span.ot { color: #007020; }
+code > span.al { color: #ff0000; font-weight: bold; }
+code > span.fu { color: #06287e; }
+code > span.er { color: #ff0000; font-weight: bold; }
+  </style>
+  <link rel="stylesheet" href="tufte.css" type="text/css" />
+</head>
+<body>
+<h3 id="motivation">Motivation</h3>
+<p>Why use git? Because it makes collaboration a joy and gives you an audit trail of each change you make to your project while maintaining data integrity. This improves productivity and transparency.</p>
+<p>Even when you work alone on a project you collaborate with yourself in the future. Often you collaborate with yourself on multiple devices - a home and work machine, for example. Git helps you manage this in an efficient way: easily sync your project over multiple devices.</p>
+<p>Workflows can be complex even when working alone but the really painful issues arise when collaborating with others. What if many people edit the same files at the same time? How does one handle conflicting changes? Git allows you to track changes per person, byte-by-byte and gives you methods to resolve conflicts in a programmatic way.</p>
+<p>Git succeeds when simple remote file system synchronisation tools like Dropbox fail.</p>
+<h3 id="git-and-version-control">Git and version control</h3>
+<p>Git was initially developed by Linus Torvalds for Linux kernel development in 2005. It is distributed, so each copy is a respository with full history. It does not need a connection to a central server.</p>
+<p>Version control, in general, is the management of changes to documents.</p>
+<p>Some core concepts include:</p>
+<ul>
+<li><p><code>repository</code>: a repository is an on-disk data structure which stores metadata about files and/or directories. The main purpose is to store a set of files along with the history of changes made to those files.</p></li>
+<li><p><code>commit</code>: the unit in which you record changes in a repository</p></li>
+<li><p><code>remote</code>: a respository on a different machine that is synced with one on your own machine. Given git's distributed nature there is no &quot;central&quot; repo, only remotes.</p></li>
+<li><p><code>branch</code>: all work in a repository happens on a specific branch. A branch can be seen as a specific line of work, a series of changes that are applied to files. A branch can be used, for example, to develop new features while making sure that other work is not affected.</p></li>
+</ul>
+<h3 id="practical-session">Practical session</h3>
+<p>We'll take a learning by doing approach. We will work in a repo that we create ourselves and in one we download from the web.</p>
+<pre class="sourceCode bash"><code class="sourceCode bash">
+<span class="co"># getting help</span>
+<span class="kw">git</span> --help
+<span class="kw">git</span> <span class="kw">&lt;</span>command<span class="kw">&gt;</span> --help
+
+<span class="co"># create a repo</span>
+<span class="kw">mkdir</span> test-dir
+<span class="kw">cd</span> test-dir
+<span class="kw">git</span> init
+
+<span class="co"># create a file, make changes, add and commit them</span>
+<span class="kw">touch</span> newfile
+<span class="kw">echo</span> <span class="st">&quot;here are some changes&quot;</span> <span class="kw">&gt;</span> newfile
+<span class="kw">git</span> status
+<span class="kw">git</span> add newfile
+<span class="kw">git</span> status
+<span class="kw">git</span> commit -m <span class="st">&#39;first commit: adding data to newfile&#39;</span>
+<span class="kw">git</span> status
+
+<span class="co"># ignoring files</span>
+<span class="kw">touch</span> .gitignore
+<span class="kw">echo</span> <span class="st">&quot;4,5,6&quot;</span> <span class="kw">&gt;&gt;</span> somedata.csv
+<span class="kw">git</span> status
+<span class="kw">echo</span> <span class="st">&quot;*.csv&quot;</span> <span class="kw">&gt;&gt;</span> .gitignore
+<span class="kw">git</span> status
+<span class="kw">git</span> add .gitignore
+<span class="kw">git</span> commit -m <span class="st">&#39;ignore all csv files&#39;</span>
+
+<span class="co"># inspect state/history</span>
+<span class="kw">git</span> log
+<span class="kw">git</span> diff <span class="kw">&lt;</span>hash<span class="kw">&gt;</span>
+
+<span class="co"># history with pretty formatting</span>
+<span class="kw">git</span> log --graph --pretty=format:<span class="st">&#39;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset&#39;</span> --abbrev-commit
+
+<span class="co"># keep changes for later</span>
+<span class="kw">echo</span> <span class="st">&quot;another line of data&quot;</span> <span class="kw">&gt;&gt;</span> newfile
+<span class="kw">git</span> stash
+<span class="kw">git</span> stash show
+<span class="kw">git</span> stash apply
+<span class="kw">git</span> add newfile
+<span class="kw">git</span> commit -m <span class="st">&#39;newfile added&#39;</span>
+
+<span class="co"># remove files</span>
+<span class="kw">git</span> rm newfile
+<span class="kw">git</span> commit -m <span class="st">&#39;removing newfile from repo&#39;</span></code></pre>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># clone a repo</span>
+<span class="kw">cd</span> ..
+<span class="kw">git</span> clone https://github.com/leondutoit/git-for-research.git
+<span class="kw">cd</span> git-for-research
+<span class="kw">git</span> log
+<span class="kw">git</span> remote show origin
+
+<span class="co"># now I will make some changes and push them to this remote</span>
+<span class="co"># then you can sync your local copy</span>
+
+<span class="co"># get new changes from a remote</span>
+<span class="co"># make sure that any local changes are applied on top of mine</span>
+<span class="kw">git</span> pull --rebase
+<span class="kw">git</span> log
+
+<span class="co"># create a branch, work on it</span>
+<span class="kw">git</span> branch
+<span class="kw">git</span> branch feature
+<span class="kw">git</span> branch
+<span class="kw">git</span> checkout feature
+<span class="kw">git</span> branch
+<span class="kw">echo</span> <span class="st">&quot;this is data afor nother file&quot;</span> <span class="kw">&gt;&gt;</span> anotherfile
+<span class="kw">git</span> add anotherfile
+<span class="kw">git</span> commit -m <span class="st">&#39;adding a new feature to the project&#39;</span>
+
+<span class="co"># switch back</span>
+<span class="co"># show which commits are on feature branch but not master</span>
+<span class="co"># apply changes from another branch</span>
+<span class="kw">git</span> checkout master
+<span class="kw">git</span> log -n 5
+<span class="kw">git</span> log feature --not master
+<span class="kw">git</span> merge feature
+<span class="kw">git</span> log -n 5</code></pre>
+<pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># find out who changed what</span>
+<span class="co"># do this in the git-for-research repo</span>
+<span class="kw">git</span> blame README.md
+
+<span class="co"># say you wanted to develop the course notes from a point in time in the past</span>
+<span class="co"># reset the HEAD to a specific point in tie</span>
+<span class="co"># stash away the changes</span>
+<span class="co"># create a new branch and work from there</span>
+<span class="kw">git</span> log -n 5
+<span class="kw">git</span> reset <span class="kw">&lt;</span>hash<span class="kw">&gt;</span>
+<span class="kw">git</span> status
+<span class="kw">git</span> stash
+<span class="kw">git</span> branch newbranch
+<span class="kw">git</span> checkout newbranch
+
+<span class="co"># in the extreme case that you want to throw away commited changes</span>
+<span class="co"># _and_ have not shared the commits with anyone else</span>
+<span class="co"># E.g. if you have only commited locally and you want to start over</span>
+<span class="co"># do: git reset --hard &lt;hash&gt;</span></code></pre>
+<h3 id="pushing-to-the-same-repo">Pushing to the same repo</h3>
+<p>We simulated a small part of this when I made changes and you pulled them with a rebase. Collaboration could be set up so that everyone can push to the same remote. It would then be the responsibility of each contributor to make sure they pull the latest changes and do a local rebase before pusing their own changes to the remote. You can enforce such workflows in the git configuration.</p>
+<h3 id="forking-and-pull-requests">Forking and pull requests</h3>
+<p>You can follow the instructions <a href="https://help.github.com/articles/using-pull-requests/">on github</a>.</p>
+<h3 id="commands-reference">Commands reference</h3>
+<ul>
+<li><code>commit</code>: the unit in which changes are recorded in a repository</li>
+<li><code>log</code>: a summary of commits</li>
+<li><code>status</code>: a summary of the state of files in a repository</li>
+<li><code>diff</code>: shows the difference between two states of one or more files</li>
+<li><code>add</code>: an operation/instruction to include changes to a file into the next commit</li>
+<li><code>stash</code>: an operation/instruction to store changes for later usage</li>
+<li><code>clone</code>: make a copy of a repo</li>
+<li><code>pull</code>: get changes from a remote repo and apply them to a local copy</li>
+<li><code>push</code>: apply changes made to a local repo to a remote copy</li>
+<li><code>rebase</code>: apply changes from a remote on top of changes that only exist locally</li>
+<li><code>branch</code>: a distinct line of work (a named series of commits)</li>
+<li><code>blame</code>: an operation/instruction to display the author and other information of a specific change</li>
+</ul>
+<h3 id="desktop-clients">Desktop clients</h3>
+<p>We have used the command line interface to git during the course, but graphical user interfaces are also <a href="https://git-scm.com/download/gui/linux">available</a>.</p>
+<h3 id="remote-hosting-options-pros-and-cons">Remote hosting options, pros and cons</h3>
+<p>To collaborate you need to host your remote repo somewhere. If you are not going to set up your own then you need to find a hosting option. The following options are all excellent and widely used choices: <a href="https://github.com">github</a>, <a href="https://about.gitlab.com/">gitlab</a> and <a href="https://bitbucket.org/">bitbucket</a>.</p>
+<h3 id="git-extensions---for-special-needs">Git extensions - for special needs</h3>
+<ul>
+<li><a href="https://git-annex.branchable.com/walkthrough/">git-annex</a>: dealing with large files</li>
+<li><a href="https://libgit2.github.com/">libgit2</a> and <a href="https://github.com/libgit2/libgit2-backends">libgit2-backends</a> - <a href="http://blog.deveo.com/your-git-repository-in-a-database-pluggable-backends-in-libgit2/">how to</a> store your git objects in databases, for example</li>
+<li>using <a href="https://github.com/anishathalye/git-remote-dropbox">dropbox as your remote</a> - note: this is not the same as keeping your repo in the dropbox folder</li>
+<li>create your own remotes using <a href="https://www.kernel.org/pub/software/scm/git/docs/gitremote-helpers.html">remote-helpers</a></li>
+</ul>
+<h3 id="using-git-to-gain-insight">Using git to gain insight</h3>
+<p>Using <a href="http://gource.io/">gource</a> to visualise repo development. The repository is displayed as a tree where the root of the repository is the centre, directories are branches and files are leaves. Contributors to the source code appear and disappear as they contribute to specific files and directories. <a href="https://www.youtube.com/watch?v=P_02QGsHzEQ">Example</a>.</p>
+<h3 id="what-next">What next?</h3>
+<p>If you want to deepen your understanding you can consider reading <a href="http://ftp.newartisans.com/pub/git.from.bottom.up.pdf">git from the bottom up</a>.</p>
+</body>
+</html>
