@@ -1,5 +1,7 @@
 
-### Motivation
+## Git for research
+
+_2015-11-05_
 
 Why use git? Because it makes collaboration a joy and gives you an audit trail of each change you make to your project while maintaining data integrity. This improves productivity and transparency.
 

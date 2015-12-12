@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="tufte.css" type="text/css" />
+</head>
+<body>
+<h2 id="trends-in-open-access-data">Trends in open access data</h2>
+<p><em>2015-12-07, based on a lecture given at the University of Oslo</em></p>
+<p>The term open access is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data. To be precise we will talk about <em>open access to research data</em>. Many people prefer to use the term <em>open data</em> since it might help disentangle it from the issues that researchers are dealing with regarding open access publications. Be that as it may, our concern here is to talk about why open data matters and how to act on it.</p>
+<h3 id="rationale">Rationale</h3>
+<p>Why share data? Why make it available to other researchers? There is no single answer and it depends on who is asking but a helpful start is to look at the Research Council of Norway's strategic position on this:</p>
+<ul>
+<li><em>The Research Council’s Policy on Open Access to Research Data aims to ensure that such data are accessible to relevant users, on equal terms, and at the lowest possible cost. Better access to research data enhances the quality of research in that results can more readily be validated and verified and datasets can be used in new ways and in combination with other datasets. Open access to research data also helps to avoid unnecessary duplication of efforts and may pave the way for more interdisciplinary research.</em> <a href="http://www.forskningsradet.no/en/Article/Open_access_to_research_data/1240958527698?lang=en">source</a></li>
+</ul>
+<p>A rather banal rationale to share research data is therefore that it is part of funding agency requirements - that is, if your project is wholly or partly funded by the RCN then you should care about this. But it is also about building better science. We can talk about this in terms of a <a href="http://www.data-archive.ac.uk/create-manage/life-cycle">data life cycle</a> (a very popular conceptual tool in research data discussions).</p>
+<p>As emphasised by the data life cycle concept, open data is supposed to enhance data discoverability and ultimately lead to productive reuse. This would lower the costs of producing novel research which is one reason people often refer to the <a href="https://en.wikipedia.org/wiki/Long_tail">long tail</a> when they talk about open data.</p>
+<p>OK great, so how do we accomplish this?</p>
+<h3 id="data-management-plans">Data Management Plans</h3>
+<p>Principle Investigators (PIs) need to create and maintain <a href="http://www.dcc.ac.uk/resources/data-management-plans">Data Management Plans</a>. Plans typically state what data will be created and how, and outline the plans for sharing and preservation, noting what is appropriate given the nature of the data and any restrictions that may need to be applied.</p>
+<p>A plan like this is embodied in a living document - a description that changes over time. To ease the creation and management of such plans various institutions, life the <a href="http://www.dcc.ac.uk/">Digital Curation Centre</a>, host <a href="https://dmponline.dcc.ac.uk/">online tools</a> for DMPs.</p>
+<p>There is an effort within the nationally funded <a href="https://www.sigma2.no/content/norstore-services">Norstore project</a> to create a DMP tool with integreation to other publication and research tools at UiO. The vision is to be able to create DMPs by answering yes/no style questions to enhance the precision and usefulness of the plans themselves.</p>
+<h3 id="making-data-usefully-available">Making data (usefully) available</h3>
+<p>To structure the discussion we can refer to the RCNs guidelines (based on EU H2020 <a href="http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf">guidelines</a>). Research data should be...</p>
+<ol style="list-style-type: decimal">
+<li>stored/archived in a safe and secure manner</li>
+<li>accessible for reuse</li>
+<li>made accessible at an early stage</li>
+<li>accompanied by standardised metadata</li>
+<li>provided with a license for access, reuse and redistribution</li>
+<li>made accessible at the lowest possible cost</li>
+<li>be provided with a long-term plan</li>
+</ol>
+<p>We have touched upon reuse (in the rationale) and the long-term plan (DPM) and we can leave the cost aspect for another discussion. That leaves us with: storage/archiving, metadata and licensing.</p>
+<h3 id="storage">Storage</h3>
+<p>Two Norwegian data archives (or repositories) are available: the <a href="http://www.nsd.uib.no/nsddata/arkivering/en/001_deposit_data.html">Norwegian Social Science Data Services (NSD)</a> archive, and the <a href="https://www.norstore.no/services/archive">Norstore data archive</a> - which is still in a beta phase. Both projects are funded by the RCN. NSD is more appropriate for social scientific (as the name suggests) and structured data while Norstore is more targeted at unstructured data.</p>
+<p>At the EU level, data repository or archive-like services such as <a href="https://b2share.eudat.eu/?ln=en">B2SHARE</a> are available free of charge. This is a service developed and maintained by <a href="http://eudat.eu/">EUDAT</a>, another H2020 project which is a collaboration of 33 data and computing centres accross Europe.</p>
+<p>Archives enable robust and secure long term data storage. But they also make it possible to, for example, reference data. In order to do this it should be possible to find it even when physical or network location changes. This is accomplished by the use of persistent identifiers or PIDs. A PID is simply a <em>long lasting reference to a digital object</em>.</p>
+<p>A common PID implementation is a <em>Digital Object Identifier</em> (<a href="https://www.doi.org/">DOI</a>) - Norstore for example uses DOIs. Other systems include: <em>Archival Resource Keys</em>, <em>Persistent Uniform Resource Locators</em>, <em>Uniform Resource Names</em> and <em>Extenstible Resource Identifiers</em>. It is not necessary to know the implementation details but the curious can get an excellent overview provided at the right level of detail as <a href="http://www.metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/">provided by Juha Hakala</a>.</p>
+<h3 id="metadata">Metadata</h3>
+<p>Long term storage, data integrity and PIDs are good enough to put the data into the hands of another researcher but the data must be understandable to be useful. Most archives will require a minimal set of items that describe the data before allowing you to deposit it.</p>
+<p>Metadata standards differ widely from discipline to discipline and it is mostly up to the researcher to inform themselves about domain specific standards. At the archive level the metadata cannot be specified in a very detailed way. It is more common then to think of data as digital entities that have generic descriptions. This approach is what underlies the widely adopted <a href="http://dublincore.org/documents/dces/">Dublin Core Metadata Element Set</a>.</p>
+<p>Examples of a data repositories that require standard metadata from bioinformatics is <a href="https://www.ebi.ac.uk/arrayexpress/">ArrayExpress</a> and <a href="http://www.ncbi.nlm.nih.gov/geo/">Gene Expression Omnibus</a>.</p>
+<p>Apart from helping future users of data understand meaning and context metadata also enables increased discoverability. Archives are able to harvest metadata from one another by way of, for example, the <a href="https://www.openarchives.org/pmh/">Open Archives Initiative Protocol for Metadata Harvesting</a>, aka <code>OAI-PMH</code>. The metadata can then be indexed and made searchable. This is one way in which discoverability is actually implemented and emphasises why quality metadata matters so much.</p>
+<h3 id="licenses">Licenses</h3>
+<p>It is also up to the researcher to specify conditions of use when they make their data available. And this is done by way of a license. A popular choice, and a very permissive license, is the <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons Attribute License</a> or <code>CC-BY</code>. It allows you to copy and redistribute the material in any medium or format, remix, transform, and build upon the material for any purpose, even commercially. And the licensor cannot revoke these freedoms as long as you follow the license terms. This may not be appropriate for you project and then it is up to you to figure out what is :)</p>
+<h3 id="emerging-trends">Emerging trends</h3>
+<p>One organisation to keep an eye on is the <a href="https://rd-alliance.org/">Research Data Alliance</a> - they are interested in (at a very high level) &quot;increased openness, consensus, balance [and] harmonisation&quot;. More concretely they bring data specialists together, help them self-organise into groups and guide their work towards increased data interoperability. They have conferences, working groups and interest groups. They typically try to produce standards and reference implementations for data components or architectures.</p>
+<p>Among the trends in open data I find it interesting to note that the production and publication of quality research data is becoming increasingly important. Alongside its growing importance we also see that it requires a relatively high degree of domain knowledge coupled with technical expertise. This hints that there might be a new role emerging in the research world: that of the data publisher, or data creator. <a href="http://www.ubiquitypress.com/">Ubiquity Press</a> for example, has started producing data publications, such as the <a href="http://openpsychologydata.metajnl.com/articles/10.5334/jopd.aj/">Journal of open psychology data</a> where researchers can publish their datasets so to speak. In the near future it might be possible that people specialise in working with data and publishing about it rather that publishing what we understand as research <em>using</em> that data.</p>
+<p>Another trend, closely related to (and I would argue that it is inseperable from) open data, is the growing recognition of the importance of software. Ubiquity Press, for example, publish the <a href="http://openresearchsoftware.metajnl.com/">Journal of open research software</a>. And the <a href="http://www.jstatsoft.org/index">Journal of Statistical Software</a> has been running since 1997. The point is that you cannot really deliver on the promise of reproducible research (which is a prerequisite for useful and reliable open science) unless you share the raw data, the sowftare that produced the results along with the publication. I predict therefore that open research software will soon follow the same path as open data. Or, I hope it will :)</p>
+</body>
+</html>
