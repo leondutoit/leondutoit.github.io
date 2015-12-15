@@ -3,6 +3,10 @@
 
 _2015-12-07, based on a lecture given at the University of Oslo_
 
+It's easy to get discouraged about the state of scientific research at large - stories abound of how terrible life in academia is and much innovation happening in the private sector is locked up behind NDAs and patents. So to counter this general sense that things are not improving I'm comitting this talk I gave about open access data trends to writing because I found myself being cautiously optimistic after doing it. There reall are good things happening and maybe over time it will add up to the necessary change.
+
+### Background
+
 The term open access is most often applied to publications - this is a big topic with its own debates and issues, which we will try to avoid here; our focus is on data. To be precise we will talk about _open access to research data_. Many people prefer to use the term _open data_ since it might help disentangle it from the issues that researchers are dealing with regarding open access publications. Be that as it may, our concern here is to talk about why open data matters and how to act on it.
 
 ### Rationale
