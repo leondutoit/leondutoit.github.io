@@ -3,7 +3,7 @@
 
 _2015-12-07, based on a lecture given at the University of Oslo_
 
-It's easy to get discouraged about the state of scientific research at large - stories abound of how terrible life in academia is and much innovation happening in the private sector is locked up behind NDAs and patents. So to counter this general sense that things are not improving I'm comitting this talk I gave about open access data trends to writing because I found myself being cautiously optimistic after doing it. There reall are good things happening and maybe over time it will add up to the necessary change.
+It's easy to get discouraged about the state of scientific research at large - stories abound of how terrible life in academia is and much innovation happening in the private sector is locked up behind NDAs and patents. So to counter this general sense that things are not improving I'm committing this talk I gave about open access data trends to writing because I found myself being cautiously optimistic after doing it. There really are good things happening and maybe over time it will add up to the necessary change.
 
 ### Background
 
