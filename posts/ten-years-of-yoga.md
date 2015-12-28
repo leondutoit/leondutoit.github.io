@@ -1,5 +1,5 @@
 
-## On yoga
+## Ten years of yoga
 
 _2015-12-27_
 
@@ -61,4 +61,4 @@ Coulter's book has given me a language and framework which I can use to understa
 
 A friend recently asked me what kind of yoga I do and I immediately realised that I had no answer. The sequence of movements and postures that I do at the moment does not correspond to any of the formal systems out there. The progression that I am following does not conform to any of those systems either. That is not to say that what I do is completely unrelated to the yoga systems. Not at all. I do my best to learn as much as I can from them. And I don't restrict my input to yoga systems either. 
 
-My principle is that I will not use any equipment other than a floor. This means I can do it anywhere. Another constraint is that I should be able to finish within 40 minutes.  This means I can do it before work if needed. And the movement or posture should be demonstrably beneficial and have a clear path of progression. As long as I can keep my breath steady and strong and as long as I can understand why I do it, it's all good :)
+My principle is that I will not use any equipment other than a floor. This means I can do it anywhere. Another constraint is that I should be able to finish within 40 minutes.  This means I can do it before work if needed. And the movement or posture should be demonstrably beneficial and have a clear path of progression. As long as I can keep my breathing steady and strong and as long as I can understand why I do it, it's all good :)
