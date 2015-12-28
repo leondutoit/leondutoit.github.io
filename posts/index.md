@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Ten years of yoga](http://leonomics.com/ten-years-of-yoga.html), 2015-12-27
+
 [Trends in open access data](http://leonomics.com/trends-in-open-data.html), 2015-12-07 
 
 [Git for research](http://leonomics.com/git-for-research.html), 2015-11-05
