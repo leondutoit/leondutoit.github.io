@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[A non-experimental investigation of God (and/or religion)](http://leonomics.com/a-non-experimental-investigation-of-god.html), 2016-05-12
+
 [I wanted to write about](http://leonomics.com/i-wanted-to-write-about.html), 2016-03-04
 
 [Ten years of yoga](http://leonomics.com/ten-years-of-yoga.html), 2015-12-27
