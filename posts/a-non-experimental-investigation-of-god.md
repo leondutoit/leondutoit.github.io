@@ -37,39 +37,37 @@ Religion was also mentioned few times which didn't match my feeling of how impor
 
 Why was I so surprised by this? Is there a mismatch between my mental model of the world and the world I inhabit? Is it because I excluded more subtle observations such as people wearing religious clothes, buildings such as churches, synagogues and mosques?
 
-Note: https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/baptism-norske-kirke.jpg
-
 The first thing I saw was this (excuse the blur):
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/religion-gives-safety.jpg)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/religion-gives-safety.jpg)
 
 An interview (in Aftenposten) with someone where the interviewer asked if religion 'gives safety'. The short answer was that it reflects the society you live in. A calm and informed discussion it seems. The second reference came from Facebook and was less calm:
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/threats-to-religion.png)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/threats-to-religion.png)
 
 An unsubstantiated claim with an evocative image - there is no argument or discussion here at all. But it is a good example of the general negative sentiments that I often encouter. The topics it seems to try and address would make for an interesting discussion though. So while we are on the topic of women, free will and free speech we can turn to the next data point.
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/norway-church-gay-marriage.png)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/norway-church-gay-marriage.png)
 
 Turns out that during April the Norwegian Church voted for the acceptance of gay and lesbian marriage in the church. That is evidenc of support for free women, free will and free speech as far as I can tell.
 
 The Norwegian Church, in less significant news, also advertised baptism on the tram in Oslo:
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/baptism-norske-kirke.jpg)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/baptism-norske-kirke.jpg)
 
 It shows a female priest - slight evidence of diversity. Continuing with diversity as a theme, another data point, this time from my algorithmic Facebook feed, also pointed to more acceptance of LGBT+ people.
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/pope-urges-acceptance-gay.png)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/pope-urges-acceptance-gay.png)
 
 I am close to completely ignorant about the details of the Catholic church and its policies, so I will not attempt to spell out the details of what this means. But it is a positive data point that argues against the unsubstantiated claim that "free women, free will and free speech" threaten religion. It seems like it really isn't that simple and that free women are using their free will to reform religions from within.
 
 While we are talking about catholicism, another surprising observation was how much coverage the Catholic church got. When I am not in observational mode their activies don't even register to me. Seems like I just don't care to notice normally. This Catholic data point was enountered on BBC:
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/pope-migrants.png)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/pope-migrants.png)
 
 Seems quite positive to me. A more in depth article about the relationship between the Catholic church and China appeared in The Economist:
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/catholicism-china.jpg)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/catholicism-china.jpg)
 
 This one is a bit more political which brings us to the next observation: the interaction between religion and politics.
 
@@ -77,13 +75,13 @@ The president of South Africa, Jacob Zuma, has long since been accused by the pu
 
 What followed was public outrage, once more, and attempts to impeach Zuma (which failed due to the fact that the ANC voted against it in parliament, where they hold a majority of the seats). So then one day on Twitter I saw that Zwelenzima Vavi tweeted about a statement released by the National Religious Leaders Council:
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/vavi-religious-leaders-zuma.png)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/vavi-religious-leaders-zuma.png)
 
 The statement by the inter-faith NRLC supported the outrage by declaring that Zuma's actions undermined his moral authority. I for one agree with them. And I think this is a great example of how religion can play a positive role in the broader political process.
 
 The second political data point came from the same Economist issue that presented the Catholic articles. This was about nationalist movements in India.
 
-![](file:///Users/leondutoit/leondutoit.github.io/posts/media/india-hinduism-nationalism.jpg)
+![](https://raw.githubusercontent.com/leondutoit/leondutoit.github.io/master/posts/media/india-hinduism-nationalism.jpg)
 
 It was a report about how a nationalist movement had adopted Hindu mythology to fuel its cause. This proves a bit exclusionary for the large part of the Indian population that is not Hindu. And so this is a good example of a terrible kind of religiousity: nationalistic nonsense. Let's hope it is replaced by something more inclusionary.
 
