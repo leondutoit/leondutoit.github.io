@@ -7,7 +7,7 @@ infile=$1
 mv $infile $infile.temp
 
 cat $infile.temp |
-    sed 's/div class="figure"/figure/g' |
-    sed 's/div/figure/g' > $infile
+    sed "s/<div class=\"figure\">/<figure>/g" |
+    sed "s/<\/div>/<\/figure>/g" > $infile
 
 rm  $infile.temp
