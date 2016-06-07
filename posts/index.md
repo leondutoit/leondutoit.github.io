@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Climbing progression in perspective](http://leonomics.com/climbing-progression-in-perspective.html), 2016-06-06
+
 [A non-experimental investigation of God (and/or religion)](http://leonomics.com/a-non-experimental-investigation-of-god.html), 2016-05-12
 
 [I wanted to write about](http://leonomics.com/i-wanted-to-write-about.html), 2016-03-04
