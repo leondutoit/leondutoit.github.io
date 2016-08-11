@@ -43,7 +43,7 @@ knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/boulderi
 
 If the unmoved mover lacked the element of height then Beyond good and evil more than made up for it. You can't ask for more than this: amazing setting, bullet sandstone, tricky and powerful climbing with a serious topout.
 
-```{r echo=FALSE, out.width='80%', fig.cap = "Beyond good an evil, 7c - this line has the full experience: a difficult sit-start leading into technical arete climbing involving crimping, heel-hooking and compression followed by a reachy but positive toupout 7m above the ground. This FA meant a lot to me. What a privilege to be able to experience something like this."}
+```{r echo=FALSE, out.width='80%', fig.cap = "Beyond good and evil, 7c - this line has the full experience: a difficult sit-start leading into technical arete climbing involving crimping, heel-hooking and compression followed by a reachy but positive toupout 7m above the ground. This FA meant a lot to me. What a privilege to be able to experience something like this."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/beyond-good-and-evil.jpg'))
 ```
 
