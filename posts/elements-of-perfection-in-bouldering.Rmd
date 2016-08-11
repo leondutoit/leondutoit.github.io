@@ -19,7 +19,7 @@ The beauty of the area, the more immediate setting (vegetation, rivers, surround
 
 ## Finding
 
-To identify potential areas to explore one can use technologies like Google Earth in combination with local knowledge, but you never know for sure until you stand in front of the boulder. So to find boulders that conform to the aesthetic and athletic ideals explained above one has to, quite simply, walk and look for it^[This obviously does not apply to areas where guides exist.]. 
+To identify potential areas to explore one can use technologies like Google Earth in combination with local knowledge, but you never know for sure until you stand in front of the boulder. So to find boulders that conform to the aesthetic and athletic ideals explained above one has to, quite simply, walk and look for it (this obviously does not apply to areas where guides exist). 
 
 Most of the time you will look at boulders that are too easy, too difficult or fail to meet some other crucial criteria for further attention. So to find the gems, those that have enough of the elements of perfection you have to be willing to walk. In fact, given how much time and energy it takes, you have to more than just _willing_ to walk, you have to positively enjoy the process of searching. 
 
@@ -29,7 +29,7 @@ Returning to these areas over and over eventually allows you to create a mental 
 
 ## Doing
 
-On the last day of the trip I managed to do the first ascent of Die boogskutter^[The archer.]. We first tried it about 10 years ago when we started climbing in the area. At that time we had not yet optimised the approach so it was more than an hour's walk. Now that we know a better way it has become much more approachable and has seen probably four sessions in total. It's a proud and powerful line on perfect sandstone.
+On the last day of the trip I managed to do the first ascent of Die boogskutter (the archer). We first tried it about 10 years ago when we started climbing in the area. At that time we had not yet optimised the approach so it was more than an hour's walk. Now that we know a better way it has become much more approachable and has seen probably four sessions in total. It's a proud and powerful line on perfect sandstone.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Die boogskutter, 7c+ - about 13 moves in total. It starts with a series of compression undercling moves which traverse into steep overhanging arete climbing on positive holds. The topout sequence is the crux: you move into a full extension lockoff from a strange position all the way up to a terrible 1/4 digit crimp; after which you make a big move with the right hand to an OK hold. And the topout is not a giveaway either."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/boogskutter.png'))
@@ -59,13 +59,13 @@ After a good fight with the problem Jeanrich did the FA of Die sondvloed. This i
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/sondvloed.jpg'))
 ```
 
-During the last few months Jurie, Jeanrich and Unio had been actively searching for new projects to climb^[As they always do.] and happened upon the boulder that would later host the line called Morphic resonance - a proud line with intense climbing on a ~25 degree overhanging face. Doing this FA was another amazing moment for me. I look forward to seeing it again when the vegatation has started its recovery after the fire.
+During the last few months Jurie, Jeanrich and Unio had been actively searching for new projects to climb (as they always do) and happened upon the boulder that would later host the line called Morphic resonance - a proud line with intense climbing on a ~25 degree overhanging face. Doing this FA was another amazing moment for me. I look forward to seeing it again when the vegatation has started its recovery after the fire.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Morphic resonance, 7c+ - this is a complete line. Sit start, tall, with consistent climbing all the way. It starts with some tricky footwork which quickly escalates into heavy crimping. Then you have to move to the right and up which involves bumping your right hand down onto a shitty open hand press hold before doing a dynamic move to an open handed catch. Then you have to manage your wide arm position and climb into the topout sequence which has more big moves on crimps. "}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/morphic-resonance1.jpg'))
 ```
 
-Another line that offers an amazing variety is Die kompoun^[The meaning and the origin of the term is unfortunately beyond the scope of this piece of writing.]. Right at the end of a day's climbing Jeanrich pulled off a first ascent of this unlikely boulder. The more difficult exit to the right will have to wait until the next session.
+Another line that offers an amazing variety is Die kompoun (the meaning and the origin of the term is unfortunately beyond the scope of this piece of writing). Right at the end of a day's climbing Jeanrich pulled off a first ascent of this unlikely boulder. The more difficult exit to the right will have to wait until the next session.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die kompoun, 7b+ - starting with compression moves in a steep roof, climbing into strange open-handed huecos and topping out with a technical slab. Die kompoun!"}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/kompoun.jpg'))
@@ -77,19 +77,19 @@ On some of the days Karlien joined us. She flashed the beautiful Oil painting ar
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/oil-arete.jpg'))
 ```
 
-I feel like I'm running out of words to describe all the incredible boulders we did, so I'll just be blunt for a change: here's a picture of Jurie climbing Die mensvretergees^[The cannibal spirit.] - another awesome line.
+I feel like I'm running out of words to describe all the incredible boulders we did, so I'll just be blunt for a change: here's a picture of Jurie climbing Die mensvretergees (the cannibal spirit) - another awesome line.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die mensvretergees, 7b - delicate and committing face climbing on small crimps. Perfect stone and setting."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/mensvretergees.jpg'))
 ```
 
-Of course there was also time to indulge in less difficult first ascents too. A memorable one for me was Die handlanger^[The helper (the translation loses the pun contained in the Afrikaans term).].
+Of course there was also time to indulge in less difficult first ascents too. A memorable one for me was Die handlanger (the helper).
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die handlanger, 7a+ - setting up for the sideways slab dyno - only one foot stays on for the dyno. Weird movement but incredibly satisfying. And such a perfect line - you do a jump start to the only hold on the gently on-hanging face and dyno to the slanted arete from there. Crazy."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/handlanger1.jpg'))
 ```
 
-One of my all-time favourites is the beautiful Die slang se resiprook^[The snake's reciprocal.].
+One of my all-time favourites is the beautiful Die slang se resiprook (the snake's reciprocal).
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die slang se resiprook, 6b+ - although not difficult it is perfect in every way. I can't wait to do it again."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/slang-se-resiprook.jpg'))
@@ -185,7 +185,7 @@ Other worthwhile approaches to naming involve referencing literature, philosophy
 
 ## Remembering
 
-The way you remember things is closely related to how you describe them and talk about them. If you pay attention to the many facets of the bouldering experience and if you cultivate a nuanced vocabulary for describing these experiences you will be lucky to have rich memories of your ascents and your attempts. You will be lucky to avoid simplistic and generic experiences that are disconnected from the landscape and the context^[Crushed another sick rig; made quick work of bla; 10 minutes; should have flashed it; low-end whatever, #betterThanYou, #validateMe.].
+The way you remember things is closely related to how you describe them and talk about them. If you pay attention to the many facets of the bouldering experience and if you cultivate a nuanced vocabulary for describing these experiences you will be lucky to have rich memories of your ascents and your attempts. You will be lucky to avoid simplistic and generic experiences that are disconnected from the landscape and the context. Crushed another sick rig; made quick work of bla; 10 minutes; should have flashed it; low-end whatever, #betterThanYou, #validateMe.
 
 Developing your capacity to experience and describe your climbing experiences, via its impact on your memories and subsequent conversations, also affects the structure and the sustainability of your motivation. 
 
