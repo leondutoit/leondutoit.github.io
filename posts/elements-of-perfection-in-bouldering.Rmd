@@ -12,6 +12,7 @@ library(tufte)
 # invalidate cache when the tufte version changes
 knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
 ```
 
 The beauty of the area, the more immediate setting (vegetation, rivers, surrounding boulders), the characteristics of the base, the colours and shapes of the boulder, the solidity and friction of the rock, the shapes of the holds, the types and variety of holds, a consistent start, middle and end, the size of the boulder, the nature of the movement implied by line, the physical and mental challenge. These are the qualities I look for in a line. They were the qualitites that inspired me during the month of July while bouldering in the Western Cape.
@@ -31,73 +32,73 @@ Returning to these areas over and over eventually allows you to create a mental 
 On the last day of the trip I managed to do the first ascent of Die boogskutter^[The archer.]. We first tried it about 10 years ago when we started climbing in the area. At that time we had not yet optimised the approach so it was more than an hour's walk. Now that we know a better way it has become much more approachable and has seen probably four sessions in total. It's a proud and powerful line on perfect sandstone.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Die boogskutter, 7c+ - about 13 moves in total. It starts with a series of compression undercling moves which traverses into steep overhanging arete climbing on positive holds. The topout sequence is the crux: you move into a full extension lockoff from a strange position all the way up to a terrible 1/4 digit crimp; after which you make a big move with the right hand to an OK hold. And the topout is not a giveaway either."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/boogskutter.png')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/boogskutter.png'))
 ```
 
 Going back in time a bit, on the first day of the trip I managed to do the FA of another long-term project of mine: The unmoved mover. I've been trying this on and off for the last couple of years and it was cool to finally stick the crux - I have no idea how many tries it took before I could stick it but it felt like a revelation to finally do. The boulder offers an interesting mixture of explosive climbing and subtlety: heel-toe cams on the edge, marginal slopers on pitch black rock.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "The unmoved mover, 7c+ - 6 moves in total with an extremely low percentage crux move: a dyno from a sloper and a crimp on a strangely overhanging arete to another alright one-digit crimp."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/unmoved-mover1.png')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/unmoved-mover1.png'))
 ```
 
 If the unmoved mover lacked the element of height then Beyond good and evil more than made up for it. You can't ask for more than this: amazing setting, bullet sandstone, tricky and powerful climbing with a serious topout.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Beyond good an evil, 7c - this line has the full experience: a difficult sit-start leading into technical arete climbing involving crimping, heel-hooking and compression followed by a reachy but positive toupout 7m above the ground. This FA meant a lot to me. What a privilege to be able to experience something like this."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/beyond-good-and-evil.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/beyond-good-and-evil.jpg'))
 ```
 
 A couple of days later, and just around the corner of Beyond good and evil, Jurie sent The power of madness.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "The power of madness, 7c - a complete line with consistently subtle and core-intensive climbing from start to finish. This is an unforgiving climb that throws you off the moment you make a mistake. And the aesthetics of the line are near perfect: colours, rock quality, setting - it's all there."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/power-of-madness.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/power-of-madness.jpg'))
 ```
 
 After a good fight with the problem Jeanrich did the FA of Die sondvloed. This is one of those lines we first thought would be _really_ difficult and maybe out of reach but a while ago Jeanrich and Jurie started trying it anyway. To our surprise all the moves went pretty fast which eventually led to the send. The best strategy in the long term is to try the lines that inspire you, no matter what the apparent difficulty.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die sondvloed, 7c - 10 powerful moves on compact and overhanging sandstone. This line is difficult to photograph because you climb out from behind a boulder into the topout sequence. Be that as it may it has a great mixture of footwork and body power climbing. And beautiful colours too."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/sondvloed.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/sondvloed.jpg'))
 ```
 
 During the last few months Jurie, Jeanrich and Unio had been actively searching for new projects to climb^[As they always do.] and happened upon the boulder that would later host the line called Morphic resonance - a proud line with intense climbing on a ~25 degree overhanging face. Doing this FA was another amazing moment for me. I look forward to seeing it again when the vegatation has started its recovery after the fire.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Morphic resonance, 7c+ - this is a complete line. Sit start, tall, with consistent climbing all the way. It starts with some tricky footwork which quickly escalates into heavy crimping. Then you have to move to the right and up which involves bumping your right hand down onto a shitty open hand press hold before doing a dynamic move to an open handed catch. Then you have to manage your wide arm position and climb into the topout sequence which has more big moves on crimps. "}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/morphic-resonance1.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/morphic-resonance1.jpg'))
 ```
 
 Another line that offers an amazing variety is Die kompoun^[The meaning and the origin of the term is unfortunately beyond the scope of this piece of writing.]. Right at the end of a day's climbing Jeanrich pulled off a first ascent of this unlikely boulder. The more difficult exit to the right will have to wait until the next session.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die kompoun, 7b+ - starting with compression moves in a near-horizontal roof, climbing into strange open-handed huecos and topping out with a technical slab. Die kompoun!"}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/kompoun.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/kompoun.jpg'))
 ```
 
 On some of the days Karlien joined us. She flashed the beautiful Oil painting arete with ease.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Oil painting arete, 6b - a beautiful arete on some of the most compact sandstone the Western Cape has to offer. Amazing patterns in the rock."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/oil-arete.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/oil-arete.jpg'))
 ```
 
 I feel like I'm running out of words to describe all the incredible boulders we did, so I'll just be blunt for a change: here's a picture of Jurie climbing Die mensvretergees^[The cannibal spirit.] - another awesome line.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die mensvretergees, 7b - delicate and committing face climbing on small crimps. Perfect stone and setting."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/mensvretergees.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/mensvretergees.jpg'))
 ```
 
 Of course there was also time to indulge in less difficult first ascents too. A memorable one for me was Die handlanger^[The helper (the translation loses the pun contained in the Afrikaans term).].
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die handlanger, 7a+ - setting up for the sideways slab dyno - only one foot stays on for the dyno. Weird movement but incredibly satisfying. And such a perfect line - you do a jump start to the only hold on the gently on-hanging face and dyno to the slanted arete from there. Crazy."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/handlanger1.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/handlanger1.jpg'))
 ```
 
 One of my all-time favourites is the beautiful Die slang se resiprook^[The snake's reciprocal.].
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Die slang se resiprook, 6b+ - although not difficult it is perfect in every way. I can't wait to do it again."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/slang-se-resiprook.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/slang-se-resiprook.jpg'))
 ```
 
 Having fun on the Ietermagog.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Die ietermagog, 7a - sloping arete weirdness."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/ietermagog.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/ietermagog.jpg'))
 ```
 
 ## Trying
@@ -107,65 +108,65 @@ Most of the time though, bouldering consists of _trying_. Trying to climb the li
 Every other year since 2010 I go and try the Oil painting project. The crux on this project is the first of two dynos. I've never been able to stick it, although this year I held onto the hold for about a second before coming off. That's progress!
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "The oilpainting - a non-trivial sit-start sequence leads you into two consecutive dynos: the first dyno takes you from marginal feet and hand holds into a three-finger pocket right in the middle of the face. This move is _very_ low percentage. You have to jump _just_ far enough to get three fingers into it. And even then the fight isn't over until you manage to contol the latch. After that you have to let go with your right hand and do a huge one-armed dyno from small feet all the way to the top. My goodness, what a perfect line."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/oilpainting2.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/oilpainting2.jpg'))
 ```
 
 Another project Jurie and I tried one afternoon must rank in my top 5 boulders ever. Let's start with the setting:
 
 ```{r echo=FALSE, fig.fullwidth=TRUE}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/skepe-proj3.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/skepe-proj3.jpg'))
 ```
 
 Immacualte. The entire line is a series of awkwardly angled sloping rails. This is one of those lines that you can't just overpower - you have to climb well to do it.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Jurie getting involved."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/skepe-proj2.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/skepe-proj2.jpg'))
 ```
 
 There is also a sit-start version, which is going to be a little more serious.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Jurie exploring the more difficult sit-start."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/skepe-proj1.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/skepe-proj1.jpg'))
 ```
 
 Lines like this don't come along very often. Perfect base, beautiful setting, tall, consistent climbing, challenging, amazing sandstone. What more do you want? I guess another one that's just as inspiring is one answer to that. And that's exactly what we found.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Trying to understand the movements and what it will take to do it. This will be about 10 moves in total, from the sit to the topout. And none of them are easy."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/nulle-proj-voor2.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/nulle-proj-voor2.jpg'))
 ```
 
 Some projects offer powerful sequences in steep overhangs.
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "This is going to be a 2-move dyno problem in a 45 degree roof. Here Unio is trying to establish on the start. The feet are almost non-existent and the hand holds are small and strange. It's going to be game-on from the start."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/sky-ish-proj.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/sky-ish-proj.jpg'))
 ```
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Jurie setting up for the crux move. This is such a pure line: 4 moves, all of them difficult on small crimps, in a 45 degree roof ending in a dyno to the lip. I remember when I first saw this (about 10 years ago, while exploring in the rain) thinking to myself - ah it's a pity that it doesn't have a sit-start. It's interesting to see how your persepective changes over time. The seemingly impossible becomes probable."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/godwording.png')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/godwording.png'))
 ```
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Jeanrich moving into the crux sequence on the span roof project: with a left heel and a right hand pinch in the 45 degree roof you move to a tiny 1/3 digit crimp with your left hand; then you move your left heel to a toe and do a huge strecth with the left hand to another more positive pinch. At this point you need to resist the urge to cut loose and do a cross-over with the right hand to another positive hold. And then comes the cutloose."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/span-roof-proj.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/span-roof-proj.jpg'))
 ```
 
 Other projects offer slopey rail traverses with lots of body power.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Jurie enjoying the rail."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/rail-proj.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/rail-proj.jpg'))
 ```
 
 And then there are compression projects.
 
 ```{r echo=FALSE, out.width='100%', fig.cap = "Jurie on the Mensdier project - a proud and tall arete with compression moves all the way."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/mensdier.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/mensdier.jpg'))
 ```
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Trying the Ondier project - this is another long-standing project. It seems very doable but quickly gets really difficult and off-balance. What a beauty though."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/ondier-proj.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/ondier-proj.jpg'))
 ```
 
 ```{r echo=FALSE, out.width='80%', fig.cap = "Trying Magic wallet - the first move on this line is the most difficult. On the right side you get an OK open hand hold and a compression heel-hook but on the left you have a barely there feature to compress on with your hand and a similarly marginal feature to press with your foot. From there you have to launch to the edge into a full-span compression position. Then you wrestle your way to the top."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/magic-wallet.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/magic-wallet.jpg'))
 ```
 
 Such an amazing diversity of movement and aesthetics.
@@ -173,7 +174,7 @@ Such an amazing diversity of movement and aesthetics.
 ## Naming
 
 ```{r echo=FALSE, fig-margin-separate, fig.margin=TRUE, fig.cap = "Baba Yaumi's ad in the Daily Sun."}
-knitr::include_graphics('/Users/leondutoit/leondutoit.github.io/posts/media/bouldering/baba.jpg')
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/baba.jpg'))
 ```
 
 Naming things is a uniquely human activity and the proces of doing so is worth consideration. Giving a good or appropriate name is also difficult. There are many approaches to naming boulders. Let's take Magic wallet as an example.
