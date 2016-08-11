@@ -23,7 +23,7 @@ To identify potential areas to explore one can use technologies like Google Eart
 
 Most of the time you will look at boulders that are too easy, too difficult or fail to meet some other crucial criteria for further attention. So to find the gems, those that have enough of the elements of perfection you have to be willing to walk. In fact, given how much time and energy it takes, you have to more than just _willing_ to walk, you have to positively enjoy the process of searching. 
 
-Engaging in the process of searching is itself intensely rewarding. By immersing yourself into the landscapes you get to know them in extraodinary detail. Each area has it own characteristic features - some are more mountainous, others have lush vegetation and mazes of rock, others combine steep slopes with intermittent plateaus, some areas are freshly burnt after forest fires and some of the best areas require non-trivial river crossings during the winter. 
+Engaging in the process of searching is itself intensely rewarding. By immersing yourself into the landscapes you get to know them in extraordinary detail. Each area has it own characteristic features - some are more mountainous, others have lush vegetation and mazes of rock, others combine steep slopes with intermittent plateaus, some areas are freshly burnt after forest fires and some of the best areas require non-trivial river crossings during the winter. 
 
 Returning to these areas over and over eventually allows you to create a mental map - the atmosphere, the details of the approach to the boulders, the nature of the vegetation and eventually the sequences of the boulders themselves. It provides a complete experience that goes beyond _just_ doing a climb.
 
@@ -31,13 +31,13 @@ Returning to these areas over and over eventually allows you to create a mental 
 
 On the last day of the trip I managed to do the first ascent of Die boogskutter^[The archer.]. We first tried it about 10 years ago when we started climbing in the area. At that time we had not yet optimised the approach so it was more than an hour's walk. Now that we know a better way it has become much more approachable and has seen probably four sessions in total. It's a proud and powerful line on perfect sandstone.
 
-```{r echo=FALSE, out.width='100%', fig.cap = "Die boogskutter, 7c+ - about 13 moves in total. It starts with a series of compression undercling moves which traverses into steep overhanging arete climbing on positive holds. The topout sequence is the crux: you move into a full extension lockoff from a strange position all the way up to a terrible 1/4 digit crimp; after which you make a big move with the right hand to an OK hold. And the topout is not a giveaway either."}
+```{r echo=FALSE, out.width='100%', fig.cap = "Die boogskutter, 7c+ - about 13 moves in total. It starts with a series of compression undercling moves which traverse into steep overhanging arete climbing on positive holds. The topout sequence is the crux: you move into a full extension lockoff from a strange position all the way up to a terrible 1/4 digit crimp; after which you make a big move with the right hand to an OK hold. And the topout is not a giveaway either."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/boogskutter.png'))
 ```
 
 Going back in time a bit, on the first day of the trip I managed to do the FA of another long-term project of mine: The unmoved mover. I've been trying this on and off for the last couple of years and it was cool to finally stick the crux - I have no idea how many tries it took before I could stick it but it felt like a revelation to finally do. The boulder offers an interesting mixture of explosive climbing and subtlety: heel-toe cams on the edge, marginal slopers on pitch black rock.
 
-```{r echo=FALSE, out.width='100%', fig.cap = "The unmoved mover, 7c+ - 6 moves in total with an extremely low percentage crux move: a dyno from a sloper and a crimp on a strangely overhanging arete to another alright one-digit crimp."}
+```{r echo=FALSE, out.width='100%', fig.cap = "The unmoved mover, 7c+ - 6 moves in total with an extremely low percentage crux move: a dyno from a sloper and a crimp on a strangely overhanging arete to a flat one-digit hold."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/unmoved-mover1.png'))
 ```
 
@@ -67,7 +67,7 @@ knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/boulderi
 
 Another line that offers an amazing variety is Die kompoun^[The meaning and the origin of the term is unfortunately beyond the scope of this piece of writing.]. Right at the end of a day's climbing Jeanrich pulled off a first ascent of this unlikely boulder. The more difficult exit to the right will have to wait until the next session.
 
-```{r echo=FALSE, out.width='80%', fig.cap = "Die kompoun, 7b+ - starting with compression moves in a near-horizontal roof, climbing into strange open-handed huecos and topping out with a technical slab. Die kompoun!"}
+```{r echo=FALSE, out.width='80%', fig.cap = "Die kompoun, 7b+ - starting with compression moves in a steep roof, climbing into strange open-handed huecos and topping out with a technical slab. Die kompoun!"}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/kompoun.jpg'))
 ```
 
@@ -145,7 +145,7 @@ knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/boulderi
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/godwording.png'))
 ```
 
-```{r echo=FALSE, out.width='100%', fig.cap = "Jeanrich moving into the crux sequence on the span roof project: with a left heel and a right hand pinch in the 45 degree roof you move to a tiny 1/3 digit crimp with your left hand; then you move your left heel to a toe and do a huge strecth with the left hand to another more positive pinch. At this point you need to resist the urge to cut loose and do a cross-over with the right hand to another positive hold. And then comes the cutloose."}
+```{r echo=FALSE, out.width='100%', fig.cap = "Jeanrich moving into the crux sequence on the span roof project: with a left heel and a right hand pinch in the 45 degree roof you move to a tiny 1/3 digit crimp with your left hand; then you move your left heel to a toe and do a huge stretch with the left hand to another more positive pinch. At this point you need to resist the urge to cut loose and do a cross-over with the right hand to another positive hold. And then comes the cutloose."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bouldering/span-roof-proj.jpg'))
 ```
 
@@ -181,10 +181,12 @@ Naming things is a uniquely human activity and the proces of doing so is worth c
 
 Magic wallet is located at the Baba Yaumi sector. I enjoy buying tabloid newspapers every now and again to get in touch with the man in the street's mind. As we can see getting help from herbalists to solve financial and personal problems is very much on the mind of the Daily Sun's readers. We were reading through this on the same day that we found the sector containing the Magic wallet prow. And so we decided to name the sector after the legendary Baba Yaumi. And from now on the lines we do can be named after Baba's wonderful offerings: Boosting your church, delete your account, hire magic stick fast - all problems waiting to be climbed and named :)
 
-Other worthwhile approaches to naming involve referencing literature, philosophy, politics or connecting with shapes and features of boulders. Sometimes a specific movement provides inspiration. A beautiful boulder that climbs well deserves a good name and there is a certain amount of satisfaction when you manage to find one.
+Other worthwhile approaches to naming involve referencing literature, philosophy, politics or connecting with shapes and features of boulders. Sometimes a specific movement provides inspiration. Sometimes though some silly wordplay suffices. A beautiful boulder that climbs well deserves a good name and there is a certain amount of satisfaction when you manage to find one.
 
 ## Remembering
 
-The way you remember things is closely related to how you describe them and talk about them. If you pay attention to the many facets of the bouldering experience and if you cultivate a nuanced vocabulary for describing these experiences you will be lucky to have rich memories of your ascents and your attempts. You will be lucky to avoid simplistic and generic experiences that are disconnected from the landscape and the context^[Crushed another sick rig; made quick work of this soft 8a; 10 minutes; should have flashed it; low-end whatever, #betterThanYou, #validateMe.].
+The way you remember things is closely related to how you describe them and talk about them. If you pay attention to the many facets of the bouldering experience and if you cultivate a nuanced vocabulary for describing these experiences you will be lucky to have rich memories of your ascents and your attempts. You will be lucky to avoid simplistic and generic experiences that are disconnected from the landscape and the context^[Crushed another sick rig; made quick work of bla; 10 minutes; should have flashed it; low-end whatever, #betterThanYou, #validateMe.].
 
-Developing your capacity to experience and describe your climbing experiences, via its impact on your memories and subsequent conversations, also affects the structure and the sustainability of your motivation. After the month of July I feel overwhelmed with inspiration to train and improve so that I can return to my projects and continue the search for the many elements of perfection in bouldering.
+Developing your capacity to experience and describe your climbing experiences, via its impact on your memories and subsequent conversations, also affects the structure and the sustainability of your motivation. 
+
+After the month of July I feel overwhelmed with inspiration to train and improve so that I can return to my projects and continue the search for the many elements of perfection in bouldering.
