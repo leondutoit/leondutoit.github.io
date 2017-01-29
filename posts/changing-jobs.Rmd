@@ -1,0 +1,71 @@
+
+---
+title: "Changing jobs"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+About a year and a half ago I started working at the [University of Oslo's Center for Information Technology](http://www.usit.uio.no/english/). I started there after spending three years at [Telenor Digital](https://portal.telenordigital.com/). I feel like it's time to write and reflect about my choice to leave and my current situation.
+
+## Why I left
+
+Telenor Digital was good to me. It was my first job in Norway in addition to being my first job working as a technologist. I was hired as a data scientist into the analytics team. Back then Telenor Digital was called Comoyo which was a Telenor internal startup incubator. The idea was to create digital services and a digitally native culture, for lack of a better description, in order to transform the telco from within. Basically Telenor's attempt to solve the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma).
+
+The analytics system which our team was maintaining and developing had been designed and built by consultants (friends of the founders) who were no longer there. In retrospect it looks like their technology choices were driven by their interests in emerging cloud and big data technologies like AWS and Hadoop rather than serving current needs. The team, including the tech lead, had been hired under the impression that there was a production quality service already running and that the mandate was to do analytics on data. That is, to use statistics and machine learning to create product insights. The reality, however, was that the system was at best pre-alpha. It wouldn't be a wrong to say that it was a monstrosity.
+
+Not only was the system pre-alpha, we soon found out that it was producing incorrect statistics - using complex and untested code. We responded sensibly: removing all wrong statistics, refactoring code, adding tests and working towards a production quality codebase. We also added a proper build and deployment pipeline. At the same time we had to nurse the system to keep it alive: many a Saturday was spent removing duplicate data from Hive tables.
+
+The organisational problem, however, was that we were _removing_ features. And this came at a time when the flagship product of the company was really taking off. We simply couldn't deliver the analytics features they needed for product development. The sad result was that we were battling to maintain trust and buy-in, while we were doing the right thing.
+
+This is not to say that we didn't develop great things during the time. We had an awesome team. We could speak our minds without fear and we were learning from each other every day. Not a single day went by for three years that I didn't learn something new and that is not an exaggeration.
+
+Anyways, when the flagship product failed the company was restructured and we had some breathing space to get closer to delivering real analytics. Having shaken much of the technical debt that we started with we were set to provide product insights to the in-house development teams. And that we did. We did this using exciting new tech: AWS cloudformation, Elastic MapReduce, Redshift, RDS, d3 and more. We coded in Java, Clojure, ClojureScript, Javascript, Python, R, SQL and bash. We also relied heavily on PostgreSQL - less trendy but absolutely incredible software to work with.
+
+During the last year and a half at Telenor Digital I was part of really succesful efforts. But I couldn't shake the feeling that I was working on something I didn't really care about. Of course I cared about my work, about creating an efficient analytics platform and generating actionable insights for people, but the end-goal didn't match with my passions. I didn't care about fashion apps, video streaming or instant messaging innovations. So I searched for something where I could solve problems I cared about by doing challenging technical work. This led me to choose the Department of Research Services at the University of Oslo's Centre for IT with the aim of making a contribution to research.
+
+## USIT
+
+My new job is about solving research data problems, at the Norwegian and the European level. Before I elaborate on what I actually do let's consider the meaning of "research data problems". It is helpful to distiguish between problems arising from data _use_ and those that arise from data _reuse_.
+
+The simplest data use example in science is that of the lone researcher trying to test a hypothesis. Let's say it is possible to generate experimental data. Experiments are conducted, measurements are made and by some or other instrument digital data are created that represent these measurements. This can be considered raw data. One of the first challenges that all researchers face at this point is to reshape data into a format ready for analysis. This is true regardless of the size of the data. If there were more data than a single computer could easily handle it would add to the challenge. Additional complications are typical: perhaps data are observational instead of experimental and require large and expensive physical instruments to generate observations. This would make data capture challenging. Maybe data transport too. Maybe the data is sensitive in some sense so that encryption and special networking is required. To enhance the productivity of researchers in these data use tasks is one of the problem domains I work in.
+
+The bigger scientific project, that of creating knowledge to the benefit of society at large, adds yet more data chalenges to deal with. Without falsifiability scientific claims are essentially just guess-work. So to make good on that promise it helps to do data work in reproducible ways. This means that, where reproducing raw data is too costly or impossible, the raw data needs to be archived safely to ensure reproducible results. And researchers need workflows that can be understood by others after the time they publish their results. This calls for more software and services to be developed to aid this process. There is yet another possible benefit from data preservation: that other scientists can reuse data in new ways to aid new discoveries. This is usually called the long tail of science. These challenges are made more difficult by collaborations across national boundaries, with different funding agencies, each with their own legal requirements. This is the other domain I work in.
+
+## Research data services
+
+Norway has strict regulations about doing research with sensitive data (e.g. medical data). USIT provides a service that fulfills all legal requirements for doing research with sensitive data - a heavily sandboxed area which gives researchers virtual machines, access to a High Performance Computing (HPC) cluster, up to Petabytes of storage if needed and more. In collaboration with the web development group it is possible to build mobile apps and use web forms to collect data from patients and tranfer it, in encrypted format, into the secure research location.
+
+When I started working there this was implemented by generating PGP encrypted files - one for each response to a set of questions and copying those files over to the researchers' work area. The problem was that this was not a very research friendly way to get your data. So I made a tool that would decrypt and organise the data into a research-ready format.
+
+The other problem with this way of collecting data is that generating and transferring files does enable real-time application development in a clean way. So then I made a REST API which allows trusted external developers, like the web development team, to send data into the secure research via HTTP, instead of generating and transferring files. This allows us to store data in a database, decrypt it in real time and to build other useful applications on top of the API.
+
+To date, the data management and decryption tool has been successfully deployed to 22 research projects and the API is being deployed into its first two projects. This work has been probably the most satisfying of the job so far - it makes a clear impact on research and aligns perfectly with the reason why I took the job.
+
+## The long tail of science
+
+The European Commission is trying very hard to deliver on the promises of the long tail of science (the potential benefits of data reuse). In general they do this by funding pan-European research projects. Funding projects like FP7 and Horizon 2020 provide millions of Euros for the development of research infrastructures, e-Infrastructures and research projects in general. A research infrastructure is IT infrastructure dedicated to the advancement of research within a specific field, such as environmental studies. An example would be to build a network of observatories for measuring carbon levels in the atmosphere. e-Infrastructures are generic IT services typically used by researchers and research infrastructures to enable research in various domains. Example services offered by e-Infrastructures include grid computing, data replication and data and metadata archiving.
+
+Via [Sigma2](https://www.sigma2.no/), Norway's University network organisation, I am participating in [EUDAT](https://eudat.eu/), an EC funded e-Infrastructure project. EUDAT is a project run by 30+ scientific computing centres and communities to build collaborative data management services for Europe. These services include: data archival, metadata storage and search, data replication, authentication and authorization and more. I am involved in two work areas: 1) leading the task for describing the European research data landscape (speaking to representatives of large research infrastructures about how they manage data) and 2) coordinting the operations of the authentication, authorization and identity management service.
+
+The task of describing and analysing the European research data and computing landscape is a strategic one within EUDAT. We interview technical and organisational representatives of pan-European research infrastuctures to understand their current data management practices and challenges. We collect these interviews into reports which help steer technical and organisational decision making within EUDAT. In so far as the European Commission reads it (who knows?) it could also help them understand what is going on with research data infrastructures in Europe. Coording operations is what it is: email, meetings, talking to people.
+
+## People problems
+
+My biggest problem with my work environment, both at USIT and in EUDAT is with the way teams are organised and managed. This is not true for all development teams at USIT but during my time there all of the software I've developed has been on my own, with occasional design input and feedback from other developers. I have been in close contact with the end-users throughout but I am the only one who understands how these systems work in a detailed way. This is bad in at least two ways: firstly, I don't learn from others and secondly I become a single point of failure when the inevitable bug turns up in production or when something I cannot predict goes wrong - this is also irresponsible from a service level point of view. I have explained this many times to my superiors but they have not been able to do anything about it.
+
+In EUDAT the development issues are much worse. Teams consist of people from different countries and organisations who spend a limited part of their total work hours on the tasks. This makes it difficult to gain development velocity so response times are very slow. Development teams are typically also not in direct contact with the end-users which means that trouble tickets take a long time to be addressed. But since the bosses of the development teams are not the bosses of the developers in any real sense (they are not their line managers) stricter development discipline cannot be enforced. And the whole project is being run in a non-agile way, which doesn't help. Thankfully I am not in a development team in EUDAT, but it does not bode well for service development in the project at all.
+
+## The future
+
+My primary goal was to take this job at USIT so I can make an impact on research. I know I have done this, so that makes me very happy. Contributing to this at the European level is a bit more fuzzy in terms of results but it is nonetheless very interesting to learn about the reality of modern data intensive science in Europe.
+
+My current ambitions are to make it easier to ingest data into the sensitive data service via HTTP APIs and to make the service as a whole more scalable by automating project creation. At the European level our team will continue to produce strategic information and ops will be ops. On the learning side I am deepening my knowledge of computer networks and encryption. And I hope to learn Haskell. About four years ago I wouldn't have been able to predict that I would be interested in these topics at all so I wonder where this will take me. Let's see.
