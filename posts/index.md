@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Changing jobs](http://leonomics.com/changing-jobs.html), 2017-01-29
+
 [Elements of perfection in bouldering](http://leonomics.com/elements-of-perfection-in-bouldering.html), 2016-08-11
 
 [Climbing progression in perspective](http://leonomics.com/climbing-progression-in-perspective.html), 2016-06-06
