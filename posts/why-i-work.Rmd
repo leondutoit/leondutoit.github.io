@@ -1,0 +1,26 @@
+
+---
+title: "Why I work"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+I often get contacted by recruiters notifying me about job opportunities.
+
+## Meaning
+
+## Intellectual challenge
+
+## Health
+
+## Money
+

@@ -1,0 +1,17 @@
+
+---
+title: "Weekend warrioring"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+

@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Weekend warrioring]() - _Sending a sport route in Spain, 2017-03-XX_
+
 [Changing jobs](http://leonomics.com/changing-jobs.html) -
 _Reflections on my time at Telenor Digital and the University of Oslo, 2017-01-29_
 
