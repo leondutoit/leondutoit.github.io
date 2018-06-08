@@ -10,7 +10,7 @@ _2017-12 - current_
 
 
 ### Senior Software Engineer - [University of Oslo Centre for IT](http://www.usit.uio.no/)
-_2015-08 - 2017-12_, 2.5 years
+_2015-08 - 2017-12, 2.5 years_
 
 
 ### Data Scientist - [Telenor Digital](https://www.telenor.no/privat/)
