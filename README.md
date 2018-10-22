@@ -1,6 +1,6 @@
 # leonomics
 
-A new incarnation.
+A new incarnation \o/.
 
 ### Acknowledgement
 
