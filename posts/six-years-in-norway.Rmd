@@ -1,0 +1,22 @@
+
+---
+title: "Six years in Norway"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+I arrived in Norway on the 20th of April 2012 with the aim of staying for at least 5 years. I figured you need at least 5 years to make such a huge move worthwhile - it would be enough time to learn the language, get a proper job, make friends and feel at home in the culture. I left South Africa with cash in hand, moved in with my girlfriend, and started looking for a job in Norway. Alongside this I was doing two consulting jobs as an economist: one for an NGO in Norway and another for the Department of Energy in South Africa. The short story is that I got a job quite quickly as a data analyst at a Norwegian telecommunications company, Telenor. I worked there for 3 years after which I took a job as a software engineer at the University of Oslo's Center for IT. There I am group leader for Research Services working mostly with sensitive data. I'm almost fluent in Norwegian, we own a flat, have a cat, and a son. I guess you could say I'm an _integrated_ immigrant. Anyways, I thought it was time to reflect more systematically about certain aspects of the journey.
+
+## Meta
+
+
+
+## Norwegian
