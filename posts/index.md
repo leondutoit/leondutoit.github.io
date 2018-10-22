@@ -1,11 +1,9 @@
 
 # Leonomics
 
-_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of research data. I [tweet](https://twitter.com/lcdutoit), [code](https://github.com/leondutoit) and [blog](http://our-energie.blogspot.no/) about climbing, skydiving and skiing._
+_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write in my free time. Feel free to browse my [cv](http://leonomics.com/cv.html)._
 
 ## Posts
-
-[Weekend warrioring]() - _Sending a sport route in Spain, 2017-03-XX_
 
 [Changing jobs](http://leonomics.com/changing-jobs.html) -
 _Reflections on my time at Telenor Digital and the University of Oslo, 2017-01-29_
