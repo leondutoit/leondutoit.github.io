@@ -17,7 +17,12 @@ create_output_file() {
     infile=$1
     elements=(${infile//./ })
     outfile=$(basename $elements)
-    pandoc -s -c tufte.css -o $outfile.html $infile
+    if [[ $infile == *"Rmd"* ]]; then
+        R -q -e "library(rmarkdown); render('$infile')"
+        mv posts/$outfile.html .
+    else
+        pandoc -s -c tufte.css -o $outfile.html $infile
+    fi
 }
 
 while (( "$#" )); do
