@@ -13,7 +13,9 @@ options(htmltools.dir.version = FALSE)
 home <- Sys.getenv("HOME")
 ```
 
-I arrived in Norway on the 20th of April 2012 with the aim of staying for at least 5 years. I figured you need at least 5 years to make such a huge move worthwhile - it would be enough time to learn the language, get a proper job, make friends and feel at home in the culture. I left South Africa with cash in hand, moved in with my girlfriend, and started looking for a job in Norway. Alongside this I was doing two consulting jobs as an economist: one for an NGO in Norway and another for the Department of Energy in South Africa. The short story is that I got a job quite quickly as a data analyst at a Norwegian telecommunications company, Telenor. I worked there for 3 years after which I took a job as a software engineer at the University of Oslo's Center for IT. There I am group leader for Research Services working mostly with sensitive data. I'm almost fluent in Norwegian, we own a flat, have a cat, and a son. I guess you could say I'm an _integrated_ immigrant. Anyways, I thought it was time to reflect more systematically about certain aspects of the journey.
+I arrived in Norway on the 20th of April 2012 with the aim of staying for at least 5 years. I figured you need at least 5 years to make such a huge move worthwhile - it would be enough time to learn the language, get a proper job, make friends and feel at home in the culture. I left South Africa with cash in hand, moved in with my girlfriend, and started looking for a job in Norway. Alongside this I was doing two consulting jobs as an economist: one for an NGO in Norway and another for the Department of Energy in South Africa.
+
+The short story is that I got a job quite quickly as a data analyst at a Norwegian telecommunications company, Telenor. I worked there for 3 years after which I took a job as a software engineer at the University of Oslo's Center for IT. There I am group leader for Research Services working mostly with sensitive data. I'm almost fluent in Norwegian, we own a flat, have a cat, and a son. I guess you could say I'm an _integrated_ immigrant. Anyways, I thought it was time to reflect more systematically about certain aspects of the journey.
 
 ## Meta
 
@@ -48,7 +50,28 @@ It has taken a very long time to develop a deeper connection to the Norwegian la
 
 ## Politics
 
-The most salient feature of European politics today is the immigration debate. This debate, and the reality of immigration from other parts of the world, will intensify in the future. If climate change pans out in the way that the UN is predicting, then more people will want to live in the North.
+The most salient feature of European politics today is the immigration debate. This debate, and the reality of immigration from other parts of the world, will intensify in the future. If climate change pans out in the way that the UN is predicting, then more people will want to live in the North. The people in the North are rich, historically Christian (now mostly secular), have homogenous populations.
 
+Many Northerners react negatively to the influx of immigrants, whether they are economic migrants or refugees. This is usually due to being scared of economic and/or social change - especially when the immigrants have Islamic cultural roots. Some are positive to change. Others have well-founded skepticism. Yet others react in blatantly racist ways. It is a tense debate.
 
+I try to maintain both a long term historical perspective and practical outlook to this situation. The way I see it, Europe made itself rich by exploiting resources and societies all over the world for hundreds of years, leaving behind it a trail of social chaos (not _just_ chaos I know, there was order too). Anyway, now Europe is experiencing some pressure in the opposite direction. Yes it might be difficult to deal with social change, and yes it might be unfair that the current generation has to pay for the sins of their fathers, but the Northerners have enough smart people and resources to solve this. I think the best strategy is to gear up for the coming challenge instead of wishing it away.
 
+## 10450.62 km
+
+Living so far away from your family is not great. Skype, while useful, just doesn't have the ability to replicate the intimacy of being in someone's physical presence while speaking to them. Sure I am just two flights away, and I journey to South Africa at least twice a year, but the thing I miss most is the low-threshold interaction, the feeling of being in the same place.
+
+The importance of low-threshold interaction becomes even more visible when you have children. Being able to share small things is what adds up to sharing a life. I hope to find a way to spend more time in South Africa in the future.
+
+## The social contract
+
+Before moving to Norway I had lived most of my life in South Africa. In South Africa, citizens have a tenuous relationship with the state. My own expectations of the South African state can be summed up as follows: "please leave us alone so we can take care of ourselves". Suffice it to say that the history of the country, both before and after Apartheid does not engender confidence in the ability of the state to deliver quality public services to the majority of people.
+
+In this regard coming to Norway was quite a shock: here people actually have high expectations about the quality of public services, and high levels of political engagement across a broad socio-economic spectrum. Having been the recipient of quality public services for years now has fundamentally changed my views on the ability of the state to deliver public services.
+
+## Women in society
+
+Norway, like other Nordic countries, has done well to remove barriers for women to pursue their goals in society. This is a very big topic, but I am just going to note that living here has increased my awareness about how societies treat different genders differently in structural ways, and how social conduct and codes often put women at an unfair disadvantage. I am very thankful for this increased awareness.
+
+## In closing
+
+If someone had told me in 2010, when I first came to Norway on holiday, that I would now be living here, owning a flat, have a family, and speak the language, I would have found it difficult to believe. I wonder where I'll be six years from now.
