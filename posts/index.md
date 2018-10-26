@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Six years in Norway](http://leonomics.com/six-years-in-norway.html) - _Language, Identity, Landscape, and Politics, 2018-10-26_
+
 [Changing jobs](http://leonomics.com/changing-jobs.html) -
 _Reflections on my time at Telenor Digital and the University of Oslo, 2017-01-29_
 
