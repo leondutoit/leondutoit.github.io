@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Why I work](http://leonomics.com/why-i-work.html) - _On motivation, 2018-10-26_
+
 [Six years in Norway](http://leonomics.com/six-years-in-norway.html) - _Language, Identity, Landscape, and Politics, 2018-10-26_
 
 [Changing jobs](http://leonomics.com/changing-jobs.html) -
