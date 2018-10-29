@@ -1,9 +1,11 @@
 
 # Leonomics
 
-_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write in my free time. Feel free to browse my [cv](http://leonomics.com/cv.html)._
+_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write in my free time. Feel free to browse my [CV](http://leonomics.com/cv.html) for more information._
 
 ## Posts
+
+[The best boulder I have ever climbed](http://leonomics.com/the-best-boulder-ive-ever-climbed.html) - _Reflections on perfection, 2018-10-29_
 
 [Why I work](http://leonomics.com/why-i-work.html) - _On motivation, 2018-10-26_
 

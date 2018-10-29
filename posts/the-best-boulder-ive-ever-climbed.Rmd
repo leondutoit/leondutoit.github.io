@@ -48,20 +48,26 @@ Moments after I sent the route, Jeanrich Ehlers also sent it, using a static end
 
 ## Sonsverduistering
 
-A year later, on another cold winter day, Jurie and I went to the area again with the aim of trying the right-hand start to the line.
+A year later, on another cold winter day, Jurie and I went to the area again with the aim of trying the right-hand start to the line. Knowing how to do the topout section allowed us to focus on solving a smaller part of the bigger problem. Quite quickly we managed to find a good sequence linking the stand-start into the topout of Sonstilstand. So theoretically it was possible now. And so started the attempts - 14 moves, all of them difficult, subtle and capable of spitting you off if you make a mistake. It is an incredible sequence.
 
-```{r echo=FALSE, out.width='100%', fig.cap = "Tense moves on Sonsverduistering"}
+```{r echo=FALSE, out.width='100%', fig.cap = "In the middle of Sonsverduistering, 8a"}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-klim2.jpg'))
 ```
 
-Knowing how to do the topout section allowed us to focus on solving a smaller part of the bigger problem. Quite quickly we managed to find a good sequence linking the stand-start into the topout of Sonstilstand. So theoretically it was possible now.
+Starting in a cross-over position with your hands on two slopers, each about 1 1/2 finger pads deep, with an insecure placement for the right foot, you bump your left hand to the left twice: first to a terrible sloper, then to a better one. Then you swing your right toe onto a bad foot, match hands, and bump out left again, this time to a slightly featured hold. Then placing the right foot on a worse feature than before, and smearing hard to get body tension, you reach your right hand up to a decent flat-ish sloper, right above the left hand.
 
-And so started the attempts - 14 moves, all of them difficult, subtle and capable of spitting you off if you make a mistake. It is an incredible sequence. Starting in a cross-over position with your hands on two slopers, each about 1 1/2 finger pads deep, with an insecure placement for the right foot, you bump your left hand to the left twice: first to a terrible sloper, then to a better one. Then you swing your right toe onto a bad foot, match hands, and bump out left again, this time to a slightly featured hold. Then placing the right foot on a worse feature than before, and smearing hard to get body tension, you reach your right hand up to a decent flat-ish sloper, right above the left hand.
+Then you swing your right foot high up and twist it into a the corner of the sloping rail next to your left hand (where your right hand was), and then stab your left hand up along the rail. Here you twist all of your weight onto the right foot, flagging with the left leg, and locking off with the left hand, and then move the right hand further along the sloping rail. This sets you up for a cutloose move, where you remove the right foot jam, and swing your left leg up, catching a sloping dish with the inside of your foot. Now squeezing the dish with the inside of your left foot you move your left hand further up onto the next sloping rail. Then you move your right hand down to where your left hand was.
 
-![Tense moves on Sonsverduistering](https://www.youtube.com/watch?v=1QwKTohZ27U)
+This sets you up for a strange foot movement: you need to tense your body, holding your body in position as if you had no foot holds, and then change the left toe to a left heel on the dish. And then you have climbed into the topout sequence of Sonstilstand, the 7c+ we did in 2017. Squeezing that heel tight you move up the rest of the sloping rails, and then turn the heel to a toe, and explode in a controlled manner to the lip. If reading the sequence didn't leave you with a good feeling of what it is like to do the boulder I suggest watching [a video of the first ascent](https://www.youtube.com/watch?v=1QwKTohZ27U).
+
+I was a bit shocked that I actually did the line. Thinking about the boulder and talking about it in the days after I came to realise that this is actually the best boulder I have ever climbed. This is an extremely difficult statement to make, but the combination of all the different aspects of this boulder add up to everything I want in a line: beautiful colours and shapes, consistent difficulty with subtle moves, a remote setting, amazing rock quality and friction, solid height, a good landing. I can only be thankful for the experience.
 
 ## The future
 
-```{r echo=FALSE, out.width='100%', fig.cap = "Jurie trying the sit-start. The first three moves of this version alone could be in the 7c/8a range."}
+I've mentioned breifly that we tried the sit-start some years ago - and yes indeed there is a more difficult version of Sonsverduistering, adding a sit-start to the line.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Jurie trying the sit-start. The first three moves of this version alone could be in the 7c/+ range."}
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-sit.jpg'))
 ```
+
+Maybe next year I'll go try it.
