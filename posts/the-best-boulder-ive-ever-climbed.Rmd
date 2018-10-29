@@ -1,0 +1,67 @@
+---
+title: "The best boulder I have ever climbed"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+Calling a boulder "the best you've ever climbed" is not something to be done lightly. But in this case, I cannot escape the conclusion that it is true: this is the best boulder I have ever climbed.
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/son-boulder.jpg'))
+```
+
+## Pre-history
+
+I first saw the boulder in the winter of 2014. My fried Unio Joubert had uncovered the new area the previous year. At that time I was injured, and couldn't boulder. I remember walking through the area alone, and standing beneath the Sonsverduistering boulder. Standing at the base, looking up and studying the rock is an immense experience. The sheer size of the boulder, the slanted sloping rails, the colours, the rock quality, the setting, the potential energy, the remoteness - all of this impresses itself on you. It looked improbable, difficult to interpret, and inspirational. In the years to come, before trying it I would sometimes listen to music, drink a beer, and stare at pictures of the boulder to be inspired by it.
+
+## First attempts
+
+In 2016 Jurie Joubert and I made our first attempts on the most logical line: the one starting on the bottom right-hand corner, following the sloping rails up to the left.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Working out the moves, we quickly realised that we would have to come back another year."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-probeer.png'))
+```
+
+We first tried the sit-start, but were not even close to sticking the first move, so we moved on to the stand-start, a full line by itself. The boulder requires ground-up attempts, given how tall it is. It is always challenging to figure out the optimal sequence of moves and holds when you have to redo everything on each attempt, and when there is no existing chalk (or a hoard of videos online) to guide your attempts. This is also the thrill of climbing new boulders: true discovery.
+
+After a full session we managed to climb about half-way through the face, and went home inspired but uncertain. It would have to wait for another year, when we were stronger and better climbers.
+
+## Sonstilstand
+
+We were also aware of a different line on the same boulder: one that started on the left and topped out in the same place as the one we tried in 2016. In 2017, on a cold day in the middle of our yearly boulder tour, I decided to try this shorter, hopefully slightly easier version.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Topping out with a dyno on Sonstilstand, 7c+"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-2017-send.png'))
+```
+
+The line starts with a big moves into a gaston on a sloper the right arm, after which you place your left foot next to you left hand, and match on the sloper. From here you do another big move with the right hand to a sloping rail, and place your left foot next to your left hand again, this time with a heel hook on the sloper where you just matched your hands. Keeping the heel hook, you now begin to move up a series of sloping rails. In the middle of these subtle movements, you change your left heel to a left toe, pressing it onto the slanted sloper where you did the initial gaston, and match. In this position then, your right foot is on nothing, and you are holding on to two slanted sloping rails with your hands. Then pressing the left foot hard against the sloping foot hold, you dyno to a good hold on the lip.
+
+Moments after I sent the route, Jeanrich Ehlers also sent it, using a static ending sequence that is equally difficult to the dyno, and perhaps a bit more height-dependent. Be that as it may, we finally managed to send the first line on the boulder: Sonstilstand, 7c+ (meaning Solstice). Having done the end sequence of the other project, we were collectively closer to doing that. It was slowly becoming a reality.
+
+## Sonsverduistering
+
+A year later, on another cold winter day, Jurie and I went to the area again with the aim of trying the right-hand start to the line.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Tense moves on Sonsverduistering"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-klim2.jpg'))
+```
+
+Knowing how to do the topout section allowed us to focus on solving a smaller part of the bigger problem. Quite quickly we managed to find a good sequence linking the stand-start into the topout of Sonstilstand. So theoretically it was possible now.
+
+And so started the attempts - 14 moves, all of them difficult, subtle and capable of spitting you off if you make a mistake. It is an incredible sequence. Starting in a cross-over position with your hands on two slopers, each about 1 1/2 finger pads deep, with an insecure placement for the right foot, you bump your left hand to the left twice: first to a terrible sloper, then to a better one. Then you swing your right toe onto a bad foot, match hands, and bump out left again, this time to a slightly featured hold. Then placing the right foot on a worse feature than before, and smearing hard to get body tension, you reach your right hand up to a decent flat-ish sloper, right above the left hand.
+
+![Tense moves on Sonsverduistering](https://www.youtube.com/watch?v=1QwKTohZ27U)
+
+## The future
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Jurie trying the sit-start. The first three moves of this version alone could be in the 7c/8a range."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/sonstilstand-sit.jpg'))
+```
