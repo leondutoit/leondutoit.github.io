@@ -1,0 +1,42 @@
+
+---
+title: "The surprising joy of programming in PL/pgSQL"
+subtitle: "Building a mandatory access control system for PostgreSQL"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+## Finding a reason
+
+I've always enjoyed working with PostgreSQL, and ever since [Row-Level Security](https://www.postgresql.org/docs/current/static/ddl-rowsecurity.html) (RLS) was introduced, I've been waiting for a use case to arrive which would allow me to use it. Over the last two years, in speaking to research projects, I've encountered different requirements, all of which can be served by using RLS. Then recently the [GDPR](https://eugdpr.org/) was implemented in Europe, which brought a new wave of data management requirements to research projects. Together with the requirements from before I had now collected many interesting problems to solve:
+
+* giving data administrators a full audit trail of:
+    * tools to implement granular access
+    * data access audit
+    * data deletion audit
+    * access control changes audit
+    * data updates audit
+* giving study participants the ability to:
+    * delete their own data
+    * revoke access to their data (without deleting it)
+    * to see who used their data for analysis
+* giving data analysts the ability to publish personally identifiable data with exclusive access
+* giving applications developers an API that exposes all the abovementioned functionality
+
+In August this year I finally had the opportunity to implement a system which solves all of these problems. The resulting solution is a set of database functions, tables, and views written in [PL/pgSQL](https://www.postgresql.org/docs/current/static/plpgsql-overview.html), designed to be used with the open source REST API tool called [postgrest](http://postgrest.org/en/v5.1/) - a component that automatically turns your PostgreSQL database into a REST API.
+
+## Programming in PL/pgSQL
+
+
+
+## Architecture
+
