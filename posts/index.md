@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[The surprising joy of programming in PL/pgSQL](http://leonomics.com/the-surprising-joy-of-plpgsql.html) - _Implementing Mandatory Access Control with Row-Level Security in PostgreSQL, 2018-11-15_
+
 [The best boulder I have ever climbed](http://leonomics.com/the-best-boulder-ive-ever-climbed.html) - _Reflections on perfection, 2018-10-30_
 
 [Why I work](http://leonomics.com/why-i-work.html) - _On motivation, 2018-10-26_
