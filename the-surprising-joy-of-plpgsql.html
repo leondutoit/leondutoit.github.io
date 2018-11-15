@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="date" content="2018-10-31" />
+<meta name="date" content="2018-11-15" />
 
 <title>The surprising joy of programming in PL/pgSQL</title>
 
@@ -46,7 +46,7 @@ if (window.hljs) {
 
 <h1 class="title toc-ignore">The surprising joy of programming in PL/pgSQL</h1>
 <h3 class="subtitle"><em>Building a mandatory access control system for PostgreSQL</em></h3>
-<h4 class="date"><em>2018-10-31</em></h4>
+<h4 class="date"><em>2018-11-15</em></h4>
 
 
 
@@ -71,13 +71,40 @@ if (window.hljs) {
 <li>giving data analysts the ability to publish personally identifiable data with exclusive access</li>
 <li>giving applications developers an API that exposes all the abovementioned functionality</li>
 </ul>
-<p>In August this year I finally had the opportunity to implement a system which solves all of these problems. The resulting solution is a set of database functions, tables, and views written in <a href="https://www.postgresql.org/docs/current/static/plpgsql-overview.html">PL/pgSQL</a>, designed to be used with the open source REST API tool called <a href="http://postgrest.org/en/v5.1/">postgrest</a> - something that automatically turns your PostgreSQL database into a REST API.</p>
+<p>In August this year I finally had the opportunity to implement a system which solves all of these problems. The resulting solution is a set of database functions, tables, and views written in <a href="https://www.postgresql.org/docs/current/static/plpgsql-overview.html">PL/pgSQL</a>, designed to be used with the open source REST API tool called <a href="http://postgrest.org/en/v5.1/">postgrest</a> - a component that automatically turns your PostgreSQL database into a REST API.</p>
 </div>
 <div id="programming-in-plpgsql" class="section level2">
 <h2>Programming in PL/pgSQL</h2>
+<p>PL/pgSQL is a procedural language that extends SQL with control structures (boolean logic, loops, exceptions, assertions), can be used to create functions and triggers, and allows one to use all the data types, operators and functions of SQL. In addition, operations are executed by the server in blocks without marshalling data betweeen the database client and server, which often gives a performance boost.</p>
+<p>If you already know SQL, and another C-like language, then it is easy to learn. It feels quite different from other programming languages though. For one thing, the runtime is a database server, instead of an interpreter, VM, or machine itself. This means that your code will always be executing in the context of a database transaction. This alone makes for a different programming experience.</p>
+<p>Another big difference from most general purpose programming languages is that the only object that you can construct to group your computations and data structures together is a function. There are no classes, prototypes or loose statements available. At this point it is probably useful to see a small code sample:</p>
+<pre class="sql"><code>create or replace function table_describe(table_name text,
+                                          table_description text)
+    returns boolean as $$
+    declare trusted_table_name text;
+    declare trusted_table_description text;
+    begin
+        assert (select ntk.is_user_defined_table(table_name) = true);
+        trusted_table_name := quote_ident(table_name);
+        trusted_table_description := quote_literal(table_description);
+        execute format('comment on table %I is %s',
+            trusted_table_name, trusted_table_description);
+        return true;
+    end;
+$$ language plpgsql;
+revoke all privileges on function table_describe(text, text) from public;
+grant execute on function table_describe(text, text) to admin_user;</code></pre>
+<p>Some brief comments are in order. PL/pgSQL is typed, so all parameters, return values and variable must be declared with types. It provides useful helper functions to sanitise input used in dynamic SQL generation: <code>quote_ident</code> prepares input to be used as a SQL identifier, <code>quote_literal</code> simply escapes any existing quotations making the value safe to use, and <code>format</code> allows string formatting so one can generate SQL dynamically in a safe way.</p>
+<p>What is also clear from the example is that all functions are database objects. As such, one can use the SQL <a href="https://www.postgresql.org/docs/current/static/ddl-priv.html">privilege system</a> to restrict access to the function. This is extremely useful to lock down an API. This is exactly why it is a surprisingly good experience programming in PL/pgSQL: it gives you seamless access to SQL, the privilege system (roles, grants), and all other PostgreSQL server objects.</p>
+<p>It is also suprising in another way: database programming has a bad reputation. This is mostly based on experience and anectodal evidence, but I have often heard people speak of stored procedures with fear and loathing. Perhaps they were just being used in a bad way, or to solve the wrong problems. Anyways, I think database server programming is highly underrated.</p>
 </div>
-<div id="architecture" class="section level2">
-<h2>Architecture</h2>
+<div id="a-simple-architecture" class="section level2">
+<h2>A simple architecture</h2>
+<p>Programming with the database server as the runtime leads to a different architecture than the usual object-relational mapping based web app. In this case the client-server relationship, and the location of the so-called business logic is as follows:</p>
+<pre class="txt"><code>HTTP client -&gt; (webapp) -&gt; (logic (PL/pgSQL), DB)</code></pre>
+<p>More commonly it is organised as such:</p>
+<pre class="txt"><code>HTTP client -&gt; (webapp, logic (ORM)) -&gt; (DB)</code></pre>
+<p>In my implementation, the logic determining access control is located in the database, implemented as database objects. In the more common ORM-based model, the access control logic would be separate from the database. Having the access control measures implemented inside the database system leads to a very simple webapp which only needs to take care of user authentication, request routing and data transfer. Building APIs in this way is very refreshing, and in this sense programming in PL/pgSQL has been an unexpected joy. If curious, you can <a href="https://github.com/leondutoit/pg-need-to-know/tree/master/docs">read more about the MAC implementation on github</a>.</p>
 </div>
 
 
