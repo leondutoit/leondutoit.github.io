@@ -18,8 +18,8 @@ home <- Sys.getenv("HOME")
 
 I've always enjoyed working with PostgreSQL, and ever since [Row-Level Security](https://www.postgresql.org/docs/current/static/ddl-rowsecurity.html) (RLS) was introduced, I've been waiting for a use case to arrive which would allow me to use it. Over the last two years, in speaking to research projects, I've encountered different requirements, all of which can be served by using RLS. Then recently the [GDPR](https://eugdpr.org/) was implemented in Europe, which brought a new wave of data management requirements to research projects. Together with the requirements from before I had now collected many interesting problems to solve:
 
+* provide tools to implement granular access
 * giving data administrators a full audit trail of:
-    * tools to implement granular access
     * data access audit
     * data deletion audit
     * access control changes audit
