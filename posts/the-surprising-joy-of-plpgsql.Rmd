@@ -20,10 +20,10 @@ I've always enjoyed working with PostgreSQL, and ever since [Row-Level Security]
 
 * provide tools to implement granular access
 * giving data administrators a full audit trail of:
-    * data access audit
-    * data deletion audit
-    * access control changes audit
-    * data updates audit
+    * data access
+    * data deletion
+    * access control changes
+    * data updates
 * giving study participants the ability to:
     * delete their own data
     * revoke access to their data (without deleting it)
