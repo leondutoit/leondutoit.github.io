@@ -1,0 +1,56 @@
+
+---
+title: "Ten years of Facebook"
+subtitle: "Getting rid of it"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+I have never been an early adopter of internet services and Facebook was no exception. Somewhere in 2005 a friend of mine at University explained it to me. I failed to see how I needed it, and ignored it. Some years later, probably around 2007/8, alongside the spread of the iPhone in South Africa, Facebook really took off. I continued to ignore it. All I could see was that people were using it obsessively and I wanted no part of it. I had enough going on in my brain and in my life already.
+
+## Hesitant adoption
+
+Some years later, in 2010 I went BASE jumping in Norway during the South African winter. I had serious ambitions to continue jumping in the years to come, so building a network of acquiantances with a common interest was a priority. After so many years I had found a clear reason to use Facebook: to keep in contact with the BASE jumpers I was meeting on a daily basis. Back from the holiday, my usage of Facebook followed one of the probably usual patterns: enriching your profile with pictures and information, seeking out connections with people, and playing the games: posting, liking, commenting.
+
+## Initial usefulness
+
+The obvious usefulness is the network effect: as more and more people and institutions adopt the service for communication and coordination, the service becomes more instrumentally useful. I especially liked the "close friends" feature: a simple toggle which filtered your feed to display only updates from a select group of people. For me, this was a manageable amount of people to relate to, consisting of perhaps 25 or 30 people. I had, and mostly still have a genuine interest in their well-being, and am curious about their experiences and viewpoints. This because I am friends with them IRL. And have through years of contact, conversations, and common experiences built an understanding of who they are.
+
+Another great aspect was that one could stay updated on developments in sports: climbing, skydiving, BASE jumping. Most of these scenes are quite niche. And information about new gear developments do not systematically pass through more traditional media channels. This was especially true about wingsuit development.
+
+On a more egoistic note, there was a definite thrill in posting something that recieved positive feedback. In this regard the profile served as a tool for confirming your identity via reinforcement from others. You viewed yourself in a specific way, and posted media to highlight this view. Others who followed you confirmed your self perception by liking your posts, commenting on it, sharing it and so on. A virtual pat on the back saying "you're alright".
+
+## Irritations
+
+Round about 2013/14 a series of annoying changes were made to the UI: the feed was no longer chronological, the "close friends" toggle was removed, and the "share" button was introduced. Alongisde this more companies were using the platform to market their product and actitivies. The side effect of making the plaform more commerce friendly, in combination with the non-chronological feed algorithm, and sharing, was that your feed was becoming more and more confusing. Before the mental model was simple: I am seeing this because a friend of mine liked it, or posted it, and it happened in chronological order. Now you were suddenly seeing random shit in random order. It was becoming annoyingly difficult to stay updated on my close friend's activity.
+
+## Deeper problems
+
+One of the first really disturbing revelations about Facebook was that they were performing psycological experiments on people without their consent, trying to determine if they could deliberately make them feel worse. I didn't like the idea at all. I could understand their likely reasoning for doing so though: they had been building a targeted advertising platform, competing with google, and probably wanted to guage their influential power. This was all the more disturbing.
+
+I also started noticing aspects of my own behaviour that I disliked: I was beginning to check in on "what was happening" far too often. I had never installed the app or messenger on my phone, because I always wanted to avoid developing a smartphone dependence, even mildly. So that meant that I mostly checked it at work, in a different browser than my normal one. In practice that meant switching focus from work, to Facebook, and back to work. I slowly became aware that this switching was happening too often.
+
+Another aspect about my own usage that bothered me was how it made me feel. I almost never left a session with a feeling of ease. And watching what people were posting made me view them in an extremely critical light. It was like I could see how their social media usage had taken control of the narratives of their lives. As if you set out to experience something because you know it will generate social media that will give you maximum ego reinforcement.
+
+So in 2016 I decided to stop checking Facebook at work entirely, as an experiment. Within a short period of time I became much more focused and productive at work. My work no longer had to contend for my attention with random shit in random order. I also noticed that I was sleeping better, and feeling better in general. Not having this vague urge to be updated about _something_ was extremely liberating. I was still active though, just much less so.
+
+Then came Brexit and the election of the current president of the US. During this period the critical literature revealed that social media had been used explicitly by political actors (all over) to manipulate Facebook users' political attitudes. Stated differently, they had been using the advertising infrastructure to perform targeted marketing. Clearly, Facebook is the world's biggest and most powerful propaganda machine ever. And Facebook is responsible for this, yet takes none. They knowingly build services that exploit people's psychological weaknesses, allow malicious actors to use it, and make profit along the way. Knowing that I was probably being manipulated in the exact same way was the final straw that made me decide to cut off my usage completely. I value the independence of my own world view too much.
+
+## Eventual uselessness
+
+For about three years I did not delete or deactivate my account. I just didn't use it at all. This was because there was still some hesitation in me. Part of it is the simple fact that buried in the random shit, there is something useful in the platform for me. That is of course why Facebook is so successful. One useful thing is the ability to keep contact with newly formed acquaintences: meet a climber, decide to meet up and climb. Another is the by now distant possibility that you want to use it for something personal. Granted, I was never on messenger, so it was much easier to walk away.
+
+Despite my resolve and that fact that I had probably logged in twice a year for three years, I felt this subtle resistance and fear that prevernted me from deleting my account. This was rooted in what I believe is one of Facebook's core promises: that you can stay connected to everyone you meet, friends and acquiantances alike, in a meaningful way. And that their platform is built to enable this. This, however, is a blatant lie. You cannot stay connected to all the friends you ever had, nor can you keep up with all the acquiantances you will ever make. Eventually I made peace with the fact that I had had many good and close friendships that would no longer be relevant in the future, and that I do not need to know the intimate details of my acquiantances' lives. I am fully capable of pursuing and growing these connections by other means.
+
+## Good riddance
+
+So I deleted my account. I miss many people who I've had deep friendships with over the years, but I don't miss using Facebook for a single instant.

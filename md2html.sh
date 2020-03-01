@@ -21,7 +21,7 @@ create_output_file() {
         R -q -e "library(rmarkdown); render('$infile')"
         mv posts/$outfile.html .
     else
-        pandoc -s -c tufte.css -o $outfile.html $infile
+        pandoc -s -c tufte.css -o $outfile.html $infile --metadata pagetitle="$outfile"
     fi
 }
 

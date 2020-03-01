@@ -12,7 +12,7 @@ I'm a South African living in Oslo, Norway. I have worked as a manager, software
 ### Section Leader, Research Services - [University of Oslo Centre for IT](http://www.usit.uio.no/)
 _2017-12 - current_
 
-Responsible for development, operations and the management of the Services for Sensitive Data (TSD). In addition to management, I do technical development, and software architecture design.
+Responsible for development, operations and the management of the Services for Sensitive Data (TSD). In addition to management, I do technical development, and software architecture design. In management I aim to build productive teams that have real ownership of their products. In my development I focus on solving authentication and authorization problems for HTTP APIs, data transport, and the management of encrypted data. In software architecture design I aim to build secure, scalable and maintainable infrastructure.
 
 ### Senior Software Engineer - [University of Oslo Centre for IT](http://www.usit.uio.no/)
 _2015-08 - 2017-12, 2.5 years_
