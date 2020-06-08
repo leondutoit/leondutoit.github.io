@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[A 1000 times faster](https://leonomics.com/a-1000-times-faster.html) - _Efficient HTTP request authorization, 2020-06-08_
+
 [Ten years of Facebook](https://leonomics.com/ten-years-of-facebook.html) - _Getting rid of it, 2020-03-01_
 
 [The surprising joy of programming in PL/pgSQL](https://leonomics.com/the-surprising-joy-of-plpgsql.html) - _Mandatory Access Control with Row-Level Security in PostgreSQL, 2018-11-16_

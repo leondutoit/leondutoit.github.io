@@ -1,0 +1,44 @@
+
+---
+title: "A 1000 times faster"
+subtitle: "Efficient HTTP request authorization"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+Most of the time I don't have to care about milliseconds. I spend the majority of my engineering effort on system design problems such as: modularity, correctness, security, reliability, maintainability, code clarity, and testing. During the initial stages of implementing new systems I do spend time thinking about efficiency and scalability, and this informs my technology choices. Most of the time, however, the initial choices and implementations keep scaling for quite a long time before I am forced to refactor or redesign.
+
+Every now and again though, you suddenly realise that your previous solution is no longer good enough. Recently I experienced this when our survey collection platform started collecting COVID-19 related data in large volumes. Our APIs were handling orders of magnitude more requests per second, and I had to make sure that the request authorization was as efficient as possible. This turned out to be a valuable learning experience, and so much fun that I have to write about it and reflect on it a bit.
+
+# Context
+
+Let's say you're using OAuth2.0 and OpenIDConnect, users authenticate themselves, authorize clients to perform actions, the clients they authorize get access tokens, the access tokens have scopes, clients can get identity information, and then what? How do you structure how these tokens map to resource acccess in your APIs? This is the problem that I have been working on, and the domain in which efficiency popped up.
+
+# Speedup
+
+## Hashing
+
+One thing you'll read about when implementing OAuth2.0 is [sender constrained tokens](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-09#page-22). The idea is that the access token is bound to the client by a shared secret. It is, theoretically speaking, a great solution to the problem of bearer tokens: that anyone in posession of it, can use it. But it is costly to implement and maintain. I wanted to approximate the idea in a lightweight way.
+
+The solution was to collect the User Agent, and the IP address from which the token request came, to encrypt these, and add them as claims in the token. On token usage, the Authorization Server would check that the sender of the token had a matching User Agent and IP address. Neither of these attributes are cryptographically secure, but they prevent the simple case where I email my access token to my friend for re-use. And since we have a centralised server for validating tokens, scopes, and other attributes for access control, it is simple to implement. As a matter of detail it is also possible to relax the IP address requirement, to allow clients to use DHCP between getting and using an accesss token.
+
+This worked well enough as an approximation of sender constrained tokens, but I chose [bcrypt](https://en.wikipedia.org/wiki/Bcrypt) to encrypt the values. Being a password hashing function, it is designed to be slow. And this is what I didn't consider: that when validating the access token sender's User Agent and IP address againsst the claim, the Authorization Server would have to decrypt these values on each request, and it was slow by design! After realising this I switched to MD5, a simple yet collision resistant hash function which is really fast to compute. Given the short lifetime of access tokens, it would be costly to brute force such values if one wanted to move an access token between clients, and even then the damage would be negligable. This lead to at least 0.5 seconds speedup per request.
+
+## Caching
+
+Soon after deploying the hashing speedup, I realised that it is possible to cache request authorization, for a given HTTP method, API endpoint, and access token. On the first successfully authorized request one can use the combination of HTTP method, uri, and token itself as a key, and the token's `exp` claim as the value in a simple cache. On subsequent requests, one can simply index into the cache with the method, uri, and token, and compare the `exp` to the current time. Instead of having to verify a signature, and perform other authorization checks, one could simple do an `O(1)` hash table lookup, and an integer comparison, and be done with it.
+
+This meant that the first successful request would be slower than the rest, but the rest would be really fast. In fact, after deploying it, I saw that request authorization now took only 1ms. The implementation cost was minimal too.
+
+# Reflection
+
+Shaving 999ms off _all_ API requests was wonderful, especially as I sat watching the survey responses stream in by the thousands. It was also a reminder that it is worth pausing to consider these choices when implementing things. Is the algorithm choice well suited for the task? Is there a faster one that has good enough properties in other ways too? And can you cache something, without the cache itself becoming unwanted state?
