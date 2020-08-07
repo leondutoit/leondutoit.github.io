@@ -1,0 +1,31 @@
+---
+title: "Useless spaces"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+There is so much dead space in urban architecture - corners that are never occupied. Some of them, however useless they may be, are nonetheless capable of producing pleasing aesthetics, when the angle is right.
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/useless1.jpg'))
+```
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/useless2.jpg'))
+```
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/useless3.jpg'))
+```
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/useless4.jpg'))
+```
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/useless5.jpg'))
+```

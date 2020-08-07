@@ -1,9 +1,11 @@
 
 # Leonomics
 
-_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write in my free time. Feel free to browse my [CV](https://leonomics.com/cv.html) for more information._
+_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write. Feel free to browse my [CV](https://leonomics.com/cv.html) for more information._
 
 ## Posts
+
+[Useless spaces](https://leonomics.com/useless-spaces.html) - _A photo collection, 2020-08-07_
 
 [A 1000 times faster](https://leonomics.com/a-1000-times-faster.html) - _Efficient HTTP request authorization, 2020-06-08_
 

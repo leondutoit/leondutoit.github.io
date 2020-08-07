@@ -1,0 +1,61 @@
+---
+title: "New routes in Norway"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+I had just moved to a new apartment in early March when the climbing gyms closed, and we were ordered to stay at home. I put up my beastmaker hangboard in the study and avoided seeing people and climbing outside with them. In April we were allowed to climb outside again, and I was keen to avoid the crowds that would undoubtedly be gathering at the usual spots. So I set out exploring for new climbing.
+
+## Oslo
+
+One Saturday I was out bouldering with my family, when I decided to explore the surrounding forest in a random direction. I walked down a riverbed, with walls on either side, growing in size as I went along. Eventually I came across a beatiful arete, and on the spot I decided that I would have to buy a drill, so I could bolt and climb it.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "A beautiful and pure stand-alone arete - the arched topout section is hiding behind the trees from this angle..."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/quarantine1.jpg'))
+```
+
+I wanted to keep the line as pretty as possible so I opted for glue-in bolts. Glue-ins, although more effort to place, are much more aesthetically pleasing than expansion bolts. Checking the rock quality, cleaning the moss, drilling, and bolting took a total of 7 short trips.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Checking out the moves on Quarantine - the first bolt is quite high up, so a boudldering pad helps, at least while getting the sequence sorted"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/quarantine2.jpg'))
+```
+
+...
+
+## Telemark
+
+Last year a friend of mine, Alex, bought a cabin in Telemark - about 2.5 hours' drive from Oslo. The cabin is situated next to a lake, and on the other side there is some great unclimbed rock.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "The approach to the base takes about 30 minutes - with 10 minutes in a canoe, crossing the lake, and then a pleasant walk through the pine, birch and oak forest"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bunny-chow1.jpg'))
+```
+
+During May we did 3 exploratory trips to the base, and the top of the cliffs, checking out potential lines. There is scope for many great single- and multi-pitch routes, and we decided to go for something clean and easy to begin with, so we could have quick success. Then in June we returned, finishing the bolting in 3 sessions over 3 days. Alex did another session alone to clean away some vegetation (for a smoother experience) and to take down the static ropes.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "The picture shows the line following the static ropes, with Alex ascending the lower part of the wall. The line is in the middle of the smaller, less steep Northern wall"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bunny-chow2.jpg'))
+```
+
+Another month passed until we had the chance to do the first ascent of Bunny Chow in July.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Alex enjoying the FA of Bunny Chow"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bunny-chow3.jpg'))
+```
+
+The route is a 120m slab, split into 5 pitches, offering lovely consistent 6b climbing on great quality granite/gneiss. Opening this route has given us lots of useful information about the way the rock produces usable features, thereby making it easier to choose more challenging lines on both the Northen and the bigger, steeper Southern face.
+
+## Reflections
+
+Finding new routes in the Oslo area is extremely difficult, mostly because the most obvious crags have already been found and completely developed. Apart from that, the dense forest makes it difficult to scan an area while walking through it. You could be 15 meters away from a great new wall and not know it unless you bother to walk to the base.
+
+Be that as it may, findig the Quarantine project was so inspirational that I decided I had to try to find more. At worst, you get to see new places, and spend hours walking and running around in the forest - and that by itself is great! In an attempt to narrow the search I browse a combination of topographical maps, searching for tightly packed contours, and aerial photos from a variety of sources. This give you a general idea of where there might be potential. This method has given me many hours of fun in the most random and isolated parts of the forests around Oslo, and helped me find lots of good new boulders.
+
+Finding new routes in the Telemark area is the opposite: it is difficult to decide which line to climb first, among the abundance of options. 2021 will bring many more FAs in Norway.
