@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[New routes in Norway](https://leonomics.com/new-routes-in-norway.html) - _Exploring for new sport routes, 2021-02-15_
+
 [Useless spaces](https://leonomics.com/useless-spaces.html) - _A photo collection, 2020-08-07_
 
 [A 1000 times faster](https://leonomics.com/a-1000-times-faster.html) - _Efficient HTTP request authorization, 2020-06-08_

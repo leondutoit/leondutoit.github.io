@@ -12,9 +12,9 @@ options(htmltools.dir.version = FALSE)
 home <- Sys.getenv("HOME")
 ```
 
-I had just moved to a new apartment in early March when the climbing gyms closed, and we were ordered to stay at home. I put up my beastmaker hangboard in the study and avoided seeing people and climbing outside with them. In April we were allowed to climb outside again, and I was keen to avoid the crowds that would undoubtedly be gathering at the usual spots. So I set out exploring for new climbing.
+I had just moved to a new apartment in early March 2020 when the climbing gyms closed, and we were ordered to stay at home. I put up my beastmaker hangboard in the study and avoided seeing people and climbing outside with them. In April we were allowed to climb outside again, and I was keen to avoid the crowds that would undoubtedly be gathering at the usual spots. So I set out exploring for new climbing.
 
-## Oslo
+## Oslo area
 
 One Saturday I was out bouldering with my family, when I decided to explore the surrounding forest in a random direction. I walked down a riverbed, with walls on either side, growing in size as I went along. Eventually I came across a beatiful arete, and on the spot I decided that I would have to buy a drill, so I could bolt and climb it.
 
@@ -28,7 +28,27 @@ I wanted to keep the line as pretty as possible so I opted for glue-in bolts. Gl
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/quarantine2.jpg'))
 ```
 
-...
+At the time of writing it remains a project, not because it is crazy hard, but because I need to dedicate some time to finish it. The tricky part is the boulder problem at the end. To begin with, you do pleasant moves on the arete and face up to a rest. After the rest the moves get bigger, the angle becomes more overhanging, and the slopers get worse before topping out. I can't wait to get back there.
+
+# Nordmarka
+
+Later in 2020 I was watching a random outdoor adventure reality TV program when I spotted what looked like good rock in the background. I was excited by this because it was within an hour's drive from home, and there was no established climbing there. Hungry for more rock I scoured the web for more information: topographical maps, and pictures from the ski association's archive gave me enough to decide it was worth checking out. I drove as close as I could, cycled as far as the path allowed, walked as far as the path existed, and reached what will be a brilliant new sport crag with space for about 20 routes in all grades.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "A view of the crag from afar"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/pershusfjellet1.jpg'))
+```
+
+Walking closer I saw that the quality was really good with compact rock and good friction.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "I would guess about 25m tall, and gently overhanging"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/pershusfjellet2.jpg'))
+```
+
+And the setting was just perfect. I hope to get out there this year to put up some new routes.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "A beautiful autumn evening by the lake"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/pershusfjellet3.jpg'))
+```
 
 ## Telemark
 
@@ -44,18 +64,22 @@ During May we did 3 exploratory trips to the base, and the top of the cliffs, ch
 knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bunny-chow2.jpg'))
 ```
 
-Another month passed until we had the chance to do the first ascent of Bunny Chow in July.
+Another month passed until we had the chance to do the first ascent of Bunny Chow in July. The route is a 120m slab, split into 5 pitches, offering lovely consistent 6b climbing on great quality granite/gneiss. Opening this route has given us lots of useful information about the way the rock produces usable features, thereby making it easier to choose more challenging lines on both the Northen and the bigger, steeper Southern face.
 
-```{r echo=FALSE, out.width='100%', fig.cap = "Alex enjoying the FA of Bunny Chow"}
-knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/bunny-chow3.jpg'))
+At the beginning of September 2020 we were back to explore the South wall of Luberg.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "The line shown by the fixed ropes just left of the center takes one of the most obvious breaks through a steep and compact part of the wall"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/luberg-south.jpg'))
 ```
 
-The route is a 120m slab, split into 5 pitches, offering lovely consistent 6b climbing on great quality granite/gneiss. Opening this route has given us lots of useful information about the way the rock produces usable features, thereby making it easier to choose more challenging lines on both the Northen and the bigger, steeper Southern face.
+With two drills in the mix we managed to finish bolting the route just before the season ended with snow and ice. It will be the first route on the Southern wall yielding six pitches, over roughly 150 meters of climbing, on compact gneiss. Alex also started bolting some single pitch lines in the area, so we're set for a productive 2021 in the valley. We've bought 200 bolts, lots of drill bits, so as soon as the ice melts it's game on.
 
 ## Reflections
 
 Finding new routes in the Oslo area is extremely difficult, mostly because the most obvious crags have already been found and completely developed. Apart from that, the dense forest makes it difficult to scan an area while walking through it. You could be 15 meters away from a great new wall and not know it unless you bother to walk to the base.
 
-Be that as it may, findig the Quarantine project was so inspirational that I decided I had to try to find more. At worst, you get to see new places, and spend hours walking and running around in the forest - and that by itself is great! In an attempt to narrow the search I browse a combination of topographical maps, searching for tightly packed contours, and aerial photos from a variety of sources. This give you a general idea of where there might be potential. This method has given me many hours of fun in the most random and isolated parts of the forests around Oslo, and helped me find lots of good new boulders.
+Be that as it may, findig the Quarantine project was so inspirational that I decided I had to try to find more. At worst, you get to see new places, and spend hours walking and running around in the forest - and that by itself is great!
+
+In an attempt to narrow the search I browse a combination of topographical maps, searching for tightly packed contours, and aerial photos from a variety of sources. This give you a general idea of where there might be potential. This method has given me many hours of fun in the most random and isolated parts of the forests around Oslo, and helped me find lots of good new boulders.
 
 Finding new routes in the Telemark area is the opposite: it is difficult to decide which line to climb first, among the abundance of options. 2021 will bring many more FAs in Norway.
