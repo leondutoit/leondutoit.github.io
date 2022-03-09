@@ -1,0 +1,87 @@
+---
+title: "Nico, 1983 - 2020"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+Nico. Ek skryf hierdie vir jou. Asof jy dit self kan lees.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "'n Rustige oomblik in die laatmiddag op die Turret, Turret Peak, Kouebokkeveld"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/nico-turret1.jpg'))
+```
+
+# Skok
+
+Ek wil met jou praat, ek wil jou vertel hoe aaklig dit is dat jy dood is. Hoe onwerklik dit is dat ek nooit weer met jou kan gesels nie. As ek aan jou dink is jy nog lewendig. Dis nou twee maande sedert Charles my gebel het om my te vertel dat jou helikopter neer gestort het in die berge in Australië. Toe ek sy nommer op my foon sien verskyn was ek met eens bly om van hom te hoor, en antwoord die telefoon met antisipasie van 'n goeie gesprek. Maar Charles stop my vinnig in my spore. Hy het slegte nuus, jou helikopter is weg. Dis nou meer as 'n dag, en hulle kan jou nie vind nie. Jy's weg.
+
+Ek sê vir Charles dat ek nie meer kan praat nie. Ek sit op die couch in my flat in Oslo, letterlik sprakeloos. Ek maak my oë styf toe, dink aan jou. so hard as wat ek kan asof om jou tot in die kamer langs my te bring. Asof ek jou lewendig moet dink om ordentelik die pyn te kan voel. Ek is uit asem. Selfs nou wanneer ek dit skryf skud ek my kop in ongeloof.
+
+Maar dis die waarheid. Jy's nie meer hier nie. Jy gaan nooit weer hier wees nie.
+
+# 'n Jaar later
+
+Dis 'n jaar later en ek skryf uiteindelik die volgende deel van hierdie post. Ek het soveel keer gedink ek sal dit klaar maak, maar net nooit myself neer gesit om dit te doen nie. Die vorige en laaste keer wat ons met mekaar gesels het was in Julie 2020. Jy het my gebel terwyl ek en my familie in die kar gery het. Ons was oppad na die Weskus in Noorweë. Jy't my gebel tussen Kongsberg en Notodden. Elke keer wat ek daardie pad ry dink ek aan ons gesprek en aan jou. Ons het gesels oor kinders, oor hoe moeilik dit is om hulle groot te maak. Jy't vertel dat jy en Brooke maak asof julle gaan slaap in die aande sodat die kinders ook slaap. Jy't my vertel van jou helikopters, dat jy skydivers begin uitgooi, en ons het gesê ek sal by jou helikopter kom uitspring eendag. Jirre jissis dit sou cool gewees het. Ek kan dit sien: jy vlieg, ek staan buite, ons is psyched, ek gee jou 'n laaste kyk, ons maak oogkontak en weet ja hierdie is die shit, dit is die lewe in sy volle intensiteit. En dit sou so gewees het, want dit is hoe ons altyd saam geleef het: die lewe in sy volle intensiteit.
+
+# Kammalielieland en Laerskool Stellenbosch
+
+Ons het mekaar by kleuterskool leer ken toe ons vyf jaar oud was. Die details is vaag, maar ek onthou ons het baie gehardloop, rond en rond die gebou, op die dak geklim, mense met bessies gegooi. Daar was 'n swaai oor 'n sandpit, en ek dink ons het baie daarin gespring. Ek ontou ek en jy en Ruan het al drie mekaar leer ken daar. Julle het gewoon in Waterweg 2, 'n eenverdieping huis met 'n lang driveway, en ek het in Simonsbergstraat 18 gewoon.
+
+Toe ons ouer geword het, het ons albei na Laerskool Stellenbosch gegaan. Ek dink ons was albei in Juffrou Hertzog se klas. Fokit, dit was 1990! 'n Ander wêreld bra. Al ons laaties met kortbroeke, kaalvoete, en skooluniforms in die ou Suid Afrika, Vandag my Plig hahaha. Ruan, Petrie, John, Hennie, George, Willem, Erns, Dawid, Dawie, Jaco, Jurgen, Hendrik, die ou Stellenbosch locals. Mostertsdrift, Van der Stel Straat, Jonkershoekweg, Karendal, Unielaan, Hendrik-Berglaan, Simonswyk. In daai dae was daar nog 'n kafee waar daar nou 'n Spar is, en 'n parkie waar Jonkerspark is. Die kiewiete het altyd geraas as ons daaroor gehardloop het na ons chappies gaan koop het met ons groot Een Rande na skool. Ek dink: koue voete op winter gras, die son kom op agter die Pieke, die suidoos se wolk hang oor Bergriviernek, die duiwe koer in die akkerbome, die strelitzias pruik in die tannies se tuine, en ons is jonk in die Boland.
+
+Soos ek sê, die details is vaag maar ek weet ons het baie gespeel. By die skool, na skool by jou huis, by my huis. Boom geklim, boomhuis gebou, fietsgery, kaalvoet geloop, toktokkie gespeel. Na ek terug is van Amerika het julle ouens met Voortrekkers begin. Die Bye Span. Na 'n jaar het ek bygekom. Hel, wat 'n gemors. Ons wat so stout. Ons het daai Neef Johan Colyn heeltemal van sy trollie af gejaag. Ek onthou ons het altyd parade gebank. Ek onthou een van die malste dae het ons almal net begin om bome te vernietig. Ons het in die bome geklim, en aan die takke gehang totdat die alles gebreek was. Ek weet nie hoeveel bome ons vermink het nie, maar ek onthou die malheid in die lug. Daai malheid was 'n kenmerkende gevoel deur ons kinderdae, die malheid van spontaan wees, en dinge verder vat as wat eintlik nodig is. As ons by mekaar was het ons harder en harder begin praat, meer gevloek, mekaar se mal idees aangevul met maller idees, totdat ons geskree en gelag het.
+
+Ons het soveel goed saam gedoen: rollerblade, gimnastiek, swem, rugby, krieket, judo, you name it.
+
+# Hoërskool
+
+In standerd drie het Stefan in die prentjie gekom, en 'n jaar of twee later het Derik sy verskyning gemaak, maar dis eers in hoërskool waat ons saam begin mission het. Meeste van die Laerskool Stellenbosch bras het na Hoërskool Stellenbosch gegaan terwl ek na Paul Roos gegaan het, maar ons groep was so tight dat ons heel natuurlik goeie vriende gebly het. Dit was ook een van die mees kenmerkende aspekte van ons vriendskap: dat dit konstant was, ten spyte van al die fases van verandering wat one beleef het. Ons het altyd daai intimiteit van ons direkte vriendskap behou: ek het geweet wie jy is, en jy het geweet wie ek is, en teenoor mekaar sou ons altyd dieselfde gewees het. Geen bullshit nie.
+
+Anyway, hoërskool dae, waar sal ek eers begin? Skydiving. Ek dink dit was jou idee gewees: dat ons almal moet gaan skydive. Ons was 16 jaar oud. Willem, Thomas, Derik, Stefan, Ruan, ek en jy. Ek onthou die kursus daar by Skydive Cape Town, wat toe nog die Cape Parachute Club (CPC) genoem was. Dit was warm, en hulle het nog hulle ou hangar gehad - nog voor die brand. Ons was in 'n klein en warm kamer langs die kant gewees. Daar het ons geleer oor hoe valskerms oopmaak, oor line-twists, drop zones, om in die wind in te vlieg, en saam het ons almal geskree: "arch-one-thousand, two-thousand, three-thousand, four-thousand, five-thousand, shape, float, spin". Die ou gaarde was ook daar: Anton, mal soos altyd, Jeff, wie weet waar hy nou is, Hugo, gelukkig soos altyd, Graham (RIP), en die malste ou van almal en ons hero: Chris Bouer. Wat 'n karakter, altyd aan die spring, pak, videos maak, tandems doen, skree op die pakkers, rook, lag, en hardloop uit na die Cessna 182 vir nog. Skydiving het my lewe gevorm, het 'n alombelangrike rol gespeel en wie ek geword het. En dit is ook hoe ons vriendskap was: een van die belangrikste aspekte van my lewe, en wie ek is.
+
+Skydiving was befok, maar ons het meer nodig gehad. Ek meen, waarmee sou ons die weke vol maak na skool? Gelukkig het ons fietse gehad. Nie net een nie, maar alle moontlike fietse: BMX, Cruisers, Hard-tails, downhill fietse. En ons het op ons fietse geleef! Vroeg oggend het dit begin met koerante aflewer. Voor skool het ons almal tussen 05:00 and 06:00 by die kaffee ons koerante opgetel. Beide van ons het ons eie area se wyke gehad. En ek onthou hoe baie kak ons gepraat het daar in die oggend terwyl ons sit en koerante vou het. En die kak wat ons aangejaag het, jirre: ek dink ons het een dag iemand se koerante almal op die dak gegooi, en 'n ander keer dit sommer net in die drom gegooi. Mal man, mal! Na skool het ons ramps gebou, en by die universiteit gaan BMX. Later in die dag het ons in die berge gery: Jonkershoek, en Coetzenburg.
+
+Fietsry was ook net 'n deel van die wat ons geken het as _mission_. Kom ons gaan _mission_. Die usual suspects: Stefan, Derik, Ruan, Dawie, Willem, Thomas, John. Steel winkel trollies, klim op dakke, skiet goed, kloorbomme, slaap op dakke, ry fiets, slaap in die berg, _mission_!
+
+Dit was natuurlik nie alles net sport nie. Daar was kultuur ook: toneel saammet Andre-Pierre en Ian, kuns, musiek, boeke, en movies. Haha, ons klasieke braai aande met slegte movies op DVD. Die beste. Ek kon oor alles met jou gesels. Jy was soos 'n spieël vir my.
+
+# Die Berge
+
+Die berge, die berge, die berge. Legendariese tye. Al die naweke in Montagu, sportklim, uithang in die tweedehandse boekwinkel, braai by De Bos, drink by die Hot Springs se bar, bottels champagne op 'n warm somersaand, skree "sit dit op Jansen!" totdat hulle ons uitgooi. Hoeveel keer was ons by die Pieke saam op? Of Botmaskop? Onthou jy toe ons die Jonkerhoek maraton probeer het. Dit was heeltemal te warm, en ons water het opgeraak, maar ons het dit darem van Botmaskop tot aan die ander kant van die Pieke gemaak. 'n Goeie lang dag in die berge.
+
+Onthou jy toe ek en jy en Liaan Suicide Kloof gedoen het vanaf Jonkershoek? Op by Kurktrekker, oor die vlakte Suid verby Victoria Piek, in daai lang kloof af, doen die actual kloof, spring 17m hoog by die kranse af, en al die pad weer terug. Losweg een van die beste dae wat ek al ooit gehad het. Onverbeterlik in sy klas.
+
+En klowe: meulkloof met sy 30 swemme, Volstruiskoof, hel ons het nog opgestap tot by daai grot in die middel van die kloof om die klim moontlikhede uit te check.
+
+En boulders: Bains, Bokkeveld, Eselbank (bier in die bakkie al die pad van Ceres), en Rocklands. Daai Eselbank mission, saammet Charles en Unio is ook een van die mees belangrike naweke van my lewe. Dit het my perspektief op die Sederberge permanent verander. Om Cederberg Tafeberg van agter te sien. Ah, Cederberrg Tafeberg, stuitig, stil, omring deur spasie, met skoon harde sandsteen: rooi, grys, wit, en oranje. Met sy vlakte daar bo onder die piek. Waarheid.
+
+En moenie van die Kouebokkeveld vergeet nie. Sandberg!
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Nico gee my 'n spot op 'n perfekte middag by Sandberg"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/nico-sandberg.jpg'))
+```
+
+En die Universal. Dis hoeka waar ek jou vir die laaste keer gesien het. Ek en jy en Brooke het vir die dag deur gegaan, van Stellenbosch af, en op en verby die Equinox boulder. Ek het nog daai klein weird dyno probeer aan die einde vaan die dag, en jy't mooi fotos geneem daarvan. Ek wonder of ek ooit dit sal regkry. Ek en jy het diep spore getrap by die Universal. Onthou jy daai keer toe ons op die vlakte gaan kamp het vir drie dae? Elke dag het ons gestap en nuwe boulders gevind en geklim, en dan in die aande 'n groot vuur gemaak met dooie protea bome se hout. Ek het nog videos van ons gesprekke in die aande. Daai ervarings is onverbeterlik, suiwer, eerlik. Niemand kan dit van ons weg vat nie. Ons was daar.
+
+Steeds in die Kouebokkeveld, die trip na Turret Peak was ook uitsonderlik. My ma en pa was ook nog saam. Ons het daai klein groen pad van my opgedra en langs die stap geboulder. Jirre die boulders daar bo is insane. Van die beste kwaliteit en die beste setting.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Ek en Nico geniet die uitsig"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/nico-turret2.jpg'))
+```
+
+Nader aan die huis is natuurlik Du Toit's koof. Twee trips staan uit daar: toe ek en jy en Ben na Molenaarskloof gegaan het. Ons het die nag daar onder die uitgedroogte waterval in die bos geslaap, en die volgende dag gaan bolt. Jy het langs die krans opgestap en fotos geneem van vêr af. En onthou jy toe ek en jy en Derik na Stefan se troue heelnag wakker gebly het? Ons het by my ouers se huis gaan musiek luister, en die sonopkoms in Jonkershoek gaan kyk. Toe kry ons die briljante idee om deur te ry na Du Toit's om 'n nuwe krans se potensiaal te aanskou. Lewe in sy volle intensiteit my vriend.
+
+# Die einde
+
+Dis goed om aan jou te skryf Nico. Ek mis jou. Ek onthou jou. Jou stem, jou oë, jou glimlag, hoe lank jy was, hoe breed jou borskas was as ek jou omhels het, hoe sterk jy was, hoe slim jy was. Al die plekke waar ons saam was. Alles wat ons saam gedoen het. Die lewe in sy volle intensiteit. Dankie my vriend. Totsiens.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Gelukkig by Bains"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/nico-bains.jpg'))
+```

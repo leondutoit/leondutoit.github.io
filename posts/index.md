@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Nico Brink, 1983 - 2020](https://leonomics.com/Nico.html) - _32 jaar van vriendskap, 2022-03-09_
+
 [New routes in Norway](https://leonomics.com/new-routes-in-norway.html) - _Exploring for new sport routes, 2021-02-15_
 
 [Useless spaces](https://leonomics.com/useless-spaces.html) - _A photo collection, 2020-08-07_
