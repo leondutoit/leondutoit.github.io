@@ -1,0 +1,769 @@
+
+---
+title: "Collected writings by Michael Baleta"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+_This is a collection of writings originally published on a [collaborative blog](https://our-energie.blogspot.com) spanning from 2010 until 2014. It contains small edits for formatting, and typo corrections. This is a tribute to you Mike._
+
+# On the sustainability of psyche
+
+_2010-03-03_
+
+_With special regard to training and periods of isolation_
+
+"A goal without a plan is just a wish" - Antoine de Saint-Exupery
+
+"Training toward a goal and enjoying that training." - AdK
+
+"I am infinitely pleased and proud at the appearance of my 'child'" - Darwin; after seeing the first printed copy of origin (which was over 20 years in the making)
+
+Can you wait 20 years to reap the fruits of your effort? No! We need to take pride and pleasure out of the incremental steps leading toward that ultimate goal. That "ultimate goal" which in all likelihood is not discernible at the beginning of the journey. Then what is there to strive for?
+
+You can only know what drives you, and focus on that. Of course, setting tangible goals is essential to any progressive endeavor but these should be secondary or interchangeable: I want surf the Redbull, now there is no Redbull. But this is only secondary, my primary drive is to surf big waves. And so my general training continues.
+
+We are fortunate to know what drives us, now we must proceed by sharpening the tools. For discussion it is useful to divide this process of improvement into five spheres, not forgetting that all are interdependent:
+
+1. Body - your physical health including diet. Your strengths, and more importantly your weaknesses.
+
+2. Mind - your mental state, do you control your mind in all situations. "Wherever you go, you bring
+yourself: your emotions, ...your shortcomings." (Sebastian Naslund)
+
+3. Experience - the accumulation of physical and mental skill acquired during training. (Muscle memory and
+cultivation of mind over matter, etc.)
+
+4. Equipment - Without the correct equipment, success is improbable. Your equipment is merely and extension of
+yourself allowing your existence under the given conditions.
+
+5. Playing-field / training-field - What aspects of the training-field are representative of the playing-field.
+
+It is often necessary to utilize various training-fields that together adequately mimic the playing-field. An essay is owed to each of these spheres; this script focuses on sustaining positive energy during training - training should be self-motivating.
+
+I've been know to use the Hate word when it comes to my views on cycling, but a significant part of my training regime constitutes cycling. How to keep motivated? It is essential to know why you are doing something and what it is that you want out of it (to improve general fitness and strengthen legs, to surf better, to be more confident in big waves = to enjoy my surfing more).
+
+Once this is known and understood incremental goals must be established. This is to, both, monitor progress and gain pleasure from the task. Satisfaction should be taken from achieving ones goals. Without gaining some form of pleasure from a task it soon becomes draining, rather than stimulating.
+
+(I cycle around the block, I cycle around the block in t = time, by the end of the month I want to cycle around the block in t - 20mins, I push myself to cycle around the block 5mins faster each week, I enjoy seeing the improvement, I want to cycle to better my time, I enjoy reaching those targets. But continually my subconscious is telling me I'm going to enjoy my surfing more.)
+
+This should all be fairly self evident. But what happens when you don't reach an increment and your time around the block is slower, how do you find the energy to push-on?
+
+(I'm swimming up the Orange River. I can hardly see my hands and all I hear is the drum-like action of my arms accompanied by a monotonous breathing rhythm 1, 2, 3, inhale, 1, 2, 3, inhale, 1, 2, 3... I'm struggling to better my time, I just feel heavy, I know that swimming maintains my fitness, I know that when I'm fit I will enjoy my surfing, I tell myself this - repetitively! Nothing! I had a bit of flu, but I've recovered? Something is just not right. I try to push, but there is just nothing.)
+
+Mental fatigue is difficult to identify, as the physical manifestations are exceptionally diverse. Listen to your body. Rest IS training.
+
+(I spend time with my family, I quarter my training so I don't lose my habits, I party a little and eat junk food, I see pics of my friends pushing themselves, I sleep late... And then I'm back!)
+
+Discipline is only needed to form good habits, once you have a positive habitual routine in place it is easy to maintain. Don't let resting disturb this routine. If your are sick and, say, can't go to yoga, rather roll-out you matt and lie on it for and hour than watch TV. Keep your hard earned habits. It is also important to remember that after a rest period you cannot immediately begin at the same point. No matter how excited you are. Work your way back to the previous high. Force yourself to cycle around the block in t + 20mins.
+
+(I'm uncertain as to the precise catalyst, but I just feel solid again. I go for a swim, it feels effortless, I see those same pics of my friends and now I can't contain myself, I know that moment in the photo, I want to be there, I will do everything I can to be prepared, I found my psyche).
+
+It is essential to surround yourself with like minded people. Maybe they don't surf but they do want push the limits of their discipline in a similar fashion. That collective - your true friends - will keep you psyched. By their example and by their stoke you can maintain yourself through periods of uncertainty. Sometimes just knowing that you are out-there pushing yourself is enough of a spark to push myself a little harder. Also, you will no-doubt be an inspiration to others. And in this way the psyche is self-sustaining and self-perpetuating... Having a conscious awareness of this is paramount.
+
+Initially I wanted to put forward ideas on the difference between training for long- and short-term goals. Although in typing, this script has evolved along is own course. But, it is what it is.
+
+# The G-Spot
+
+_2010-03-31_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-gspot1.jpg'))
+```
+
+There are currently three surf camps at G-Land with space for 160 surfers and there’s a fourth camp on the way. We are the first trip for the season and a total of about 16 surfers are there (including us and all the camps).
+
+After 12 hours on the bus from Bali to Java we finally arrive at JoYo’s Surf Camp with the sun just coming up over the ocean. Breakfast is served and everyone is amping to hit the water. The swell is marginal and the tide is wrong with a slight on-shore. Also, I had two nights of fever and the glands in my groin were badly swollen – should have looked after that little scratch a bit better. So I opted out and went to bed instead.
+
+By the afternoon everyone was finished. And I had just risen in time for the pushing tide. Feeling slightly energized I grabbed my board.
+
+I’ll never forget this session.
+
+I left the camp and walked out onto the exposed reef. (The camp is down at the end of the point and there is a foot path to the top that goes through the jungle). I took a slow walk along the reef. It took me at least half an hour, stopping to check the life in the pools and the odd set rolling down the infamous point. I never saw a single person not even a local fisherman. I had the wave to myself for about two hours. It felt like I’d always imagined – like in the old-school vid’s of Gerry Lopez and the boys. Back when G-Land was still the G-spot of the surfing world, stuck away in the virgin jungle.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-gspot2.jpg'))
+```
+
+Anyway I spoke to the doc later that evening and he said it was bad and would get serious if I didn’t stay out the water for a couple of weeks. He was worried the infection would spread to the bone. I could see the concern in his eyes and also that he knew I was never going to stay out the sea for that long. I managed three days of not surfing at G-Land then a decent swell arrived.
+
+I’m blessed to have had my first time happen the way it did. And I thank God that most men cant find the M-Spot.
+
+# The Numbers Catch-Up
+
+_2010-04-12_
+
+Fok Bra's I had a serious nearly! Or did I?
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-bike.jpg'))
+```
+
+So I was talking to some people the other day about pushing oneself and listening to your feelings and listening to that little voice that guides your decisions, being in 'the zone'. I do listen, and generally very well, hence my surviving many 'situations'. I can't understand why I so often 'get away' with insignificant damage - all I can say is that I really do believe the world is spinning for me, I always put so much conscious energy into positive outcomes. I tell myself every day I can't die!
+
+It's about 08:00 and I'm heading to Canggu for a surf. The Bypass (double lane each way with concrete divider) is real busy, space between trucks, cars and scoot's is non-existent. You never have much more than 3 meters of clear road ahead and this entire mass is moving along at about 80km/h. I have my board in the rack on the left of the scoot, short shorts, a vest, and crappy helmet. No modesty, I'm good, real good! I'm doing about 95km/h weaving through holes left by a local kid (whom I'm catching up to quickly). Just so alert - taking in tons of info, calculating, predicting, deciding, reacting. This guy dashes across the first lane and finds a tiny gap just before the center line, I'm just on the other side of the line with a car to my right and a scoot to my left. He's maybe 15meters in front of me when he looks and runs. (I suppose the other scoot would have hit him dead-on if he hadn't moved).
+
+I swerve to the right and just clip him with my board and left handle-bar. Scoot goes down - I go up and over. I tumble uncontrollably 4 or 5 full rotations maybe more, just stay completely relaxed Michael. It's a total blur, then I back-flip and take 2 huge bounding steps backward to keep up with the momentum - so relaxed - everything slows down. I see the car that was on my right and now on my left cruise past me, a scoot dodges my scoot which is sliding toward me and another scooter dodges me. I make myself small again to force the roll so i don't break an ankle flipping and bounding. I come to a stop about 70 meters from impact standing on the white line. I move to the side walk. Nothing is obviously broken! Slip back onto the tarmac to retrieve the scoot. It starts first time. I turn to check if the other guy is ok. He's sitting on the pavement all the up the road and doesn't look to be in mortal danger. As I start walking toward him a police man starts toward me - corruption, bribes, extortion. No thanks! Get on the scoot, some dude in the small crowd that's gathering asks me where I'm staying. I lie, cradle my arm like its broken and ask directions to the hospital. I never went near a hospital, instead straight to the busy part of town...
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-arm.jpg'))
+```
+
+Some minor roasties on both elbows, knees and right foot (wasn't wearing shoes). My board is fine. Nothing of any significance. I really feel bad about connecting with that guy and especially not sticking around, but fuck. I was thinking that morning on the ride to Canggu, if the numbers would eventually catch-up with me. And I suppose they did, but at least I learned a lesson; to continue staying positive and listening to my feelings. I'm back on the horse/scoot and still driving like I do, focused and calculating. I understand the risks, now even more so. It doesn't scare me. I'm more worried that if I stop using my luck, it will dilute away. A second slower or a second faster - it can be argued both ways. I know that for me it's best to keep pushing forward. Hati-Hati.
+
+# Wax Smile
+
+_2010-06-09_
+
+I often scrape little balls of wax off of my board and press them back-on, toward the nose of the board, in the shape of a smile. It helps to pass the time between sets, but more importantly it’s my conscious effort to exercise positive thinking. Seeing those little wax smiles make me happy and reminds me how powerful a smile can be. Those days when it’s just not happening for me; when my swell magnet is switched-off, when I’m falling for no reason. I see the smiles and tell myself to smile. It doesn’t matter that I fall – I can actually obtain pleasure by being aware of my existence in such beautiful environments – sitting in the ocean feeling the natural flow of energy and allowing my mind to calm. Hippie shit.
+
+I often think of Andrew Marr when I’m in the water at crowded/competitive breaks. He always has a smile and gives a hoot for anyone going for a good wave. When he’s around the entire atmosphere changes and everyone has more fun! I’ve seen the same thing when Arjan gets in the water. It’s amazing to see the effect we can have on our environment and the people within.
+
+I’ve been patient, very patient waiting for the bomb set. Some chop blatantly drops-in on me. I pull-into the barrel behind him. There is spray everywhere and I can’t see anything just trusting my line. He bails. I come off the bottom and hit the lip before hopping over the shoulder and start paddling back up the point. As I pass, he makes a half-ass apology. I say “no-worries man, there’s plenty of space for everybody”. Not to sound cocky but so that everyone else can feel the good vibes. Seriously, I’m in Bali surfing my heart out and I just got barrelled. There is nothing to complain about.
+
+Keep the Peace
+
+Stoke the Gees
+
+# April
+
+_2010-06-16_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-barrel.jpg'))
+```
+
+Today was kak, woke-up and couldn’t shake that little niggle in the recesses of my consciousness. But I could hear the waves breaking while lying in bed waiting for the sun to do its thing. At first light I headed down to the look-out point for visual confirmation, I stubbed my toe rather badly. Michael, can’t you just concentrate? Went back to the flat and doctored the toe. It took me three tries to leave base, kept forgetting little crap. Despite a few other minor niggles, including a no petrol in the scoot situation, I finally made it to the beach. The waves were solid, good barrels but not much wall for turning. I patiently make my way to the top of the pack and drop into a bomb. Pull-in and get shut down! Every wave I catch closing-out or falling flat. Ok, go home and take it easy, the body is definitely talking.
+
+It’s supposed to be smaller than yesterday (?) but I head back to the same spot. There are only 20 people in the water (1/3 of yesterday) and it’s slightly smaller with no wind. I watch the line-up from the warung and eat a mie goring while sipping on a Bali kopi. Gathering myself and commanding my consciousness – I hit the water and hit it hard! The waves come to me. Even one of the hard-ass locals (with whom I’ve had ‘encounters’) seems friendly and even calls me into a couple of bombs. I’m number 3 away from the peak and beaut’ starts to build on the outer reef. Number 1 is too deep and number 2 paddles. Then for no reason hesitates. I swing round take a half stroke and stand-up in the barrel. Maybe 6 seconds later I come out clean and bust an air. It was one of many great waves that day.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-air.jpg'))
+```
+
+Nothing really changed since yesterday, well except for me. Sometimes I’m just too fatigued to overcome that little niggle. Rest is training!
+
+# Arriving home
+
+_2010-06-23_
+
+I had the longest shower ever and waited until the water got cold. Then I just passed the fuck out! Got up early and went for breakfast on a nearby wine farm with Arjan and my bro (Marc). It was raining and cold. Fuck it’s good to be cold. We had a proper coffee and the hugest breakfast in front of the fire. The warm glow and familiar crackling along with being close to my family... the normal lethargic response was absent. Instead we are full of gees (energy, psyche and spirit), planning the next angle of attack (climb, surf, paddle... etc). Winter in the Cape, fucking stoked!
+
+The next day we (Marc and I) head down the coast to visit our ballies (parents), via a canoe race my bro wanted to do. We arrived early. The river is glass with low lying mist blanketing the surrounding vineyards and not too far away the familiar Langeberg Mountains silhouetted by the pink and orange aura of the rising sun. Slowly the mist adopts the colour of the sky and my bro glides through the water disturbing the morning glass on his warm-up run. Twenty six kilometres downstream I’m sitting with Pierre, the winner, on the grassy bank overlooking the finish line. Suddenly Pierre jumps up; “is that marc – already”! It’s my bro’s fourth race and the longest he’s ever done. Finishing a couple of minutes behind the leaders, he needs another six months of hard training and he’ll be very competitive. So we’ve been training! Up at 5am running, core, stretching, slackline, surfing, paddling, climbing... completely maxing out. I just want to do everything as much as I can, every day. Sometimes I have too much energy in me and I just need to scream to let it out. Aaaaaarg!
+
+# Days in the office
+
+_2010-08-11_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-wave.jpg'))
+```
+
+This room is so big, and I’m camping out in one corner. It was an early night – the weekend really took its toll, but I did enjoy abusing my body. I wake to the sound of crashing waves. It’s just after 3am and I’m wired! I know I need more rest consciously trying to relax my mind. But it drifts, always returning to the same images of waves, rocks, and now fjords. Tossing around until 04:45 I cant take it anymore. I have a stretch then pack the car in preparation for the coming day. I’m suited by 05:30. The sun won't be up for at least another hour and a half.
+
+Around 06:45 I message a couple of the boys and start paddling into the darkness. By the time I’m at the back, there’s just enough of a pink tinge to the sky to see an approaching set. I move out the way, watching vigilantly, what mood is she in today? There’s a mild offshore but completely manageable, and I’m on the next decent wave. It’s really difficult out there, and I got caught a couple of times, but also did some catching. Jacque and Jason joined me just after eight. It was really nice to have some company, you’re always on edge when you out there alone.
+
+By ninish the wind was getting to me and I was really cold. I paddled inside to catch a wave out and a good one came through. I never paddle hard enough. Lip Launched and Pounded. Thoroughly! If you wanna play you gotta pay.
+
+I’m in the office by ten, making small talk about the long weekend… blah blah blah, good thing I did my screaming in the mountains.
+
+# Intrinsic Motivation
+
+_2010-11-11_
+
+```{r echo=FALSE, out.width='80%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-solo.jpg'))
+```
+
+"The incentive to undertake an activity based on the expected enjoyment of the activity itself, rather than external benefits that might result"  - en.wiktionary.org
+
+"Another way of looking at intrinsic motivation is to see it as the expression of an instinctual urge to master the environment" - Rhona Ochse
+
+I often struggle to relate to people, trying to find some common ground some frame of reference? I couldn't care less about Andy Irons pegging (when I off myself please don't come to some paddle out if you don't even know my middle name (or names), Kelly winning his 10th Title (I have infinite respect for a person so dedicated to progress. Talent = Hard Work + Sacrifice), Eskom welcoming a R20bn Government Boost or that the Proteas are Counting on Amla (Times Live)... blah blah blah.
+
+The only thing I really care about. Wait, actually its a little more than just 'caring about' - my entire being is completely focussed on how the rock feels under my finger tips - it's a flat edge but the friction is great considering the warmth of the mid morning sun. Moving my right foot out over the nothingness I consciously place my big-toe on the little edge, which I had tick-marked earlier while rapping down the intended line. Shifting my weight out I carefully watch the rubber mould onto the rock and catch a glimpse of two spandex clad cyclists far below. This is exactly where it's at!
+
+The body position is fairly balancy and rather exposed but I'm so solid. I release my left hand, slowly, very deliberately moving away from the rock barely enough to allow my hand unobstructed access to the good side pull just in front of my chest.
+One full breath.
+
+Sort out the feet. Reach for the good hold on the ledge. An easy mantle and another 'uneventful' mission complete. Maybe this line has been climbed or maybe not. Never the less I'll name it Intrinsic Motivation give it some relative grade and go down to the local coffee shop and make small talk, probably about the weather, the game or how hectic the blah blah blah....
+
+# Part 1: It's my birthday and I'll die if I want to
+
+_2011-05-20_
+
+Like a tiny pebble in your shoe, that constant niggling self-doubting “what if” question. It’s more like a short video clip that plays on repeat every time my mind quietens – a hold breaks, a foot pops or whatever and I fall away from the rock. That moment when some part of me is still touching the earth but the inertia of my outward momentum is inescapable. In 4 to 8 seconds I’ll impact and it’ll all be over. It doesn’t scare me! It frustrates me to the nth degree; I’m falling to my death for something so trivial and I won’t be able to do all those other fun things I like to do. Stupid Boy! But, as gravity acts on all mass, I must go; I must spend time in these situations (physically & mentally). I don’t know why in need to but I do.
+
+The previous night, after my normal training, I spent about 40minutes breathing and visualizing the possible outcomes (of consequence) for my plans on the 20th. If I do fall should I roll onto my back stair into the heavens or turn and track a far as I can. If that shark does get feisty will I punch it on the nose or poke it in the eye. I make dead certain that I end with a seamless string of visualizations from topping-out to being spat-out to ending a great day with a big smile and sense of contentness.
+
+The morning of the 20th is overcast with a serious threat of rain. TM looked like it had a thin veil of clouds. Actually it was in the clouds. I was just really desperate to act-out the previous evenings mind games. While driving over Chappies it started to drizzle and I made the ’wise’ decision, and headed up to Silvermine. I did a couple of single pitches and headed back home to swap gear. By the time I got to the dive site Steve Benjamin & Hanli were just leaving. It was cool to see them but I was happy to have the place to myself. At 15 sharks in that many minutes I stopped counting.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-bday-shark.jpg'))
+```
+
+After the dive it was back to Kom for a very dismal kite session, then my first coffee for the year, woohoo. Went for a quickie at the Boiler in the late afternoon when the swell had started to pick-up. It was big, messy storm surf with nobody around just like those countless sessions at my local in the Garden Route. I never got spat-out of any barrels, unlucky. After a hot shower, I headed over the mountain to visit my family for dinner via a quick slack-line session on the Rondebosch Common.
+
+I met up with Ruan in town and we headed out to the chosen site. It was about 23:00 and was walking around on the bridge setting-up the swing. Every time a car approached I would conceal the gear as best as possible and stroll around nonchalant. As if you can act casual on a bridge in the middle of no-where on a dark stormy night. WTF. So I did the bag test and ran down to check what the clearance looked like. I had given it about 4 meters of extra slack. The bag was hanging with not much more than two meter of clearance. Even without that slack the rope stretch from the weight of a person would’ve put the apex of the swing somewhere in the ground. We moved the gear further across and did the bag test again. Plenty of clearance and we were good to go. I climbed over the barrier rail, shouted one final check to Ruan and jumped! Aaaaaarg yes! So psyched. While I was penduluming around I check the time - 23:58. Got it all done in a day.
+
+As the swinging slowed, Ruan lowered me to the ground. I took up my position on the other end of the rope and Ruan ran up to tie-in for the jump....
+
+# Part 2: It's my birthday and I really don't want to die
+
+_2011-05-20_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-bridge.jpg'))
+```
+
+I’m tethered to the car with the rope taught patiently waiting for Ruan to get his shit sorted out, on the jumping end of the rope. It’s always going to feel like an eternity, waiting for the other guy to jump – and there’s just never enough time to check and double check your knots before jumping. While waiting I notice a car cruising along the other fly-over. The blue lights on top made it hard to miss. Ruan was taking a little longer that he should have and then the rope goes slack as I watch the jumping end drop with nothing on the end. I phoned Ruan to get a hasty reply (shouting full sentences was not efficient); “I’m just speaking to the police’ I’ll call you back”. If there is anyone you can sweet-talk the police it’s Ruan. So we did the bag test to demonstrate what we were up to. (The bag survived). I run up to see what was going on and help with any negotiations. Constable Nthethe was the man in charge. Super friendly and surprisingly cheerful – I think that when you rush to the scene of an attempted suicide (apparently the few cars that did drive past thought we were trying to off ourselves and the police got numerous calls) and find a couple crazy people chasing cheap thrills you can see the lighter side of things. So Ruan pulls out the Blackberry to show Constable Nthethe and his crew so images of the other stuff we do. They seem convinced and are about to move out when the good Constable turns and asks; “are you sure you don’t want to die?”
+
+Psyched!
+
+# The MAS is dead, Long Live the The MAS
+
+_2011-06-01_
+
+It’s Monday the 14th March 2011 at about one o’clock and I’ve been watching the swell build on the wavebouy. I’m overheating, I can’t sit still. The reaction has started and the energy is building exponentially. I feel constricted by my body, almost claustrophobic, I’m about to explode. By 16:00 I’m strapping on my leash and paddling out to Sunset Reef.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-wave-data.jpg'))
+```
+
+Standing in the parking lot the bay was overcome with a morass of gigantic swell, untamed whitewash and the air filled with the deep rubble of monster waves. But as soon as I pushed off from the shore and started to paddle-out there was a conspicuous dulling of the loud rumble. The waves had produced a thick froth on the surface of the ocean which seemed to suck the sound out of the air, only to leave an airy din.
+
+James Lowe, Si’, Andy, Smithers and Jayson Hayes were already out there with Jeremy H on the ski playing rescue ranger. Si and James went for a bomb. James made it and Si got thrashed. He very nearly earned a two wave hold-down, lucky there wasn’t another one behind. Then a cleanup set did its job and it was only Andy, Si and myself remaining. They went to drop-off Jeremy H so that they could tow. I was out alone for about twenty nervous minutes trying not to get caught by a rough one. The two old dogs returned and Si put Andy into the second wave in a set, I went for the third. Si saw it from the ski. I was just off the peak – but fuck. I made the wave, barely and paddled out wide to avoid the remaining sets. It was definitely some of the biggest waves I’ve ever surfed and most definitely the wildest! Si dragged me back to the spot on the ski. I was sitting about six or seven hundred metres further out than on a normal Sunset day. Andy and Si were about 150 metres further waiting to start the tow run.
+
+I saw a set building way far out, definitely a really big set. I started paddling out into the middle of no-where. Big deep, full, slow breath. Not paddling frantically, just hard confident strokes. As the set approached I could see a ‘little’ one in the front with three successively big waves building behind it. As I paddled over the little one I saw how big the other waves were – it was already too late what ever happened I was going to be caught! So I turned and when for the first proper one. I just scraped into it. Got a little air under the board and stabilised a third of the way down the face. As I negotiated some rather large bumps, my inside rail snagged and trying to corrected I missed my chance to come-off the bottom and get onto the face. Straightening out there was enough time to get a full breath and watch the monster grow to its full height before releasing all its power onto that special place – that place exactly where I was helplessly waiting. But this is exactly what I train for. I’m calm and relaxed, relatively. If the leash had snapped I may not have been able to write this junk. I could feel it stretching to the absolute limit. I took the rest of the set on the head and almost a kilometre from where I started Andrew raced toward me on the ski. The worst was by far over but it was so good to see him. I got my breath and paddled back to the beach.
+
+Another epic day with hardly anyone around! The magnitude of that swell was not realised by almost anyone. No photos, No proof, No MAS... Long Live the MAS
+
+# The price of cocaine
+
+_2011-06-20_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-sunsets.jpg'))
+```
+
+Cherie found a box of old photos in the cupboard and put them up around the house. This one was placed above the bathroom sink, just below the mirror. It’s a photo of my friend Jacque Theron (a legend in the cape big wave scene). I don’t know who took it or when it was taken. I do know that it must have been a solid day at Sunset Reef. Every time I look at it my mind is immediately transported to that special place; I insert myself in the barrel, I’m taking of where Jacques is, I’m caught inside watching that lip heading my way while trying to get a good breath or sometimes I’m just paddling back-out staring, mesmerised by her power and perfection and lured by the possibility of intimately existing with a creature so wild yet infinitely beautiful... This is my cocaine!
+
+So another ‘swell’ and another disappointment. It really looked like shit yesterday, but we hope and some of us probably pray that some magic might happen. At 04:50 I check the wavebouy and, oh my goodness, the swell had spiked. I’m struggling to contain myself as I try to leave the house quietly – not too much longer and I’ll have my fix! (I worked on the weekend in anticipation of this promise – it’s bad for my psyche to work on the weekend). We’re on the boat waiting in the channel just before first light. What mood will she be in today? Confused, sick, lifeless and possibly depression had started to set in – she was in no mood to play. We had the boat out of the water and cleaned by 08:45, then headed around the corner to paddle at another spot. Disappointing is all I have to say.
+
+The weatherman made a promise; he told me I would get my cocaine but all he brought was a box of cigarettes.
+
+So, for now, I’ll let my mind wonder through this photo exploring every possible situation. It’s enough of a fix to keep me training, to maintain that headspace, to be ready to dance when she wants to party.
+
+# Fortune cookie wisdom
+
+_2011-08-10_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-cookie.jpg'))
+```
+
+[Obsessive behaviour is a prerequisite for progressive action]
+
+Fuck fuck fuck... what the fuck have I been up to. Nothing!
+
+I feel like hedonismbot – indulging in all those things that people seem to enjoy; beer, pizza, bread, bacon, eggs, melted cheese and OMG even caff'd coffee. I had deep fried hake and chips two evenings in a row. Shit Mike, what’s happening?
+
+Steve Benjamin and I headed to the reserve to go for a quick dive. The conditions were shit on both sides of the peninsula and it didn’t take a lot for us to convince ourselves that it wasn’t worth getting in – I actually want to get sick typing this. Steve, I’m so sorry man, I let us down. We should have just gotten wet. It’s ALWAYS better than staying high and dry.
+
+The first four months of 2011 was full-on training and discipline in anticipation of the coming winter. We go that super big swell in March. But not much else really happened. It’s August now and it still hasn’t happened. I realised all that pent-up psyche needed a release. But instead of actively finding some epic physical challenge I’ve subconsciously been releasing the energy by partaking in passive sociably acceptable behaviour – I’ve basically become a pussy.
+
+It crept up on me, but I caught it just in time. I’m back on the programme! Deb’s was saying the other day that; “Michael doesn’t sleep, he recharges”. Yes!
+
+So it's Monday morning in the office and i'm finding every oppertunity to fit in a little extra exercise; leg-ups between the table and counter while the kettle boils, pull-ups on the door frame everytime i go in/out of my office and 'randomly' doing a yoga pose when an office conversation starts to bore me - fire the accelor-ray!
+
+I will do what I must.
+
+....and he’s outta’ here....
+
+# The Boiler
+
+_2011-08-12_
+
+I arrive home from work at about 17:37, AdK and entourage have also just pull-in. It’s been a long day at work and I NEED to get my head wet. The Boiler is the only half decent spot given the time limit imposed by the setting sun. I’m suited up in a flash and start to hurry-along the other guys; Arjan’s also psyched and suited, Danny just woke-up and is lagging and Lefty is slightly hesitant.
+
+“So, Arjan, can these foreigners surf?”
+
+“Ja, Danny’s fine he spent a couple of months in Indo.”
+
+“And the other dude?”
+
+“Lefty has only been in the water twice… but he can just sit on the shoulder”
+
+“mmm… Ja, he should be cool”
+
+It was about 4, maybe 5 foot and a bit lumpy and bumpy with a medium-low tide. Three other guys were out. That big old yellow fellow in the sky was slowing dipping behind the ominous leading edge of an approaching front. The dark and gloomy horizon and wild looking shore-line couldn’t have looked very inviting.
+
+I had a couple of little waves by the time AdK and Danny had made it to the back. Then my fin broke-out while doing a big top turn (coz I’m that powerful – claim!) and I headed back to shore. Lefty has been standing on the rock deciding on how good an idea this is. I give him the basic rules of the ocean and convince him that if you don’t go, you’ll never know.
+
+The Boiler is no joke! Getting in and out over the rocks is tricky at best. The wave itself is often compared to a scaled down version of Mavericks – holding off until it hits the underlying rock shelf, then the lip projects forward with serious attitude destroying anything that crosses its path.
+
+I walk out with him till we are knee deep in white wash.
+
+“Don’t worry man, the worst that happens is the board gets dinged and that doesn’t matter, anyway I’ll come rescue you if it gets serious. Jump! Go go go! Paddle dude, Paddle”.
+
+He’s lying too far back on the board and he can’t even duck-dive. He can’t duck-dive, wtf! He gets buffeted by a couple of little froth monsters but gets to the back, miraculously, before the next sets start rolling in. I realised he’s gonna be in The Shit on the way back to shore, especially since there was about 15mins of decent light left. So I paddle back out. I’m halfway to the peak when a set approaches. The second wave is top-to-bottom, with Lefty inside the pitching lip. It looks like those classic photos of guys going over the falls at Pipe (Hawaii). He breaks the surface, dazed and struggling to catch his breath. I help him paddle back to shore.
+
+“You good man, just take big deep breathes and relax. I told you I won’t let you die”
+
+Safely back on the rock above the high water mark, and Lefty is puking his guts out! But he’s alive.
+
+Not a millisecond of discernable panic or hesitation. Lefty – impressive and inspirational. Or maybe just fool hardy and blindly trusting. I like to think it’s the former. But either way it was worth the laugh, for me, and after this experience learning to surf should be trivial.
+
+# Extra, Extra, Read all about it
+
+_2011-08-26_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-dungeons.jpg'))
+```
+
+"Most people have no idea of the giant capacity we can immediately command when we focus all of our resources on mastering a single area of our lives" – Anthony Robbins
+
+It’s such a strange thing for me to get calls from people I haven’t heard from in years. This mass recognition is strange because nothing has actually changed. Well not for me, I’m just doing what makes me happy. And the range of comments are so varied and more often than not, highly uninformed:
+
+“That’s so nice for you.”
+
+“Don’t you get scared?”
+
+“How big was it?”
+
+“Now you can get sponsors and go places.”
+
+The only common denominator is the stoke. Everyone is happy / proud / excited. A while back someone told me that what I did in the water inspired them. It’s such a hectic thing, to know that your actions can play a role in the lives of others. It is a power we all have and so often underestimate. Seeing Lefty take the bull by the horns was inspirational to me (re Fortune Cookie Wisdom, or was it the bull that took him). I want people to know that they can achieve anything. Absolutely anything. But what Anthony doesn’t tell you is that it’s gonna cost you, there is always a comprise to be made, and sacrifice is inevitable. But discipline is the price of excellence.
+
+When you look at that photo don’t say; "wow, what a big wave that's so hard-core, it’s so amazing, it’s so nice….” Look at it and know that being able to exist in that moment has taken significant sacrifice and discipline. And that I’m infinitely happy in that moment. And, most importantly, that you have the ability to create your own moment of infinite happiness.
+
+To set the records straight:
+
+A cup of tea is nice.
+
+I don’t scare easily.
+
+Big enough to get me excited.
+
+The only place I’m going is back out for ONE more wave.
+
+
+# To Joseph Malbos - Happy birthday!
+
+_2011-08-30_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-j-1.jpg'))
+```
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-j-2.jpg'))
+```
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-j-3.jpg'))
+```
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-j-4.jpg'))
+```
+
+# How close is too close?
+
+_2011-08-30_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-huge.jpg'))
+```
+
+**bane** - noun
+
+1. a person or thing that ruins or spoils: Gambling was the bane of his existence.
+
+2. a deadly poison (often used in combination, as in the names of poisonous plants): wolfsbane; henbane.
+
+3. death; destruction; ruin.
+
+4. Obsolete - that which causes death or destroys life: entrapped and drowned beneath the watery bane.
+
+So the previous post was the set-up / tone-setter. We all die, and we won’t know how or when? There are enough stories about idiots botching suicide attempts and crazy people pegging by completely trivial activities... the point is we'll never know.
+
+So how close can I get? I don't know?
+
+I do know:
+
+1) I NEED those situations where the outcome is completely uncertain, where everything is wild.
+2) I'll keep practicing, preparing and pushing until that day when it all catches up – after that it’s up to The Big Cheese in the sky.
+
+I feel like I’m going to burst into flames, literally! There is just so much to do and so little time – this energy needs to be released. But the more I burn, the more I have, the more I must do. [Socially acceptable behaviour – the bane of my existence]. The time is coming for me to segregate myself from daily distractions and draining interaction. Refocus, re-equilibrate and normalise to my rhythm. I’ll come back stronger, fitter, faster.
+
+YES!
+
+# Waves of Psyche
+
+_2011-09-05_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-fall.jpg'))
+```
+
+I’m still not certain why we have these large scale oscillations between times of active pursuit and passive recuperation. It is possibly an inherent human trait that has evolved over the eons – allowing us to over exceed in times of desperation and forcing recovery phases when muscles and mind must regenerate. The scale and duration of these oscillations vary from person to person and with each situation. Arjan was injured for almost two years and when he came back (he never really left, he just changed tack focussing his energy on other things) – he came back mentally fitter, which was quickly translated into physical power as attested to by the long rap-sheet of super hard ascents.
+
+So right now I’m on the crest (physically and mentally) and enjoying the ride. I just want to dump as much gees as I can onto this page, because for whatever root cause, I will no-doubt find myself in a trough of low-psyche. Then I’ll have to be disciplined. Keep the healthy habits. Keep the exercise routine. Keep the focus. In those times my friends are invaluable – I will feed-off of their psyche. LdT (Leon) will be flying and The Open Hand Man (Arjan) will be crunching down on the rock. And I will be smiling in the knowledge that they are out there doing their thing. The hunger will grow and the machine will kick into gear actively pursuing the next crest.
+
+It is not how we perform when we are on these crests that count. It is how we manage ourselves when we are in a slump – this is what defines a person. Achieving some personal goal never just happens. These physical realisations are the accumulation of the building-blocks we have created – the base of which is so often defined by how we handle the troughs.
+
+# Rebel sessions
+
+_2011-09-08_
+
+"Security is mostly a superstition.
+It does not exist in nature,
+nor do the children of men as a whole experience it.
+
+Avoiding danger is no safer in the long run than outright exposure.
+Life is either a daring adventure, or nothing." - Helen Keller
+
+Videos:
+
+* [Sunsets Tow](https://www.youtube.com/watch?v=AH_mk5kFurQ)
+
+* [Dungeons Tow](https://www.youtube.com/watch?v=Yvh6JMNnGnc&feature=relmfu)
+
+* [Dungeons Paddle](https://www.youtube.com/watch?v=dxfR7FxTFSE)
+
+# 12. The Catalyst
+
+_2011-12-09_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-jump.jpg'))
+```
+
+If you recall your lessons in thermodynamics you will know that a catalyst is a substance that decreases the activation energy of a reaction, i.e; the energy required to start a reaction. This is to say the reaction would take place without the catalyst but at a far slower rate. The catalyst ‘triggers’ what already wants to happen.
+
+There is a big bundle of guys in the water. It’s the ‘first’ paddle session of 2011 at Dungeons, and everyone is frothing – or are they? The playing field is as big as ever. Everyone is sitting on The 2.5 (which is closer to the channel). But the swell direction is slightly off and none of the sets seem to be breaking here. After a half hour of waiting it is glaringly obvious that all the proper waves are way up the point, even a little past The 3.5 and almost directly off-shore from The Slab.
+
+So paddle through the crowd. There are always looks of; “what do you think you're doing, don’t be rude, don’t snake everyone that has been waiting….” But the glances quickly turn to; “oh, never mind he’s going all the way to the top peak”, which is pretty much a completely different wave.
+
+I know from experience that when you sit up there you WILL get caught and you WILL get pounded. But I can’t keep watching waves go by unridden waiting for someone to show the way. I’m sitting about 150m past the main bunch, trying to be patient. I know I must select the right wave. A medium set approaches and I hold my position, it looked like it would hold back – it didn’t! I was caught inside. I managed to swim under the cascading lip as the leash pulled tight. Suddenly the tension released and I immediately knew the board had been snapped. Paris collected me on the ski and I got my trusty spare board from the float-line.
+
+Slowly making my way back into the crowd I find myself sitting next to Twiggy. He made some comment like; “why don’t you try that again, haha….” Of course I’m going to try that again. What, did you think I was going to just sit here with the rest of you and watch all the good waves roll on bye?
+
+Again I paddle past everyone, the camera ski follows me up to the top. I hadn’t waited more than ten minutes before a solid wave popped up in front of me. Up at the top there are a lot of backwash waves and turbulence from The Slab and The 3.5 – the water is always wrestling and churning all kinds of ugliness. I just felt like it was right. I only needed a couple of strokes before I got to my feet and then the roller coaster began.
+
+I saw a nasty boil at the bottom of the wave and watch the little step grow as it moved up the face. I ramped off of it! Air borne! The board started to drift away from my feet, but I extend my legs to keep the contact. Touch down! Aqua firma – game on! Bouncing to the bottom of the wave I manage to regain control as I watch it start to wall-up all the way down to The 2.5. I made section for section and jumped off in the channel. Hell to the yes. I paddle through the bunch en route to the top. This time Josh joins me. He has a bomb and soon after that the reaction is in full swing with half the crowd sitting way up the point.
+
+Destroy destroy destroy.
+
+# The river man
+
+_2011-12-19_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-river.jpg'))
+```
+
+Black as oil, flat as sheet glass and punctuated by tiny, yet bright, twinkling spots. It is difficult to determine exactly where the sky ends and the river begins. Peripherally, the river banks are also perfectly reflected. In the immediate vicinity the bow-wake distorts the image as the nose of the K1 silently pierces the glass.
+
+It feels like a dream as I glide effortlessly over the water. I’m paddling along the South African bank where the trees are higher and I’m in the shadow cast by the crescent moon. The previous time I was here with Marc and he spotted a little glowing light in distance and commented on the peculiarity of seeing a head-lamped traveler in the middle of nowhere. It was a firefly. Tonight they are everywhere dancing around along the rivers’ edge.
+
+Actually that last time with my bro really broke me. I was just keeping up with his meagre pace until halfway up the split on the Nam side. Then I just fell-out on flat water for no reason. Well, actually, because I was getting fatigued and I just couldn’t keep the core tight! We stopped in an eddy just before the river joins. Marc sneaks up to the top of the next rapid. As I come out of the eddy the nose gets caught in the fast water and turns me perpendicular to the fast flowing stream. I fall out and try to figure out where I’m headed. Suddenly I’m pinned against a rock and tree. The water feels like its pulling me downwards. I manage to climb over the canoe and onto the rock. After much battling and falling out (all on my part) we shoot the final rapid and enter the flats on the home stretch. At the last 800m Marc turns to me and says he’s gonna push-it back to the house. No way I’m keeping up with that. He is vastly more powerful than me.
+
+But that one mission really bumped me up to the next step. This time I’m keeping my stroke and paddling powerfully and on the return I even give it a good push on the home straight.
+
+Thanks Marc for dragging my along.
+
+# Enter the food chain
+
+_2012-07-18_
+
+I was with a friend (a complete novice to the water) and the swell was decent, actually really decent. Solid 4ft groundswell with the odd six footer. The plan was to hit Selection Reef on the south end of Umdloti, collect some Bugs and maybe pick-up a Snoek or Garrick.
+
+I normally get in just in front of the car park and work my way along the coast to Selections’ but I thought that would be a bit much for my learner. So option B was to get in just behind Selection Rock which is slightly protected from the full brunt of the swell and there is a good rip current that sucks out over the shallow sand bar / impact zone.
+
+So after a couple of pointers we head out into the rip. It is immediately evident that the learner is not comfortable and we aren’t anywhere near the impact zone and the rip is taking us sideways toward some rocks. Abort! I drop my gun, and the float line. The extra paraphernalia was getting in the way. Over the flat rock shelf and safely back on the beach. No injuries, no problem.
+
+I spot my buoy and head out to find my gun, which is hopefully still attached to the other end of the buoy line. Find the gun and untangle the buoy line from the rocks; easy peezy lemon squeezy. This time I’m alone.
+
+As I punch through the backline I start pulling the buoy line to retrieve the buoy through the impact zone so that I can get my flasher. Then out of the hazy water a smallish snoek appears swimming straight toward me for a better look. It was too close and I fumbled trying to turn the gun. As it swam under me I managed to get an awkward shot.
+
+It immediately goes wild! The shaft entered below the dorsal fin and exited just above the pectoral. Missed the spin! And they are really soft. (Over the last month I’ve lost four snoek with crappy shots like this). My Heart is racing. Just don’t tear lose. As it makes a run I give it slack on the spear-line and retrieve the slack as soon as it’s not thrashing around. It’s been just under a minute by now (forever). I’m still playing the fish but mostly by feel. Instinctively, my visual focus has shifted to scanning the surrounding haziness.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-shark.jpg'))
+```
+
+The visibility was terrible, at about 5 meters. I wasn’t too worried as I was in about 6 to 8 metres of water and the big ones don’t often come this close-in? After a couple of failed attempts at grabbing the snoeks’ tail, I finally had it under control. Slipping my left hand into the gills and my right hand reaches for the diving knife. After the distinctive nervous shiver it’s all over.
+
+Threading the stringer through the eyes, I have a passing thought of calling it a day. But I’ve dreamt so long about breaking thought the back line to be greeted by dinner. I was really stoked and feeling good, and if this is how my dive started I’m sure to get lucky again.
+I leave my prize hanging off the buoy and make my way toward Selection Reef.
+
+As I swim further out the slack on the buoy line pulls noticeably tight. Thanks to the extra ~3kg it is dragging slightly heavier than normal, stoked! I moment later I feel a tug on the line. No immediate cause for concern as the buoy probably just got caught by set wave. Another tug. Lifting my head I spot the buoy far from the waves and being jerked around.
+
+I’m not normally one to go looking for a fight but I do enjoy stepping up to the plate. The buoy line is 25 metres long. By the time I get to the buoy the better half of the fish has been bitten off. The bite radius is small, no worries. The pesky shark reappears to take the rest of the stolen catch. A couple of jabs with the gun and some assertive swimming does the trick.
+
+At this point I probably should have headed home, but I get greedy in the water. Whenever I get greedy things start slipping through my fingers. But I figured I could find another one and still get some bugs, then I’d call it meal.
+
+Sure enough, not more than five minutes later the hazy silhouettes of at least 6 snoek materialise. They’ve come straight onto the flasher that I’ve been jiggling 5 metres below me. I take a quick breath and dive down. Not directly at them, but just less than parallel to their direction. Snoek can be very shy and I wanted the big one at the back of the shoal. Patience Michael. I pull the trigger and the shaft penetrates just behind the gill plate. It’s a fraction too high for the kill but it won’t tear out. It’s under control and quickly dispatched. When I get to the stringer the piece of the first snoek is still there. Good sign that the shark hasn’t returned. I thread the second (about 6 to 8 kg) snoek and attach the flasher to the buoy so that I can have my hands free to catch the bugs.
+
+I head toward the very productive Selection Rock. I drop my gun and swim down. Looking into every crevice and hole that I can find I can’t spot anything decent. A couple more dives and still nothing worthwhile. While on the surface breathing-up I notice the gun jerking around. The shark must have returned. I take a breath, then collect the gun from the bottom and swim hard toward the buoy.
+
+The shark was back and it had a friend. Both were about 1.5 metres long. Hugging the fish and slowly kicking backward to the land in an almost vertical position. I manage to deter the two trouble makers. The way I was holding the fish and swimming back, made it very difficult to keep an eye behind me. Sharks are incredibly good at disappearing into the haziness and then materializing in your blind spot.
+
+As I roll over onto my stomach I catch a glimpse of something. I just saw the tail. It wasn’t small. How big and what? That was answered as it made another pass. Zambezi! 2.5 to 3 metres. Fuck.
+
+If the water was clear it would have been a completely different story! The zambezi is doing the disappearing-reappearing act really well. I’m about 50 m from the backline and it’s about eight metres deep, with patches of reef visible as dark patches of haziness. If I keep hugging the fish I could just make it. But if it comes in quick to have a taste it could easily knick me. As I have that thought it reappears down to my right and comes up close, with fair speed.
+
+I was holding the gun near the muzzle with the idea that I could butt-off approaches from the back and have the pointy end to poke with if it came from the front. As it came past I managed to punch it on the top of the nose. But I had my gun in the same hand - there was little force. After making an exploratory pass like that one, the next would almost certainly include a taste.
+
+I dropped the fish (and a half) and they hung on the stringer arm length below me. Now, I thought, they presented a separate target and I could jab the shark with my gun if it made another pass. But as soon as I stopped hugging the fish the two smaller sharks came in.
+
+Turning a spear-gun in the water is never very fast. One of the smaller ones got a piece of the last tail. And by now they were fairly frenzied. I also hadn’t seen the Zambezi for an uncomfortably long time. I carefully back out of the fight for the remaining two snoek halves, and head as calmly as possible toward the shore. Just before entering the wave zone I look back to see the Zambezi hitting the last of the snoek. In all the trashing it breaks the surface with its belly facing me; the pectoral fins have a span about the same as my arms.
+
+Back on the beach I pull in the buoy line thinking that the shredded heads would make a great pic, but nothing. The sharks got everything! Well except for me so I guess that’s ok.
+
+# KILL SWITCH
+
+_2012-07-12_
+
+A kill switch, also known as an e-stop, is a security mechanism used to shut off a device in an emergency situation in which it cannot be shut down in the usual manner - wikipedia.org (as if that ever meant anything)
+
+I've been doing things - you know keeping busy. Surfing, Kiting, climbing, swimming into sharks, breaking gear and driving all over the place. Hells teeth man. I've now done almost 20000km in two months. Thank the 'big cheese up stairs' that I've got a job and now my traveling is limited?
+
+But back to what this is all about... It's been building. That urge. That need for release.
+I cant articulate it yet, I need a couple more years of pondering. Nonetheless, here I stand with myself trying to rationalise this existence and wondering if I was built with a kill switch?
+
+A life time rushing to do more, to cram as much as I can into every second of every minute of every day. I feel like I’m going to burst into flames – surprisingly enough I don’t? But then it all makes sense.
+
+A life time spent in a single moment
+
+# Never Waste a Full Moon
+
+_2012-07-30_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-paddle-1.jpg'))
+```
+
+After seconding my baby bro on the Berg River Marathon (2011) I was just too psyched to not paddle. [For too long I had been stuck in the mind set of “surfing is the shit and anything else is second best” (regarding wave riding sports). With the attitude that if you aren’t a surfer then you’re not really anything. An arrogant, ‘purist’ egotistical thing. Longboarders are just fat lazy shits, bodyboarders are a waste of waves and should be feeding themselves to the sharks, nobody likes egg-beaters, surfskiers are just jocks encroaching on my space, kite surfing is for people who cant get to their feet on a surfboard and great stuff SUPs arrive and now the rich yuppie pricks can also add to the crowd.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-paddle-2.jpg'))
+```
+
+That was my attitude for a long time. But I’ve learnt a lot. Now I want to do as much as I can. I want to be proficient at everything. I want to be able to seize every opportunity. The last three years have been amazing – At last I have a sport for every weather. I don’t need to be the best. I just want to be good enough to go to places that the masses cant. But I digress.]
+
+Four months after being the second and tagging along with the rest of the girlfriends, wives and moms along the Berg I’ve gotten the hang of a surfski and K1 – well almost. At this stage I would still fall out the boat for no particular reason even on dead flat water. My ‘training’ until then had consisted of the odd paddle around Komm and a weekly outing in a K2 with my paddling girlfriend. After a month in Namibia and trying for about 10km a day training with my bro I was feeling a lot more confident. Marc would wrap a tie-down around his K1 for extra resistance which was cool for me coz then I could just barely manage to not look like I was paddling in reverse.
+
+We had talked about it since we arrived in Nam and this coming Sunday would be the last good opportunity before the final push to the end of the harvest season. It was also going to be a full moon. Most of the Namibia training had been in the evening. It’s just too hot in the day.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-paddle-3.jpg'))
+```
+
+I took this before my first fall, which was just around the next corner. We left the Felix Unite camp at 16:00 sharp. After about 6 km on and we were paddling along some flats right against the tree line. I got a little cocky and fell out, trying to avoid a low branch. Aaaaarg – Idiot! I had to swim to the other bank to empty the boat. We could not afford silly mistakes like this. Around the 9 km mark and we get klupped by a strong up stream wind. The resulting wave were almost knee high and I was struggling to make headway and stay up-right. I was tiring quickly. Not again. Yes I fell out again. We hadden’t even been on the water for an hour and a half and I’d fallen out twice.
+
+3 hours from the start and we spot a tour on the sand bank setting-up camp for the evening. Neither of us had every paddled this section of river and we knew almost nothing about it. Well except that the tour groups run it just fine. So we stopped for a quick stretch and got some info on the upcoming rapids.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-paddle-4.jpg'))
+```
+
+If you thought it gets dark in the mountains? Not long after this stop the sun was starting to set rapidly and we hadn’t made it to Sjambok Rapids (the halfway mark). Marc’s GPS said that we had only done about 15km. Sjambok was still at least another 15km to 20km. With the sun setting and the realisation that we were only a quarter of the way – I was broken. Really seriously disheartened and broken. I was visualising the last Google Earth image I looked at and try to place our position on the mind map. Anything to keep my brain from thinking about how tired I was.
+
+Sjambok is the last access point to the gorge. After this it’s a committed 30 km push to the farm. If one of the guys had come to check on us at that point I definitely would have aborted the mission.
+
+Marc’s GPS had switched off at some point and we were infact a lot further than it was telling us. Just as the last smidgen of light drained out to the sky we reached the top of Sjambok. It was pitch black by the time we entered the rapids.
+
+Marc went first, he’d shot this rapid once last year. I could only see the little headlamp bobbing downstream before it disappeared into the darkness. My turn, I just paddled as hard as I could and did very nicely through the roller coaster section. Well until I fell out on the last wave. After this the river enters Sjambok. I got smashed around a bit trying to hold onto the boat and the paddle. Losing either in the dark was not an option. The cracking sound of fibreglass was distinct even in the turmoil of the rapids. My heart sunk.
+
+Just downstream of the last rapid I see Marc’s light. We clamber onto the rocks to assess the damage. It wasn’t that bad. A couple of cracks but she should hold together – I just can’t afford falling out in another rapid. It’s kinda strange, but after this I relaxed physically and mentally. I wasn’t paddling ridiculously hard but I got into a decent rhythm.
+
+Shortly after Sjambok we spotted another tour group camping on the bank. The only thing I remember was the guide saying that we must keep to the right somewhere down stream because going left would almost certainly snap a K1. We just kept right the following 30 km which went by slowly but relatively uneventfully.
+
+It was the upstream wind that really took it out of me in the beginning and from that point on I had to fight the fatigue. Every stroke was a battle and a small victory. And all the while my little bro was right there alongside me with good advice (“you mustn’t fall out again”) and words of encouragement. I felt like I was crawling through thick syrup and I’d look up and see him strolling along.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-paddle-5.jpg'))
+```
+
+Marc, my brother, thank-you for getting me through the toughest 68km of my life (so far) you are my hero. I love you bro.
+
+# The Rebels Quest (or was it The Revolutionary)
+
+_2014-01-24_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-arjan-loop.jpg'))
+```
+
+A tale loosely based on a true story
+
+“Great spirits have always encountered violent opposition from mediocre minds”
+
+We, The Collective, and our extended circle of friends have a unique bond that undeniably transcends the nuances of daily human interaction. I believe that this bond is the product of sharing experiences of consequence. Experiences where all else is stripped away and the nakedness of a persons’ true character is undeniably exposed. And as the fundamental of any relationship our bond is that of complete trust. A trust that is tried and tested on our playgrounds of sky, earth and ocean… and on these playgrounds we answer only to the law of nature. Where our honesty and ability are put on trial.
+
+All of my nearly’s have been the result of dishonesty. Dishonesty with myself. But I’ve survived and learnt and continue to practice this seemingly simple task of being honest with oneself.
+
+So now I’m faced with a decision:
+
+* Do I conform to the law governing this action, in this land, at this specific location or
+
+* Do I follow the laws of nature and confidently step into another playground?
+
+Someone with the correct legal documentation, yet who is well known to have a dangerous technique, is encouraged to venture onto the higher rungs of the play castle. All the while a person with superior skill, physical instinct and mental composure must sit back and watch due to a minor bureaucratic shortfall. The situation is messy, with ‘friends’ contacting the governing authority and re-reading the bylaws just to check up and make certain that everything is in order – but why? You know that I am more than capable and yet you still feel the need to go so far out of your way to clip my wings.
+
+So be it, hold me to your law. But be certain that you do not transgress that law yourself. And please, while you are so busy minding the laws of man do not let yourself be judged by the laws of nature (I mean this sincerely) as the consequences are far more severe.
+
+When I’m being cautioned, told that I’m crazy, warned that I’m going die, and lectured on the impossibility of success – this is when I know I’m on the right path. The path of progression. All I ask is that you trust me to be honest with myself and to not second guess my decision. Without this trust we have nothing. And I want to share this path with you my friend. Let us together explore the limits of possibility, and build that precious bond of trust. But you must understand that the undeniable call of nature reverberates through my being and I must rise to this challenge. Don’t be left behind. Join me on this great adventure. And let no law of man ever cage our spirits
+
+# A New Toy
+
+_2014-05-16_
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-1.jpg'))
+```
+
+So after a very long wait and a long drive across the country I finally got to open the big brown box and from the little that I could see she was very sexy. But the weather was horrid and I didn’t want to waste time getting to My beautiful home. Although getting that glimpse of the striking colours, transparent top-surface and carbon fibre made it even harder to leave her in the box… So back on the road and practicing my patience for a little longer.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-2.jpg'))
+```
+
+A couple of days later I was back in wilderness with great weather and a little help. The Master was teaching some new pilots on the dunes while "I" contended with the instruction manual. It’s actually very simple to set-up, and I always marvel at the simplistic beauty of hang-glider design. My new Wills Wing T2C 144 is starting to take shape and it’s at the apex of this design. Epitomising the decades of experience – with the variable geometry (VG) tight all creases disappear and she looks like a samurai blade poised to strike. The Master and students returned from the dunes and came to collect me on the way up to Map of Africa.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-3.jpg'))
+```
+
+The wind was just soarable with some paragliders (PGs) and the newbie managing to float around. I was nervous. Months of waiting, a very expensive toy, first time going topless, a new harness, the Master watching, students watching, first time at this site and I know people have had bad take-offs here with shiny new wings. After a deep breath for composure and a good long run I was in the sky. For the most part I had a very relaxed flight with some mild wingovers and gentle dives. It was a bit crowed and some quick responses were required on a few occasions. With every input she responded with amazing predictability, which made her easy to handle. I was a bit worried that I would overshoot in ground affect, but with 25%VG I manage a decent landing just short of the spot.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-4.jpg'))
+```
+
+“So how does she fly?” Well after one flight in calm ridge conditions I couldn’t really say. I can tell you that it definitely isn’t a U2, the increase roll inertia is noticeable but for me it added to the experience. Where I’ve be flung 90deg on the U2, the T2C made punching through the turbulence from the tandem PGs non eventful.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-5.jpg'))
+```
+
+A week later, I was in Bulwer and keen to have my second flight. The predictions were terrible but on the drive up the sky looked interesting and the base was very high. After a long wait with nothing more than a light breeze up the front PG Marc launch and climbed steadily to above the peaks. I wasn’t convinced and waited to watch the next batch of pilots turkey – but everyone managed to stay up.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-6.jpg'))
+```
+
+Always be prepared! A lesson I’ve learnt before but still decided to launch wearing a thin shirt, no gloves and shitty helmet expecting a short flight to the peaks.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-7.jpg'))
+```
+
+As I launched the vario started to beep and banked into my first turn. I was still low and close to the ridge but the air was calm and the wing settled. By the time I had completed my 3rd 360, I had drifted back over take off (TO) at about 60 meters above TO. And continued to work the gentle lift up. At 450mATO I decided that I would go over the back if the lift petered out. At 800mATO I could see a huge dusty on the Pevensy Flats that carried dust up to about 1000m above ground – and I was finally convinced that I was going to be a good day.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-8.jpg'))
+```
+
+1000m ATO and still climbing. 1200mATO and I was getting cool and wishing I had my cloves, but could still feel my fingers and managed to snap a couple of selfies. At around 1400mATO there was some shear turbulence with the NW winds and I couldn’t work my way up. Further to the NW a couple of developing clouds showed the way and held the key to breaking into the upper airmass. Heading that way I watched two other PGs at a similar height also head over the back. It looked like they were falling out the sky as they left the lift.
+
+Arriving under the cloud I began to turn and the climb was steady at about 2.5m/sec. Some minor turbulence above 1400mATO through the shear required a quick re-centring into the core and I was soon at 1500mATO. The vario was showing 5°C and the cold was getting to me. Just as I managed to pull the sleeves over my fingers the screen on the vario went dead. I tried to fiddle with it but nothing. Also my helmet was making so much noise I unclipped it and contemplated jettisoning it. And certainly would’ve if it wasn’t so cold.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-9.jpg'))
+```
+
+It’s very seldom that these altitude gains are possible coming into winter so I knew I needed to make the most of it. I was about 200m below cloud base and the next cloud was really starting to pop so I pushed on to the NW. I felt the thermal sucking me in and it was too easy to get established. At about 100m below the cloud base I was in its shadow and getting really cold. From here I could easily make the Himeville airstrip. Leaving the cloud along the same NW line I flew through a couple more thermals but by now I couldn’t feel my hands and just wanted to get warm. Above the Himeville – Sani Pass intersection I still had plenty of altitude and decided to try for the golf course at the bottom of the pass. Working another thermal to gain some extra confidence I easily may the glide. The valley is significantly smaller than how it appears on google earth and I had no idea where the wind on the ground was coming from.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-glider-10.jpg'))
+```
+
+It was dead calm. Reassessing all tell-tails to make certain that there weren’t any irregular gusts I set up for the final hole. Coming in over the river and putting it down a little short of the green, I was in chipping distance of the 19th hole. I should’ve flown way further and have definitely learnt from those mistakes. None-the-less, for my second flight on a new wing and the first in thermic conditions I really couldn’t ask for much more. The Wills Wing T2C is predictable and easy to fly, freeing up my mind to focus on finding the next lift and wonder why I never wore something warmer. Thank-you Wills Wing for an incredible flying machine – the Ferrari of the sky (Thanks to Hennie & Wally for the retrieve)
+
+Psyched.
+
+# Drakensberg: Attempt 1.0
+
+_2014-09-15_
+
+I have been dreaming about getting onto the northern side of the Berg at Giants Castle and running the ridge past Champagne Castle to the Amphitheatre.
+
+Me and Devon were up the hill at 09:30 and by ten it was definitely looking like the makings of a good day. As predicted, the wind was very north but the cycles were coming straight up the front. At 10:45 the first cu’s started to pop high above the peaks and I was getting very psyched. After seeing Devon safely into the air for some thermalling practice the classic midday shutdown killed off all activity. Standing on launch I was hating myself for not getting in the air on the early thermic release. Standing on TO and watching Devon pull off a safe landing in tricky conditions I decided to put my wing down and tried hard not to sulk.
+
+Wally and I had just gotten an icey out the car when the wind started to tease. Running to launch I saw that the smoke in the valley was indicating a southeast wind. Game On. In a panic I threw out the icey and stuffed the packet into the harness along with myself. Half a minute later and back on launch the cycle was still pulling through. There is always that moment of doubt; is this the end of the cycle, am I going to turkey. Shut-up brain. Think up. It feels good – go go go.
+
+I traversed left along the ridge and started to turn. About four 360’s and I was halfway up to the peaks. I headed into the bowl below the peaks when the vario became conspicuously silent. It had turned off? I switched it on again and the battery meter was at 86% then it died. I tried again and the same thing. Wally got me on the radio and said that there was a vulture circling above me. Always a good sign and I had my Garmin with me.
+
+I have become very dependent on that beeping sound and it was difficult to get established in the thermal without the vario. The air around the peaks was rough with the flying wires going slack and whacking tight through the turbulence. Once I was banking hard in the core it was far more pleasant and I quickly climbed to about 2600masl (800maTO). I lost the core and decided to head over the back. So often the thermal gathers above the valley behind the peaks and I could see the lift line developing nicely with cloud base very high above me.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-berg-1.jpg'))
+```
+
+It was subtle but I could sense the distinct pull of the thermal. The Garmin was showing a near horizontal glide and I took note of the alti, 2515masl. Letting the wing wonder freely as the thermal sucked me in, I could feel the lift getting stronger and took control banking gently. I completed my first 360 and the gps was showing 2535masl and climbing. After a couple of big gentle circle I saw a large mielie husk just north of my radius. I slowly shifted across until I had it on my inside wingtip. I watched the mealie for the next 15mins and gained 2km. By this stage my attention was on the clouds developing above me.
+
+From about 4500masl it started to get rough again. The lift line extended to the NW but I thought that it might be better to head east, as west winds normally dominate at these altitudes. A short glide to the east revealed sink despite being under what looked like a decent could. I immediately turned back NW to follow the lift line.
+
+Getting back under the lift line was very rough and I hit a patch of turbulence that shook the base-bar out of my light grip. Grabbing on again I pulled in for speed and started to bank hard. I always feel a lot safer when I’m circling. I worked my way up and managed to put my hands back in the bar mitts when I heard someone on the radio trying to call Josh. I replied, assuming that Josh Degenaar had his hands firmly on the toggles fighting rough air. And I managed to let Wally know that I was at 5000masl and heading to Himeville. I found out later that the other person on the radio was Trevor Johnson. He was flying at the bluff over 100km away – not bad for a hand held.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-berg-2.jpg'))
+```
+
+After breaking the 4000masl mark in the first big thermal I had started consciously breathing deep and slow. Relaxing my mind and body, as if prepping for a free-dive. The air was noticeably thin. During the radio chatter and me screaming that I’m at five grand, Josh commented; “he’s probably hypoxic”.
+
+For the last half hour I had been assessing myself and doing some basic calcs; “I’m at 4850m and ground level is 1500, how far can I glide at 10:1...” I was a little light headed but still rational. After the radio chatter I headed NW directly under the clouds that marked the lift line all the way to Lesotho. I covered about 6km without losing much altitude and I arrived underneath an actively developing cloud. The lift was powerful! I already had huge height and decided that since I’m heading in the right direct and gaining altitude there isn’t really a need to circle. Also it was pretty cold.
+
+Checking the gps, 5200masl, little sparkles started to appear in my vision. Like the sparkles when you’ve been holding your breath to the limit trying to get that crayfish out from under the rocks. The VG was at 85% and I tucked the bar to my stomach. The GPS was showing 65-70km/h and still climbing. Deep slow breaths. The sparkles disappeared.
+
+The bar still tucked and still climbing I broke out of the shadow and welcomed the warmth of the sun. Flying out the thermal at 5600masl (18373ft asl) I was beginning to realise that today might be the day I get onto the north eastern Berg and run the ridge to the Amphitheatre. I pushed on toward the NW through a big blue gap.
+
+I arrive in the valley north of Sani Pass Hotel at 3000masl and searched around for the thermal that was feeding the cloud high above me. The lift wasn’t distinct and again I struggled for about 20mins without that lovely beeping sound. Eventually I found the thermal and was well on my way to cloud base. Sani Pass was burning and surprisingly the smoke was indicating a NE wind.
+
+While circling up I was struggling to decide between running downwind or fighting my way north. If I could get onto the northern side of Giants Castle today, it would be an ‘easy’ ridge run. Leaving the thermal at 4370masl I could see across Lesotho – absolutely amazing. Continuing NW and aiming for a prominent pinnacle my glide was fairly decent and I was confident I’d make the escarpment with safe altitude.
+
+Getting closer to the escarpment I put on the GoPro to capture the amazing view, but two mins later the battery died. Then the GPS died. Completely randomly I had stuck two new batteries in my harness just before take-off. I somehow managed to get them out the harness and into the GPS without dropping anything and just before arriving at the escarpment.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-berg-3.jpg'))
+```
+
+I arrived at about 150m above the ridge line. It was bumpy but I was immediately gaining altitude and joined by two Cape Vultures. I climbed to 4000masl and made the biggest mistake of the day – I headed straight for Giants Castle. There was still another 1000m in that thermal and I should have gained it all to give myself the best chance of making it to the northern side.
+
+Looking at my track log on Google Earth I’m wondering why I turned at the last minute. But remembering how violent the rotor was and that I was only about 100m above the last rocky outcrop of the spur and that I still needed to fly around the corner to get to the lift I think I made the right decision. With 20/20 hindsight I should have gained more altitude at the last thermal and taken a wider route.
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-berg-4.jpg'))
+```
+
+So instead of pushing to the North side and potentially landing on the fire break at the foot of the spur, I’m racing down into the valley to a mark that I had on the GPS as a potential LZ in case of this exact situation. I spend a good amount of time finding safe LZ’s on Google Earth. As it turns out it was fairly decent, a nice flattish grassy slope near the Lotheni Nature Reserve Rondavles. I headed straight onto the ridge just behind the rondavles – the wind would be upslope and it would give me some time to think about how to land in the little valley. Then my flipping phone starts to ring!
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-berg-5.jpg'))
+```
+
+I left Bulwer about three hours ago and it had either been to rough or too cold to take my hands out the bar mitts so I hadn’t been giving regular updates. The only message I sent Devon said; “Sani Pass”. The phone stops ringing and then starts again… I had to at least let him know I’m still alive. I scream something along the lines of; ‘still flying, I’ll call when I land’ and then turned off the phone. Still scratching on the lower terrace I gained on every beat and managed to work the lift up to the top terrace where I got a weak thermal and hopped back to the next ridge.
+
+There was enough wind to ridge soar until a thermal came through so I figure I could work my way back to the Himeville-Notringham Road, which would at least make for easier recovery. Hopping back again I followed the ridge down to the Himeville road and spotted a great field to land in just across the river. My legs were kind of numb so I decided to unzip and loosen the landing gear. I tugged on the string and nothing happened. Stuck. My jacket had gotten jammed in the zipper.
+
+Still about 600 m above ground and there wasn’t too much too worry about. After a short battle I managed to force it open and lucked into another thermal. It was drifting fairly fast but got me an extra couple of kilometres to a pretty field with a small dam that made a great LZ. The farmer came to see what was going on. He was super friendly and gave great directions which got Devon to me with beer from the Sani Pass Hotel, still ice cold – thanks man.
+
+On inspection of the track log it seems that the GPS, was out by 100m (vertically) on the landing altitude. This must have happen when the batteries died. So of the many lessons learned this flight the first is to have proper equipment and fully charged. Despite all the little obstacles it was still a hugely fun flight with mind blowing views, my first taste of the Drakensberg has left me wanting more.
+
+[Flight summary online](http://www.paraglidingforum.com/leonardo/flight/1033158), stats:
+
+* Max Altitude: 5600masl (18373ft asl)
+* Max climb: 6.0 m/s
+* Max speed: 124 km/h (after I turned down wind from the spur at Giants)
+* Max distance, 2points: 54km
+* XC distance: 95km
+
+Max Psyche!
