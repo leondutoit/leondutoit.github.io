@@ -1,0 +1,97 @@
+---
+title: "Michael Baleta, 1984 - 2023"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+```{r echo=FALSE, out.width='100%', fig.cap = "On a mission with Mike in Du Toit's Kloof, exploring and bolting big walls"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-smile.jpg'))
+```
+
+Michael. Fuck man. You're gone.
+
+# Life
+
+Before we ever spoke I used to see you and Jurie at the Neelsie climbing wall at Stellenbosch. This was back in 2005. One of those times, I was climbing there alone when the two of you arrived. I think you were talking loudly to one another about some Geology test that you had written, complaining about how difficult it was. At some point I turned to you and asked: "why don't you just study?", to which both of you responded with silence and a dirty look - what a hillarious and unlikely start for a friendship, with both you and Jurie. In retrospect I think that the directness of our first interaction was an essential foundation for our friendship. Reflecting on our friendship I see all the domains of action and experience that we shared, exploring together, and that we each explored in our own ways, learning from one another along the way.
+
+## Earth
+
+In the mountains our lives had their largest overlap. In climbing, kloofing, bolting, and exploring. I think the first trip we went on together was a sport climbing mission to Oudtshoorn. Unio, Pete, Narny, Danie, Cobus, and Ben were also there. We stayed at the campsite further away from the crag, put up a slackline, climbed, listened to trance, and drank. You and Pete were trying Paws, the classic 7b, and I was trying Johnny Rotten, the short and powerful 7b+. I remember watching you climb, run it out, and take huge falls as if it was nothing, and thinking to myself, "this guy has a different risk tolerance than me, he just goes for it". I seem to remember that we went to Gouritsmond on the way back home. You practically downed a bottle of Cane, then you and Jurie drove to the nearby town, toppled the car on an embankment, pushed it back onto its wheels, and drove it back to Gouritsmond, safe and sound. We had plenty of chances to die in our 20s, but miraculously none of them ever materialised.
+
+From the climbing we did together at Montagu, I remember that you belayed me on Hypoxia (the short overhanging 7c+) - I tried it _many_ times, and you were always willing to belay me. We'd drive through from Stellenbosh for the day whenever studies, weather and other pursuits allowed. And that we did the 2006 Rock Rally together, in the rain. I also recall wild times at the campsite.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Mike after a long day of climbing at Montagu"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-montagu-wild.jpg'))
+```
+
+Speaking of 2006, that was actually was the most insane year of my life. It was also the year that we did lots of exploration in the Cederberg, most notably at Eselbank.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Huge boulders, hidden away in the most obscure parts of the Eastern Cederberg, waiting to be climbed."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-eselbank-explore.jpg'))
+```
+
+I don't dare put the details of those years and the Cederberg missions into writing, but I can outline the contours (those who where there know). We had a minimalist approach to comfort, sleeping wherever we could find good enough shelter - in caves, under boulders, in abandoned houses in campsites, in cars, and _sometimes_ in tents (when the wind didn't blow them away). We had what one could call an anarchist approach to social norms. I recall close encounters with the police, hitting golf balls down the main street of Clanwilliam at 01:00 after a hard night at the local pub. I recall altered states of consciousness, playing games with reality: "me, not me". I recall others having difficulty keeping up with the crazy conversations of The Collective, the group of friends that was beginning to emerge around our explorations. It was this urgent sense of exploration, of both the inner and outer worlds that bound The Collective together in the various domains of action. We shared a certain sense of aesthetics to the way we explored: it was raw and direct, with no room for random social limits; it was pure, where the discovery of truth and beauty was the reward in itself.
+
+One amazingly beautiful place we explored together was Milner Amphitheatre.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Lower amphitheatre, 800 meters of amazing quartzitic Cape sandstone, in a pristine area, far beyond the reach of the everyman."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-milner-lower-wall.jpg'))
+```
+
+We made numerous missions up to Milner, with Arjan, Ben, Pete, Danie, Carl, Chris, and many others. You and Pete did one of the multi-pitch routes, topping out in the dark. There is a timeless space up there, behind the moving waterfall, in the forest at the base of the cliff.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Mike, working a route - a small speck on the big face of the lower wall."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-milner-lower.jpg'))
+```
+
+Other memories of our missions take me to the Kouebokkeveld, to the Universal Area. So may good times there.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Mike belaying me on the first acsent of Equinox, 7b+, in the Kouebokkeveld - the most beautiful route I've ever bolted"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-equinox.jpg'))
+```
+
+And to Bainskloof. Oh Bains, beautiful Bains, a bouldering area in the heart of the Boland, rugged, mountainous, vast, without paths - a place for the highly motivated.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Me and you and Jurie exploring for new boulders far away in Bain's Kloof, back in 2006. This particular boulder was at least 1h30min walk from the car, something that would deter most people from ever going there. The duration of a walk-in, and the effort required was never an issue for you."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-bains-old.jpg'))
+```
+
+Whenever I return to Bains, your spirit will be there.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Mike on a highball on a wintery eve in Bains, with a bit of snow on the Mosterthoek Tweeling."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/ob-mike-bains-fnr.jpg'))
+```
+
+## Air
+
+For me, the air was skydiving, wingsuiting and BASE jumping, while for you it was hang gliding. We never shared the air directly with one another, but that was never a barrier to sharing the excitement, the motivation, and the lessons with one another. Learning across the elemenets, and from different sports was a core part of The Collective's approach to getting things done. When doing risky things, you want to learn everything that can be helpful, no matter where the lesson originates. I also think that this more analytical aspect of do-analyse-teach-learn added a unique flavour to our exploits. Going into something, you did so knowing that your experiences will be valuable to others, and this stoked the fire of motivation.
+
+## Water
+
+The ocean was always your home, and in surfing big waves you found your ultimate excitement, and ultimate peace.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Mike riding a monster at Dungeons, the Cape's premiere big wave surf spot"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/mike-dungeons.jpg'))
+```
+
+You've written extensively about your relationship with the ocean, and with surfing, diving, and other water-based sports. I recently read [your writings](https://leonomics.com/follow-the-psyche-madmike.html) again. There is so much inspiration in there: your systematic and analytical approach to training; your hard work, dedication, discipline; your immense drive to action, despite injury, illness, and risk of death; the committment, capacity, and energy for pushing your limits.
+
+## The game
+
+_What_ we did as a collective was always important - climbing, bolting, first ascents, kloofing, surfing, kite-surfing, wind-surfing, diving, body boarding, skydiving, BASE jumping, hang gliding, mountain biking, yoga, karate. It was important because each of these areas of movement, in each of their respective elements, required the development and mastery of a set of skills. But almost just as important was _how_ and _why_ we did those things. Taken together, it was about moving gracefully, with skill and understanding, in beautiful places.
+
+We understood that most of society, and the interactions we have with people in general, is an elaborate and mostly accidental construct. And that we need to break free from this, that we had to see reality as it is beyond this. This was the meta game, the deep play, breaking into that realm where arbitrary constructs fade away, where the lines between life and death become crystal clear, where decisions have ultimate consequence, and force utimate focus. Deep inside that realm, on the knife's edge between life and death, there is a special kind of mental and physical calm that can only be accessed by taking the necessary risks. You more than most, were willing to take those risks, and you did so with skill and grace.
+
+# Death
+
+I was driving back to Oslo from an IT Security conference in Lillehammer when Chris called me, and told me that you were dead. Moments before Jeanrich had sent me the news in a message. Every time I drive that stretch of the road I am transported back to that very moment. That place will forever be the place where I heard of your death. In the hours, days and weeks that followed I spoke to Ruan, Jurie, Chris, Jeanrich, Arjan, Ben, and Unio about your death, and about the years that led up to it. It pains me to think that you suffered, that you were no longer able to express yourself in the elements of existence in the way you loved to. At the same time I know that you lived more than most, and that you can be proud of what you achieved, and who you were to those close to you: kind, loving, understanding, empathetic, energetic, courageous, outrageous, wild, untamed, unfiltered, unbounded, larger than life Mad Mike Baleta.
+
+It has taken a year of mourning and thinking to be able to write this. There are moments when I feel like I need to tell you something - an observation, a thought, a feeling, realisations about reality and existence, excitement about doing something - something that I _know_ only you could understand. Our communication was unique, there were no boundaries. There were certain things that I could only express in conversation with you. You were able to tolerate and process the most raw emotional states and the most abstract thoughts with a smile. And it is in these moments that the loss of your death is most intense, when I have to resign to the fact that I cannot tell you these things anymore. When this happens and I'm alone enough I sometimes shout at the top of my voice. Most of the time all I can do is exhale long and try to take comfort in the fact that you were there before, that there was a time when I could speak to you, share my presence in the world with you, that you're still present in my thoughts and dreams. Then I think to myself that it was an honour to know you, and I'm thankful for everything we shared, and I'm inspired to keep exploring with you in my thoughts. Thankyou Mike, for everything. Goodbye my friend.

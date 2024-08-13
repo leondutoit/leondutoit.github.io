@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Michael Baleta, 1984 - 2023](https://leonomics.com/michael.html) - _A goodbye, 2024-08-13_
+
 [Collected writings by Michael Baleta](https://leonomics.com/follow-the-psyche-madmike.html) - _MadMike's wisdoms, 2024-08-12_
 
 [Nico Brink, 1983 - 2020](https://leonomics.com/Nico.html) - _32 jaar van vriendskap, 2022-03-09_
