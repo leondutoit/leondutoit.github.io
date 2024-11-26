@@ -5,6 +5,8 @@ _I am a South African living in Oslo, Norway. My work at the University of Oslo 
 
 ## Posts
 
+[Cross-country skiing](https://leonomics.com/cross-country.html) - _An elaborate machine-powered collaboration between humans to create aesthetically pleasing athletic experiences, 2024-11-26_
+
 [Michael Baleta, 1984 - 2023](https://leonomics.com/michael.html) - _A goodbye, 2024-08-13_
 
 [Collected writings by Michael Baleta](https://leonomics.com/follow-the-psyche-madmike.html) - _MadMike's wisdoms, 2024-08-12_

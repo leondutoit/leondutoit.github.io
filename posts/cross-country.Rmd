@@ -1,0 +1,80 @@
+---
+title: "Cross-country skiing"
+subtitle: "An elaborate machine-powered collaboration between humans to create aesthetically pleasing athletic experiences"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+Cross-country skiing gives me great joy. For many years it played second fiddle to back-country mountain skiing, so I never put proper energy into developing cross-country skills, or finding good local trails. In recent years, however, the combination of the Covid-19 pandemic and the reality of having two small kids have motivated me to invest energy into enjoying my immediate surroundings more. And Oslo has incredible cross-country skiing.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "A quiet moment on a starry moonlit night in Baerumsmarka"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-moon-stars.jpeg'))
+```
+
+So about two years ago I decided to gear up. Cross-country skiing is actually not gear-intensive at all, especially when compared to back-country skiing. In fact, the minimalism of the gear is part of the appeal. All you need is a pair of skis, poles, shoes, and warm enough clothes. You can of course go down an obsessive rabbit-hole in each of these areas of gear, but that is not compulsory. This time I opted for waxless skis, removing the annoyance of waxing, and lowering the threshold for heading out. Another essential piece of gear, for someone that has to put kids to bed between 19:00 and 21:00, is a good headlamp. There are some tracks around the city which have spotlights next to them, but those are always crowded and over-used - not what I'm looking for.
+
+# Aesthetics
+
+When you're out skiing, you very clearly notice the impact of how you move and what you see on the quality of your experience. As with any endurance oriented sport, moving with rhythm and efficiency is paramount to the conservation of energy. In cross-country skiing, rhythm encompasses both leg and arm movements, as you kick off one foot onto another, and as you dig the poles into the ground to apply additional force. The exact movements vary depending on whether you're using classical or skating style, or poling. And your ability to employ either of these styles vary according your skill, strength, endurance and the nature of the terrain. So the actual movement is the result of this interaction between your gear, your movement repertoire and strategy, physical condition, and the terrain.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Catching the faint sunrise over Oslo on the shortest day of the year, and experiencing the joy of being the first person out on the freshly prepared tracks"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-fossum.jpeg'))
+```
+
+It is in the interaction of these elements that a dialogue between the mind, body, and environment develop: one foot in front of the other, digging in the appropriate pole at exactly the right time, assessing the current levels of fatigue, peering ahead to see what the terrain will require, keeping the breathing under control, listening to the sound of the skis on the snow, choosing the best movement strategy given your current shape, keeping the rhythm. This is the process is that I consider the aesthetics of movement of cross-country skiing. And the beauty of it is that when you do this, without argument or analysis, it brings about a pleasant sensation in the body. It is similar to the full-body buzz that you get after swimming.
+
+There is also just a raw thrill of simply standing still on skis while gliding forward. The sensation of movement, the knowledge that this is some kind of evolutionary marvel - being able to move from one place to another without having to exert your body as normal. And then this thrill is multiplied when going fast downhill. It is really incredible how much distance you can cover on skis.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Tall and proud Spruce trees covered in lichen at Kobberhaug, Nordmarka"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-kobberhaug.jpeg'))
+```
+
+The other very important part of the aethetics of cross-country is the scenery. Here we can distinguish between the tracks themselves, and the surrounding nature. The tracks themselves hold many associations: seeing the parallel lines of the classical tracks in the snow appeals to our sense of geometry; seeing untouched, compressed and raked snow tells you that you're about to experience something faintly exclusive - being the first to ski here today, as you anticipate the sound and sensation of moving forward.
+
+But more important than the tracks is nature, the forests, the rivers, the sky, the clouds, the moon, the stars. Every time I go out I take a moment to stop, look around, and try to take in as much as I can. I close my eyes, tune in to all the life around me. And this inspires me to get out there again.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Taking a seldom chance to ski through the obscure Trolldalen in Østmarka"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-trolldalen.jpeg'))
+```
+
+These quality of these experiences can be compounded by the fickleness of weather, and the business of life. You can't control how much snow will fall or what the temperature will be, and you're seldom 100% sure if you will have time to get out during the day, or the energy to get out at night while conditions are still good. And so it becomes a bit of a game, to organise life and energy around these uncontrollable forces of nature, so that you're able to jump on the opportunity when it is available.
+
+# Adventures
+
+Cross-country skiing is not particularly dangerous, but you can get hurt if you have a bad fall, and you can get into unexpected trouble if conditions suddenly conspire against you (if you haven't planned for what happens).
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Late night adventures on the untouched scooter tracks around Vangen, Østmarka"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-vangen.jpeg'))
+```
+
+I was out skiing late at night in Østmarka on the 15th of December, enjoying the first trip of the season in the wilderness area around Vangen. I had thankfully already passed the halfway mark when I skated up a small hill on a narrow path. I skated my right foot out to the side off the path and it got stuck under a small heap of trees or branches that had frozen together. But my momentum was heading forwards and upwards, and as I lifted my right leg up I tore my shoe off the ski, breaking the binding. Surprised, and a little bit disappointed that I couldn't complete the round back to the car, I stood there on one ski thinking "oh well, shit happens", and I started walking. Walking on snow, however, is not nearly as fast as skiing. It was late, cold, and I wasn't dressed for walking in these conditions at all. I was sweaty and needed to move vigorously in order to stay warm - you have to underdress when skiing otherwise you overheat. I was getting tired of walking, feeling sleepy, and it was quite boring to be walking so slowly, but I was getting more worried about the cold.
+
+So I figured I should just try to move on one ski, since it might be faster than walking and it would warm me up. It almost worked but it was very awkward carrying the broken ski and jumping forwards on one foot. So then I decided to just stand on top of the ski with the broken binding, and pole myself forward without lifing my feet. That worked sufficiently well that I was satisfied with my progress and body heat, but it came at a cost: I had no proper way of turning. So every time I went downhill, and approached a turn I would just have to fall, and start again after the turn. It all turned out fine, I arrived at the car unhurt, laughing at myself. But it was also a reminder about being better prepared for such incidents. It can turn into a mini epic if this kind of thing happens when you're 20km away from your car, at 23:00 at night, in -10 degrees Celcius. Skiing alone, late at night in wilderness areas is a different game from doing rounds under spotlights next to parking lots at the edge of the forest!
+
+# Exploration
+
+Beyond athletic movement, aesthetics, and adventure, I'm deeply motivated to ski more because it allows me to explore the forests around Oslo in such a beautiful and exciting way.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Another late night mission, close to the tree-line pressing on towards Oppkuven"}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/cc-oppkuven.jpeg'))
+```
+
+Of all the forests around Oslo, I've spent the most time exploring Østmarka - for bouldering, mountain biking, and foraging. So it was natural to return to the places I knew from before on skis. Last year I moved to the North-West of Oslo to be closer to my son's school, and so I have Nordmarka and Baerumsmarka on my doorstep. Last season I discovered the beautiful wilderness area around Oppkuven, one of Nordmarka's highest peaks. I had two amazing skiing trips up to the plateau where Oppkuven lies, and spent much of this summer exploring the area, so I'm poised to return there when the skiing season arrives.
+
+# Behind the scenes
+
+As with most activities done in the context of the global industrial capitalist supply chain that underpins our daily lives in Scandinavian cities such as Oslo (and most of the world for that matter), it is easy to overlook all the dependencies you actually require to do things such as: to go cross-country skiiing in the forest. If we simplify the brief analysis by restricting our attention to the skis and the tracks, the story goes something like this...
+
+My skis are manufactured in Austria, and with my untrained eyes it looks like they're made of plastic, metal, and carbon fiber. The same seems to be true of the poles, and the shoes (minus carbon fiber for the latter). This is clearly quite advanced industrial technology. As for the trails, they are made by either snow machines, or snow scooters, on paths cleared by logging activity (which is also done by forestry machines).
+
+So there I am, moving along on skis, through the forest, on tracks prepared by a host of advanced machines. The simple act of me skiing depends on thousands of years of technological development, a global economic supply chain, and the efforts of hundreds of other people to create the tracks. There are other ways of skiing that require less advanced technology, and no logistics for track preparation (part of what makes back-country skiing so exciting), but that is not what cross-country skiing is.
+
+I gave this post the sub-title: _an elaborate machine-powered collaboration between humans to create aesthetically pleasing athletic experiences_, because that is how I see cross-country skiing when I consider all the processes involved in making it possible. It is joyfull to ski, to be out there and to experience pristine nature where it still persists, and I am grateful for each and every such experience, but one shouldn't have any illusions about how elaborate the game really is. I'm unsure what the next season will bring, but I'm excitied to find out.
