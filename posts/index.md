@@ -1,7 +1,7 @@
 
 # Leonomics
 
-_I am a South African living in Oslo, Norway. My work at the University of Oslo involves building infrastructure, tools and services to enable the storage, sharing and analysis of sensitive research data. Some of my professional interests are visible in the [code](https://github.com/leondutoit) I write. Feel free to browse my [CV](https://leonomics.com/cv.html) for more information._
+_A blog for reflection. I am a South African living in Oslo, Norway. I work at the University of Oslo's Center for IT. My [CV](https://leonomics.com/cv.html) has more information about my professional background. Some of the [code](https://github.com/leondutoit) I write is open source._
 
 ## Posts
 
