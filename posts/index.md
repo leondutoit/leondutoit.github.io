@@ -5,6 +5,8 @@ _A blog for reflection. I am a South African living in Oslo, Norway. I work at t
 
 ## Posts
 
+[Dietary experiments](https://leonomics.com/dietary-experiments.html) - _Reflections on food, perception and contentment, 2025-01-13_
+
 [Cross-country skiing](https://leonomics.com/cross-country.html) - _An elaborate machine-powered collaboration between humans to create aesthetically pleasing athletic experiences, 2024-11-26_
 
 [Michael Baleta, 1984 - 2023](https://leonomics.com/michael.html) - _A goodbye, 2024-08-13_
