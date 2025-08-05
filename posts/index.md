@@ -1,7 +1,8 @@
 
 # Leonomics
 
-_A blog for reflection. I am a South African living in Oslo, Norway. I work at the University of Oslo's Center for IT. My [CV](https://leonomics.com/cv.html) has more information about my professional background. Some of the [code](https://github.com/leondutoit) I write is open source._
+_A blog for reflection.  All texts are written completely by myself (unless explicity attributed to others), without any assistance from other people or writing tools.
+I am a South African living in Oslo, Norway. I work at the University of Oslo's Center for IT. My [CV](https://leonomics.com/cv.html) has more information about my professional background. Some of the [code](https://github.com/leondutoit) I write is open source._
 
 ## Posts
 
