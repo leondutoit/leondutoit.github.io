@@ -1,0 +1,121 @@
+---
+title: "Foraging"
+subtitle: "A transformative practice"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+# Childhood origins
+
+Thinking back to my childhood, I remember foraging for pine nuts with my mother in the Jan Marais park close to home. I remember getting a lift on my mom's bike, so I must have been quite young. We'd cycle there, walking between the [Fynbos](https://en.wikipedia.org/wiki/Fynbos) under the trees, filling bags with pine cones. When I now dwell on these memories I remember the excitement of finding a pine cone filled with nuts. Later we'd sit on the porch in the backyard and crack open the shells with rocks. I recall the satisfaction of finding a rock with just the right size to fit into my hand, and just the right weight to crack, but not shatter the pine nut completely.
+
+I also remember collecting shells on the beaches of Jeffreys Bay with my grandmother and my mother. I learnt the local Afrikaans names, and how they were ranked in subjective value according to their scarcity, fragility and aesthetic qualities. My interest in collecting shells came and went throughout my childhood years. In my most enthusiastic times I would go foraging for shells, alone on the beach for hours on end. It was a beautifully aesthetic experience in many ways: the sound and smell of the ocean, the feeling of the sand and shells under your feet, the sustained concentration and detailed observation required to recognise specific shells, and the intermittent joy of finding a sought after specimen. Afterwards sharing the finds, washing, sorting, and storing for display.
+
+We spent lots of time in the mountains of the Westen Cape as kids too: hiking off the beaten track, sleeping in caves and under boulders, and rock climbing in between. On these trips it was natural to collect crystals, rocks, and even pieces of wood that struck a note with the aesthectic eye. My room was always full of foraged artefacts.
+
+# Norwegian reboot
+
+While the pine nut and shell foraging eventually waned as I entered my 20s and 30s, I never really stopped collecting small rocks: I have had a small rock from Sardinia in my backpack for more than a year, and in my office under my external monitor lies a piece of limestone collected in Mallorca in 2007. In recent years I've poured more energy into nurturing this impulse, learning everything I can about wild edible plants and mushrooms in Norway.
+
+The most normal type of foraging that is practiced in small scale by many Norwegians is aimed at berries and fruit. Up until about 2021 I did forage blueberries occasionally. The berry foraging expanded quite naturally to include wild strawberries and raspberries after having children. Children's natural curiousity make them good foragers, eager to explore and learn. At the time we lived next to some apple trees, and so it was equally natural to pick apples. From there it was easy to start to explore other berries such as Aronia, Rowan, Bilberry, Lingon, Crowberry, Red- and Black current, Blackberries and to sample more obscure ones like Red elderberry and Blackthorn.
+
+The journey into wild edible plants actually started with coffee. During the pandemic my sister-in-law was working as a barrista, and so I started nerding out on Nordic light roast filter coffee. I researched the entire value chain of coffee: its wild origins, historical proliferation, modern farming, varieties of plants, processing techniques (washing, drying, mixtures, anaerobic chambers), roasting techniques, grinding, preparation of the cup of coffee, and I even peeked into the academic literature on studies about the determinants of the sensory profile of coffee. So in the winter of 2020 I suddenly wondered if one could make any interesting drinks from foraged plants, and found my way to Birch branch tea.
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Flavour, aroma and colour extracted from young Birch branches - cut the branches into short pieces, fill the jar, pour boiling water to the brim, let it soak for 24 - 48 hours, refrigerate (lasts for a week). Then heat up as needed, enjoy as is or with honey."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/birch-tea.jpg'))
+```
+
+My friend Alex introduced me to mushrooming on our climbing missions in Telemark. Mushrooms feel more intimidating than plants, even though plants can be more poisonous. I suspect it is because we see plants everywhere, and we eat so much more of them in comparison to mushrooms. We're just more accustomed to plant organisms. On top that there is more knowledge about edible plants, berries and fruit in the general population.
+
+# Foraging
+
+Food is profound. Without it, we cannot live. Foraging for food is equally profound - it is the most foundational way of getting food. As a species, we have been foraging for food for as long as we and our evolutionary ancestors have existed. If you define foraging as moving your body around in space in order to find nutrition from other organisms (without having control over them via cultivation), then foraging is what all herbivores and omnivores do to survive. It is from foraging food that we have developed knowledge of wild plants, and from which argriculture emerged. Later on, when humanoids started hunting, they wouldn't have been able to do so, without first mastering foraging: you need to build your bow and arrow from trees, you need to sharpen your spear with a rock tool, you need to know where to find poison for your arrow-tip.
+
+Since the majority of early human existence will have revolved around foraging and the processes surrounding it, I suspect (without having checked the anthropological literature), that it is this context where language and culture started to develop. In fact, the search for nutrition still underlies a large part of the physical and cultural actitivies we engage in, but it is harder to discern due to the complexity of society and due to the highly processed forms in which we get food.
+
+The naturalness of foraging is immediately evident when you practice it. People of almost all ages can participate in it, it requires minimal tools (and can be done without tools), it doesn't cost money, and it can be practiced almost anywhere. The only requirements are an able body, knowledge, motivation, and of course organisms to forage: plants, fungi, algae.
+
+## Knowledge
+
+Norway's foraging scene is organised to a large extent. Local organisations that practice foraging can be formed voluntarily, and can become members of the umbrella organisation, the [Norwegian Association for Mycology and Foraging](https://soppognyttevekster.no/). It's quite typical to become inolved in this network of foraging if you want to go beyond the most popular species of plants and mushrooms. The main reason is the need to practice foraging safely: that is, to avoid being poisoned, and in worst case, dying. Other reasons are social, to practice with others, to learn and to share.
+
+Whether or not something is poisonous, or has adverse health effects if not consumed in a proper way (after cooking, not in too large amounts) is not really something that you want to learn first-hand. Many of these lessons can only be learnt once, before you die or have permanent liver damage. So it makes a lot of sense to learn from others, and from the body of knowledge that has been accumulated over the years. The fact that a wrong decision can have fatal consequences provides a strong incentive for having certainty about your skills: you need to be honest with yourself about you know, and what you don't know.
+
+Once you know that something is not poisonous, or damaging, it can be classified as potentially edible. How something is moved from _potentially_ edible, to the edible category is a social and subjective process. Some mushrooms are, for example, considered edible in Denmark, but not in Norway. Much of this is rooted in the inherent subjectivity of taste, but is also related to traditions, and skill of food preparation. Food engages all the senses, and it engages the mind too. And food preferences change over time. All of this comes into sharp focus as you engage more in foraging, eating plants right after picking them, trying new methods of processing, preseving, and combining ingredients.
+
+As you forage more, your knowledge of edible and non-edible organisms expands. A part of this knowledge is the ability to recognise, and classify. When you see a plant, you need to know what it is, what it is similar too, and whether it is considered edible. This leads to the study of morphology. And you need the ability to perform identification at different stages of the organism's development: plants can look very different just after germination in comparison to when they're in bloom. Other types of knowledge that are naturally developed includes ethnobotany - plants and mushrooms are named, have many names, have varying names in various places and languages, and have different traditions for use.
+
+You also develop knowledge of locations, and a keen awareness of seasonal change. With more experience you naturally develop a new relation to the places where you forage. Finding organisms is only a small part of the larger activity of eating foraged food. It is not always possible, or wishful, to immediately eat what you have found. So you need to preserve food. The simplest options are to freeze, and dry, but it is also possible to pickle and ferment. Each of these processes is a potential rabbit hole for geeking out on details. Then there is of course food preparation, a domain with endless possiblilty and variation.
+
+## Motivation
+
+Some experiences cannot be bought. Take for example this salad:
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/salad-koster.jpeg'))
+```
+
+Apart from the olive oil and balsamic vinegar (thanks agriculture and trade), the whole salad was foraged by me. Here we have the following plants:
+
+* Wood sorrel
+* Spear-leaved orache
+* White goosefoot
+* Grassleaf orache
+* Sea campion
+* Bird vetch
+* Red clover
+* Orpine
+* Oxeye daisy
+* White stonecrop
+* Red sorrel
+* Chickweed
+* Sea sandwort
+* Sea kale
+* Harebell
+
+There is such a rich variety of plants that can be used to make wild herbal tea:
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/wild-tea.jpg'))
+```
+
+Other experiences could perhaps be bought, but would be very expensive and would be a poorer version of the experience because of it - the entire process contributes to the so-called sensory profile of the eventual experience of the meal. Take for example this risotto in the making:
+
+```{r echo=FALSE, out.width='100%', fig.cap = ""}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/shrooms-risotto.jpg'))
+```
+
+Here we have:
+
+* Porcini
+* Chantarelle
+* Funnel chantarelle
+* Trumpet of the dead
+* Giant puffball
+* Wood hedgehog
+
+It is seldom that I do something, participate in an activity and have nothing critical to say about it. However hard I try I just cannot find fault with foraging. It is inclusive, sustainable, low-cost, low-tech, social, fun and useful. And while practicing it you discover the beauty in the details around you:
+
+```{r echo=FALSE, out.width='100%', fig.cap = "Lichens on a rock - lichen is a collaborative organism, which is a symbiosis between algae and fungi (and sometimes bacteria too). Some of them are actually edible, and can be a source of iron, while others are used in dyes."}
+knitr::include_graphics(paste0(home, '/leondutoit.github.io/posts/media/lichen-red.jpg'))
+```
+
+Societies have undergone many changes in their economic structure since the last ice age: from hunter/gatherer tribes, to agricultural towns, industrial cities, and then the globalised present day. Each of these bring about new ways of eating. First you had to basically find (and kill) wild food yourself, then you could cultivate and domesticate it and make direct trades, then cultivation and trade was powered by machines and you could use money to buy food (after somehow earning money), and now your smart refrigerator can order pre-made meals which you can heat up in a microwave oven when it arrives at your doorstep.
+
+Each change outlined above takes the person who is eating the food further away from the its origin: from the context in which the organism lives, where and how it is found or cultivated, and the processes used to turn the organism, the raw ingredients, into the eventual meal. As such, it severs the the experiential link between the organism that is eating and the organism that is being eaten, and the ecosystems on which both depend. It also removes the need for any knowledge about the organism or the processes involved. The workers on the production side of the value chain no longer have a direct relation to the fruit of their labour - they don't eat the food they produce. They accept that in return for money, but the point is that this way of eating, on the societal scale, is very different from how you eat when you forage.
+
+All of this is called the logic of specialisation, and there are many economic arguments supporting it. We've probably "always" had some degree of specialisation in groups of humans, due to the mere fact that individual humans are different from one another as a result of random evolutionary variation. In today's world, this has been taken to the extreme, powered by machines, finance, and elaborate institutions. Now you have ways of eating where none of the participants understand how the entire process is implemented, and where no one is experiencing all of the steps involved. In this sense, eating has gone from being a conscious process to an unconscious process. You can still reason your way to an abstract understanding of the large-scale process, but without the experiential foundation this is a fundamentally different way of being conscious about eating.
+
+# A transformative practice
+
+Foraging allows you to reestablish your connection to the wild origins of food, and to the wild origins of all tools and technology for that matter. For an urban city dweller living in an industrialised country, such as myself, it is a transformative practice.
+
+There is no such thing as "just seeing". Two persons look at the same scene and see wildly different things. Why? Because we see with the eyes and with the mind. Previously I would look at a park and see grass. I'd look at a forest and see trees. Now I see potential. I see a myriad of organisms which can give me free nutrition, and aesthetically pleasing and exclusive culinary experiences. I see the ecosystems on which they depend, and I see with utmost clarity that my organism depends on other organisms in order to survive.
