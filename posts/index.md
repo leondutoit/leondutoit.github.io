@@ -6,7 +6,7 @@ I am a South African living in Oslo, Norway. I work at the University of Oslo's 
 
 ## Posts
 
-[Foraging](https://leonomics.com/foraging.html) - _A transformative pracitce, 2025-08-18_
+[Foraging](https://leonomics.com/foraging.html) - _A transformative practice, 2025-08-18_
 
 [Dietary experiments](https://leonomics.com/dietary-experiments.html) - _Reflections on food, perception and contentment, 2025-01-13_
 
