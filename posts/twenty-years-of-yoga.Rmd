@@ -1,0 +1,106 @@
+---
+title: "Twenty years of yoga"
+subtitle: "The start of a new chapter"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+It's been twenty years since I started doing yoga, and I have no plans of ever stopping. Ten years ago I wrote about [how and why I developed my own practice](https://leonomics.com/ten-years-of-yoga.html) and it's about time to review, in writing, what has happened in my yoga since then.
+
+# Renewing my own practice
+
+From about 2018 to 2021 my own practice was in "maintenance mode". I was practicing more than once a week most of the time, but I didn't really have sharp focus on it. In 2021, however, I decided it was time to rejuvenate my home practice: develop a new sequence from scratch, deepen my understanding, and broaden my perspectives on yoga.
+
+The catalyst for renewing my practice was a combination of the pandemic and getting a second child. Both these events had a big impact on my everyday mobility, and resulted in more time being spent at home instead of out in the mountains and forests. As such, it messed with my "happiness formula" - the things I do regularly to keep myself in psycho-physical homeostasis. It was the right time to thoroughly re-evaluate my existential reality.
+
+So I set about reading, and working my way to a new sequence and a new mental framework in which to perform the practice. I read the following books:
+
+* Anatomy of Hatha Yoga, by H. D. Coulter
+* The Goddess Pose - The Audacious Life of Indra Devi, the Woman Who Helped Bring Yoga to the West, by M. Goldberg
+* The Science of Yoga - The Risks and the Rewards, by W. J. Broad
+* Yoga Body - The origins of modern posture practice, by M. Singleton
+* The Long Discourses of the Buddha - A Translation of the Digha Nikaya, by M. Walshe
+
+I re-read the first four chapters of Anatomy of Hatha Yoga to refresh my knowledge on the nervous systems, breathing, and abdominal anatomy. This is perhaps one of my favourite books of all time, across all categories. It provides a deep look into the physiological foundations of common Hatha yoga poses. The Goddess Pose presented an interesting view on the spread of modern yoga in the West, following the life of Indra Devi (aka Eugenie Peterson). The Science of Yoga provided some interesting information about contemporary research on yoga.
+
+Yoga Body was an incredible book. Based on Singleton's Phd work, he explains how modern yoga is a part of the physical culture traditions that developed in India during colonialism. British settlers and Indians were each exposed to their respective physical culture practices. Yoga, weight lifting, and gymnastics started evolving through a dialectical process of interaction. Indian pioneers started blending existing yogic practices with Western physical culture, and infused it with Hindu philosphy. The overall conclusion is that current yoga practices have very little resemblance to what was practiced before the 1800s. That does not mean the ancient roots of yoga are irrelevant, the practice has just evolved significantly.
+
+In addition to investigating yoga history and research I was also looking to renew the mental framework of my practice. Previously my yoga was primarily intended to serve my climbing by helping me maintain a balanced body. Now I was looking for a more holistic practice, so I decided to investigate meditation. I eventually settled on continuing my reading of Buddhist literature, this time with a new project in mind: to read the [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka) - the division of discourses from the Theravada Pali canon.
+
+Why does one need a mental framework for perform the practice? Yoga involves moving and breathing with conscious intent. To have intent, one must engage the mind. To have _conscious_ intent one must formulate goals. To form goals one must think and analyse. Thinking, and analysis happens within the context of mental frameworks, whether implicit or explicit.
+
+More concretely, you decide to yoga tonight - why? Later you unroll your mat, and start moving. How do you move, and why? How long do you pause between movements, how long do you keep static positions, which positions do you target, in what sequence? Where do you place your attention and focus while you are busy? How do you structure the low-level sensory information that you're processing while praticing? How do you incorporate this into the rest of your life? What motivates you to return to the mat to practice once more, and how is the previous practice connected to the current one? What kinds of movements, positions, and mental operations do you allow into your practice, and why?
+
+One option would be to ask someone else, but where did they get their answers from? Did they follow the right process? Did they perhaps make a mistake? Would you arrive at the same answers if you followed the same process? Or should you apply your own process? If you're going to estabilsh your own practice, it is fine to take inspiration and knowledge from others, but you have to make it your own, and validate your decisions indepedendtly if you truly want to own your practice. If you want the ability to guide yourself moment-to-moment, practice-to-practice, you need your own foundation.
+
+A good starting point is to articulate what you want from your practice, in a given session and over time by considering the following questions:
+
+* do you want to target strength, power, or endurance?
+* how do you want to work with mobility: statically, dynamically, both?
+* which mood do you want to emphasise: elevated, subdued, tranquil? Or a combination?
+* what physical equipment are you going to accept, or depend on: straps, blocks, balls, more?
+* are there specific parts of the body, specific movements, that you want to focus on?
+* over what time-span do you want to practice the core sequence: weeks, months, years?
+
+My answers to these questions are:
+
+* target strength
+* both dynamic and static mobility
+* overall I want a tranquil mood
+* use only a mat, no props
+* to cultivate a balanced body (I also really enjoy arm-balance)
+* to practice for the rest of my life, as frequently as possible
+
+Of course a living practice is one that constantly evolves in response to new experience and knowledge, and as goals and needs change. But you have to start with _something_. To get there it is wise to invest in knowledge about the history of yoga, anatomy, biomechanics, and the determinants of our mental lives. The system is the body, the method is movement. It is as simple and complex as that.
+
+# Reflection
+
+This all sounds very complicated. Isn't it enough to just stretch and move a little bit? Yoga has always been concerned with the cultivation of the body. Even when practicioners have pursued esoteric mental and spiritual goals, deliberate bodily practices have been an important vehicle for achieving these goals. The body is the substrate of the mind afterall. You can approach your actions randomly and with relative negligence and you might see some results: you can throw a bunch of seeds onto the ground and see if you eventually get vegetables. But real cultivation requires being involved in the processes at hand. Paying attention to what happens, building a mental model of how things work, experimenting, learning, and being deliberate. If not, you're likely to be unsatisfied with the results, which will quickly lead to abandoning the undertaking. If you want to transform your body and mind you have to put in systematic work.
+
+# Towards teaching
+
+After many years of consideration I finally decided to do a yoga teacher course in 2024. I settled on doing a 200 hours training at [Kjernekraft](https://www.kjernekraftoslo.no/) studio, in Oslo. I wanted to explore teaching because yoga has meant so much to me, and it would be great to share that with others and to help them along the way in their journeys. And when you teach something you are immediately forced to evaluate your own views and practices, which again stimulates learning.
+
+I hadn't attended a yoga class or been at a yoga studio in 10 years, so it was interesting in itself to return to practicing with others. Prior to the start of the teacher training the course instructors organised three workshops focusing on specific types of poses. There I could meet some of the other participants, and get to know the instructors themselves.
+
+The course started in January, with more or less one weekend per month until the end of June. At the end of June we went on a week long retreat to Sardinia. We were 12 participants and two instructors, and I was the only man. There are very few men in yoga, a curious sociological fact that is worth investigating in another text. The weekend sessions included a meeting Friday night, Saturday, and Sunday. On each day we started with a 2 hour practice, and then moved on to teaching, interactive sessions, discussions and reflection. The major themes were: anatomy (with an extra focus on fascia, aka connective tissue), structuring a lesson, and yoga philosophy and history.
+
+Apart from all the yoga-related lessons learnt, I started realising there is another highly relevant, albeit more subtle skill that needs to be practiced and developed to be a good yoga teacher, which I call "being with others". This is very different from the skill called "being with oneself". The latter is roughly a subset of the former: being with others can be framed as being with oneself _with others_.
+
+This is especially true of practicing yoga together. Yoga is an inward-looking comtemplative movement practice - very much being with oneself. Practicing together invariably means that you relate to others around you in different ways: you see them, you feel their presence, they see you, they feel your presence, you see each other seeing each other - a shared experiential space is created. Although we have boundaries, although we sense phenomena and experience emotions inside our bodies, we are porous. Our experiences, to the extent that they can be sensed by others have an effect on those around us. What can be developed in this sphere? How can one be better at being with others? I cannot claim to have conclusive answers, but one notable aspect is to be better at creating space for others' experiences alongside your own, accepting what arises without judgement. Practicing yoga together is different from practicing alone.
+
+# Teaching
+
+The creation of a shared experiential space is not unique to yoga, it is always present when two or more people are together. However, during a yoga practice people are more sensitive to it, and there is an understanding that the teacher, acting as the coordinator of the session, has the responsibility for acting as a steward of this shared space. The teacher is setting the scene, creating context, guiding experience. This is done by instructing movement, breathing, attention and intention - all core elements of a yoga practice. But it is also done, more or less subconsciously, by merely being there in a specific way.
+
+Beyond this one has to get practical: which poses are you going to instruct, how, and in which sequence? What will be the theme of the session, if any? Then you have to consider that people are very different from one another: some are beginners with very little body awareness, others might have many years of experience, there are young and old, male and female, spiritual and secular, all on the lookout for a good session of yoga. It is a fascinating undertaking, and it is even more fascinating that it works out well. That is a testament to the power of yoga as a pratice: that it can create room for such huge diversity simultaneously.
+
+This summer I had the joy of teaching some drop-in studio classes at Kjernekraft. Since I don't practice according to a specific yoga system, I simply teach a variant of what I practice. A variant that is a bit more generic, and not so tightly coupled to my own body. Not being a proponent of a yoga system, and being aware of the fact that many participants have widely different mental frameworks, I have chosen to collect themes that I think are interesting and important to reflect on, and that can be reflected on by practicing yoga. Themes such as: twisting, shoulders, tension, movement, breathing, exhaling, gaze, building postures, endurance, strength, power, hands, arm balance, standing balance, beauty, pain, liberation, concentration, minimalism, mind, nervous systems, mobility. These are all themes that can be independently investigated and contemplated by yoga practitioners. As such it is an open discussion, an ongoing dialogue. I'm excited to see where this journey takes me.
+
+# Frontiers
+
+So what's happening in my own practice at the moment? Instead of experiencing huge leaps, change usually comes gradually and are noticed in small and subtle differences. Some of the more recent changes include:
+
+* I feel a deeper sense of comfort in Pachimotanasana, the seated forward bend
+* I can finally straighten my right leg fully in Hasta Padangustasana, the extended hand-to-big-toe pose
+* My Urdhva Dhanurasana (wheel pose) is respectable, and I can do more than one during my practice
+* I am really enjoying spending time in Eka Pada Koundinyasana 2, the flying splits
+* after holding Marichyasana 2 for 20 breaths, I exhale and stay there without inhaling again for a few moments - a wonderful sense of quiet in between breaths
+
+There's more, but these are all noteworthy aspects to explore and develop at the moment. I'm also very interested in "yoga in everyday life". It is possible to experience a wonderful sense of calm and steadiness during a yoga practice. This type of feeling is often missing in everyday life. I'm lucky enough to live a stable life in a peaceful part of the world so I don't have _real_ problems, but life can still become stressful at times. How can one draw on the yogic calm in these situations? Reach out to the body, breathe evenly, establish mindfulness in the calm that is there, and drown out the rising cortisol in the brain. Easier said than done, but possible! The body is an often overlooked resource in difficult situations.
+
+This summer I spent lots of time outside, foraging on beaches, next to rivers, and in the forests. Historically I've been hesitant about practicing yoga outside: it can be annoying to not have a perfectly flat surface, it can be bothersome to feel the gaze of strangers while you're trying to concentrate while moving, the the weather is hard to predict. This summer, however, I've challenged myself to let go of these perceptions, to try and embrace the constraints that come with practicing outside, and be creative about finding suitable spaces. It is easy enough to find spaces where you can be alone, but very difficult to find a surface that is equally good as a wooden floor inside a room. Once you accept this, and stop thinking about it as a problem you can rather turn your attention to creating a suitable sequence for the space. When you accept the spaces as they are, and leave the yoga mat out of it, it opens up a whole world of possibilities, where you can practice in beautiful places. The movement is different, but there is a real dialogue with the environment.
+
+In addition to teaching more, I am also interested in exploring new ways of practicing together. One idea is to find a studio where I can teach more "Mysore style" classes - where participants guide themselves in addition to being guided. That way I could try to teach people how to become more independent in their own practice, and I could devote a part of the session to my own sequence. Another idea is to try a different format in the studio setting, taking inspiration from breakdancing: imagine there are 5 teachers in the group, and each takes a turn to instruct a sequence, improvising based on what the previous teacher instructed. Or to find ways of practicing with others without charging them money, where it more closely resembles going for a walk with a friend - that it is just something you do together, here and now. We'll see what is possible.
+
+# In closing
+
+The universe is vast, the world is complex. There are so many things we cannot control, and it is difficult to know what to do. How to respond to all of this? Do something beneficial, do something beautiful, do something that is robust.
