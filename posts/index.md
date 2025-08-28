@@ -6,6 +6,8 @@ I am a South African living in Oslo, Norway. I work at the University of Oslo's 
 
 ## Posts
 
+[Twenty years of yoga](https://leonomics.com/twenty-years-of-yoga.html) - _The start of a new chapter, 2025-08-28_
+
 [Foraging](https://leonomics.com/foraging.html) - _A transformative practice, 2025-08-18_
 
 [Dietary experiments](https://leonomics.com/dietary-experiments.html) - _Reflections on food, perception and contentment, 2025-01-13_
