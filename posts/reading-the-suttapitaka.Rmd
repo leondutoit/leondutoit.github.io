@@ -1,0 +1,85 @@
+---
+title: "Reading the Sutta Pitaka"
+subtitle: "Reflections on a multi-year journey"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+A couple of years ago I had planned on writing about my previous big reading project: Andrew Tanenbaum's computer science books (about computer networking, distributed systems, operating systems, and computer architecture). I never came around to writing about it, and now the whole experience is too far in the past for me to really capture what I wanted to. I want to avoid making the same mistake with my current big reading project: the Sutta Pitaka of the Pali Canon. So instead of waiting until I've finished it before writing about it, I'll rather write this post in several installments, while the material is still fresh enough in my mind.
+
+# The origins of the project
+
+My first encounter with Buddhism was through the work of Breyten Breytenbach in 2001, deceased South African writer, poet, and painter. After that I encountered more through the work of Karen Armstrong, Herman Hesse's Siddhartha, and a movie called Spring, Summer, Fall, Winter... and Spring. In 2007 I read a primary Buddhist text for the first time when I bought myself a copy of the Dhammapadda.
+
+I remember, when reading the Dhammapadda back in 2007, how different the ideas felt - almost as if I couldn't touch them. The ideas were extremely unfamiliar. It's almost like seeing something that you're unable to identify: you turn it this way and that way, but no matter what you just cannot relate it to anything else you've ever seen. Nevertheless, the Dhammapadda is a beautiful text, and many of the passages are inspiring even without any technical knowledge, and so I re-read it many times in the coming years.
+
+I've [written about](https://leonomics.com/twenty-years-of-yoga.html) how the 2020 pandemic and having a second child messed with my happiness formula, how this was a catalyst for renewing my own yoga practice, and how that involved restarting my reading of Buddhist literature. I wanted to re-investigate the philosophical foundations of my existential reality, because it plays an important part in my happiness. It is perhaps more accurate to say that the terminology I use to describe my experience, my existential reality, is _absolutely crucial_ to my own happiness.
+
+I remembered my previous encounters with Buddhism, and knew that I had never given it proper consideration, other than by reading other people's considerations. Among all the things I had tried to support my own happiness I had never tried meditation. At first I started reading a book about Buddhist meditation but I quickly realised that this too was another person's considerations of Buddhism. If I was going to change the terminilogy of my existence I had to see and decide for myself. The copy of the Dhammapadda I owned was translated by Glenn Wallis, so I ordered another selection of Buddhist discourses translated by him. From here I started having a look at the Pali Canon and decided that it would be best to read the Sutta Pitaka myself.
+
+Why the Sutta Pitaka? The Pali Canon is the set of authoritative texts of the Theravada school of Buddhism. Theravada is older than Mahayana (and Vajrayana), and therefore represents early Buddhism is an accurate way. By extension it is probably a good representation of "what the Buddha said". The Pali Canon consists of three sections: 1) the Vinaya Pitaka (monastic rules), 2) the Sutta Pitaka (the teachings), and 3) the Abdhidamma (more elaborate philosophy). Since I do not aim to become a monk or a specialist in Theravada philosophy I decided that the teachings would be most relevant to explore.
+
+Why explore Buddhism when my aim is to establish robust hapiness in my own life? This may sound like a very primitive assessment of Buddhism, but be that as it may: their vision of "the good life" is essentially one in which you "own nothing" and "do nothing" (of course you're not literally _doing nothing_, but nothing conventional, or nothing conventionally). And how is it possible to be happy (content, satisfied, stimulated, engaged, excited) when you own nothing and do nothing? If you're really capable of that, then you must have a powerful mind. Given this, it stands to reason that Buddhism has developed powerful mental tools for happiness. My aim is to search the writings of the Sutta Pitaka to find these mental tools. To see how they have been constructed, and to construct and adopt the ones that I can usefully apply in my own life. I am working on establishing a mediation practice in a similar way to what I did with yoga, and on evolving the quality of how I reflect on my life.
+
+# Digha Nikaya - the long discourses
+
+Whatever text one reads, one does so with expectations. My expectations were shaped by my previous encounters with Buddhism - both through others' texts about it, and through the translations of canonical texts which I had read before. Right or wrong, one of the perceptions that I had going into reading the Digha Nikaya, was that Buddhism is a more empirical religion than most, if not all others. Empirical in the sense that every participant/practitioner is invited to verify the claims for themselves. In the case of the Digha Nikaya this is true to an extent, but only to an extent. Many of the claims about the nature of things (such as the cosmos) are not verifiable by any means other than through appeals to magical thinking, to superhuman powers, or faith.
+
+Commentaries explain that the Digha Nikaya served as "religious propaganda" at the time of its composition, choosing discourses that incorporated ideas of other religions of the time to make Buddhist thought more tangible to listeners. It makes sense that the discourses that were developed were situated in their historical epoch, and that one would be deliberate in crafting engaging stories if the purpose was to convert believers from other religions. Regardless, I found myself being surprised by the extent of what I would call speculative and doctrinally irrelevant statements.
+
+I don't want to imply that this was the main or most important impression that the Digha Nikaya made on me, but I cannot leave it unsaid. The result is simply that there are many portions of the text which I pass by "in silence". There are many ways to approach a text: on the one end of the spectrum one can be critical from the outset, trying to find logical and/or factual errors in as many statements as possible; one the other end one can accept everything that is said without any questioning at all. Neither of these ways of reading are going to bring me closer to achieving my goal of establishing more robust happiness using Buddhist mental tools, so I am deliberately trying to veer away from these two extremes.
+
+Rather than seeing my task as a reader to generate a series of reactions to what I read in the form of "agree/disagree" or to come up with a comprehensive statement about the internal consistency of the arguments that are implicit to the teachings, I am approaching the text more like going for a walk in the forest: much like I see that there are these organisms, and that I can intentionally relate to them or pass them by, I see in the text that there are these considerations about the way things are. When I encounter ideas that don't resonate with me, arguments which I consider invalid, or empirical statements which are not falsifiable I try not to overreact, and continue my search.
+
+Even though it might sound trivial, my expectations were also shaped by all other texts that I had read before. In this sense the Digha Nikaya gave me an encounter with an entirely different type of text. Discourses appear in a numbered sequence of no particular thematic order. Each discourse tells the story of a dialogue between the Buddha and someone else. Sometimes, the dialogue figures one of the most eminent disciples instead of the Buddha himself. The conversation partners vary widely in terms of their role in society, and their knowledge of the Dhamma (the Buddha's teaching). The normal structure is a brief description of the scene, a question is asked, and an explanation follows, sometimes with repeated questions and answers.
+
+The structure of the Digha Nikaya and the discourses themselves are of course an artefact of the writings having their origin in the oral tradition. This accounts for many of the unusual features of the text (in comparison with texts that are written down from the outset). But there is something else that is even more different. The ideas have a very different _feel_ about them. They are almost other-worldly. Or to borrow a Buddhist term, the ideas have a distinct non-worldliness about them. They have a very particular "mental flavour". In my experience, the mental flavour is a result of both _how_ things are being said (the underlying intention, the attitude, the very deliberate and sometimes unusual choice of words) and _what_ is being discussed. Buddhist ideas are unlike anything else I've ever encountered.
+
+The following discourses from the Digha Nikaya stood out to me:
+
+* Sammanaphala Sutta - The Fruits of the Homeless Life
+* Potthapada Sutta - States of Consciousness
+* Mahanidana Sutta - The Great Discourse on Origination
+* Sakkapanha Sutta - Sakka's Questions
+* Mahasatipatthana Sutta - The Greater Discourse on the Foundations of Mindfulness
+* Sangiti Sutta - The Chanting Together
+* Dasuttara Sutta - Expanding Decades
+
+Sometimes a whole discourse resonates with me. Other times it can be a specific paragraph, sentence or phrase that sticks with me. One example from the Mahanidana Sutta:
+
+"Ananda, when once a monk attains these eight liberations in forward order, in reverse order, and in forward-and-reverse order, entering them and emerging from them as and when, and for long as he wishes, and has gained by his won super-knowledge here and now both the destruction of the corruptions and the uncorrupted liberation of heart and liberation by wisdom, that monk is called both-ways-liberated, and, Ananda, there is no other way of both-ways-liberation that is more excellent and perfect than this."
+
+The phrase that sticks with me here is: _there is no other way of both-ways-liberation that is more excellent and perfect that this_. What is it that strikes me here? It is the "more excellent and perfect than this" part. That one would systematise ways of being, and their accompanying states of mind in a way that makes it possible to define "both-ways-liberation" is already fascinating. And then to consider the various ways of being in this way, compare them, and pronounce that one specific way is the most _excellent and perfect_ way is just beautiful. Another example, from the Dasuttara Sutta:
+
+"This concentration is both present happiness and productive of future resultant happiness; This concentration is Ariyan and free from worldliness; This concentration is not practised by the unworthy; This concentration is calm and perfect, has attained tranquilisation, has attained unification, and is not instigated, it cannot be denied or prevented; I myself attain this concentration with mindfulness, and emerge from it with mindfulness."
+
+The phrase that resonates most with me here is: _this concentration is calm and perfect_. It is such an amazing way of relating to and regarding your own concentration. Even before doing so, just the fact that one would sit down and make time to concentrate is a beautiful thing to do. In doing so, one does not depend on anything or anyone (in any immediate sense); one does not cause yourself, anyone or anything any harm. It can, therefore, be done without any moral reservations or without any concern for your own current or future well-being. Having done so, if you do reach a point where you can consider the quality of your concentration to be calm and perfect, and then dwell in that, then I say it has been a good day.
+
+There is a kind of perfection to these phrases, to their underlying intention, and their implementation that remind me of how I feel when I listen to music, and the song reaches its most beautiful moment. Similarly it reminds me of sublime experiences I have in contemplative and immersive movement: in yoga, climbing, and skiing. That is not to say that all these phenomena as the same thing, but an important shared charteristic among them is that they are valuable to me regardless of any logical argument that one could make about them.
+
+It also means that I can incorporate practicing and developing concentration into my life, that there is a primary and direct motivation to do so, and that it can be done regardless of the sometimes unnecessary doctrinal scaffolding that surrounds it. That is not to say that all doctrinal considertions are irrelevant, or that practices are completely separable from considerations about them, but it is more robust and sustainable to establish beneficial practices in primary motivations.
+
+# Majjhima Nikaya - the middle-length discourses
+
+
+
+# Reflections
+
+Sit down, make time to concentrate, develop that concentration, direct it at what is present: observe, and describe. Relate and understand.
+
+## Ways of understanding
+
+They have nothing to do with anything, and everything to do with everything.
+
+# Current readings
+
+At the time of writing I'm still busy reading the  Samyutta Nikaya. After that, both the Anguttara and Khuddaka Nikaya remain.
