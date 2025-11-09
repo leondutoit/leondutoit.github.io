@@ -6,6 +6,8 @@ I am a South African living in Oslo, Norway. I work at the University of Oslo's 
 
 ## Posts
 
+[Reading the Sutta Pitaka](https://leonomics.com/reading-the-suttapitaka.html) - _The Digha Nikaya and the Majjhima Nikaya, 2025-11-09_
+
 [Twenty years of yoga](https://leonomics.com/twenty-years-of-yoga.html) - _The start of a new chapter, 2025-08-28_
 
 [Foraging](https://leonomics.com/foraging.html) - _A transformative practice, 2025-08-18_
