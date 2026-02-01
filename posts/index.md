@@ -5,6 +5,8 @@ _A blog for reflection.  All texts are written completely by myself. I am a Sout
 
 ## Posts
 
+[What I do at work](https://leonomics.com/what-i-do-at-work.html) - _Moving in economically advantageous ways, 2026-02-01_
+
 [Reading the Sutta Pitaka](https://leonomics.com/reading-the-suttapitaka.html) - _The Digha Nikaya and the Majjhima Nikaya, 2025-11-09_
 
 [Twenty years of yoga](https://leonomics.com/twenty-years-of-yoga.html) - _The start of a new chapter, 2025-08-28_
