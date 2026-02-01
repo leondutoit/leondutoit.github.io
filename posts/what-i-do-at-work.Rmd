@@ -1,0 +1,70 @@
+---
+title: "What I do at work"
+subtitle: "Moving in economically advantageous ways"
+date: "`r Sys.Date()`"
+output:
+    tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
+options(htmltools.dir.version = FALSE)
+home <- Sys.getenv("HOME")
+```
+
+## 1.
+
+I rearrange the world.
+
+## 2.
+
+I move my body.
+
+## 3.
+
+Programming is the deliberate manipulation of computational systems to elicit specific behaviours. Programs, which represent conceptual and logical constructs, are translated into physical states in transistors and other physical media by means of elaborate translations, encoding and decoding the representations into different representations that can eventually be mapped to a series of variations in electrical voltage. Representations are moved around in space, over time (sent from one machine to another) by modulating physical media or phenomena, such as sending pulses of light through optical cables, electrical voltage through coaxial copper cables, or by sending electromagnetic waves with specific phases and amplitudes. We encode our representations into the physical state of the world.
+
+## 4.
+
+I sit on chairs and benches, in different rooms. I walk from place to place. I stand around. I talk to people, and listen to others talking. I sit in front of computers. Around tables, next to TV screens and whiteboards.
+
+## 5.
+
+I deal in representations. It is how I manipulate shared state in computational hardware, and how I coordinate the state of my mind with the state of other's minds. The mutual ability to create and explain representations and their relation to shared computational state is shared understanding. I constantly engage in the process of establishing and maintaining shared understanding.
+
+## 6.
+
+I make sure that I am at the right place at the right time. I ask others to be at specific places at specific times. I follow the agreed-upon conventions of time: the calendar with its dates, the clocks with their times. The basic tools we use for coordinating actions. Conventional reality.
+
+## 7.
+
+I help people answer questions. Questions that they want to, or have to, answer by using digital computers. Depending on how the question is posed, it might be either impossible, or infeasible to answer without using digital computers. Most typically, these are research questions. I also help people make decisions. Making decisions often entails answering questions first.
+
+## 8.
+
+I think, remember and imagine things - rearranging the internal state of my mind in the process. I construct representations of our digital systems in my mind. Sometimes these representations are externalised in drawings, words, or code. Sometimes I change the organisation of a representation without changing its logical operation in the digital system, merely for the sake of being able to deal with it more easily. There are many equivalent ways writing the same program, of framing instructions, of crafting the desired series of physical states.
+
+## 9.
+
+Whatever questions people have or decisions they want to make occurs within a social and legal context. Sometimes the nature of the question or decision requires using digital systems that satisfy specific social and legal conventions. The nature of the question or decision may also require large amounts of computational resources for the work to be feasible in the given context. I design, implement and manage such systems in collaboration with others.
+
+## 10.
+
+As with any institutional and collaborative effort, people interact with one another in formal, semi-formal and informal ways. People have formal roles and responsibilities within the context of an organisation, which shape the expectations people have of one another, which in turn shape the types of interactions you have. I adopt my role and responsibilities, and act accordingly. I also cultivate relationships with people that go beyond the formalities defined by the organisation. This is both inherently and instrumentally valuable.
+
+## 11.
+
+The digital systems that we build co-exist with our organisational reality, and with the contexts in which people use them. In order to evolve the systems in useful ways, I create representations of the processes that we use to organise ourselves, and the processes that the systems enable when they are used. Sometimes I change the organisational processes in order to achieve changes to the digital systems. All of these human processes are intertwined with the digital systems. The digital system itself can be seen as a mediator between different minds, or the same mind over time. Those who interact with it, via their representations, give meaning to the physical states of the world that comprise the system.
+
+## 12.
+
+Some of the semi-formal interactions I have are more or less ritualistic. We gather around tables in rooms to reach conclusions about common concerns. Before doing so everyone gets a warm drink, such as coffee or tea, or a cold drink, such as water, or flavoured (and sparkling) water. Loose discussions, pleasantries, happen before the formalities begin. These are often tied to shared circumstantial events, such as the weather, the time of the year, recent political events, and in some cases transition to more personal anecdotes which you can use to share aspects of your personal life, with the aim of creating a good social environment prior to the meeting. Then someone leads the discussion, people introduce themselves. A language is chosen, based on the skills of the participants. Often the conclusions have already been formulated on a logical level, and the meeting functions more as a shared psychological event. People arrive at such meetings expecting a certain protocol for the proceedings, and are satisfied when the expected protocol is followed. It matches their internal representation of how such matters are to be dealt with. These ritualistic practices are intertwined with the structure of society, their form is shaped by it. I observe how such rituals are practiced and make sure to follow the expected protocols to a sufficient degree.
+
+## 13.
+
+No human social process is problem free. These problems may be transitory, but there will be problems. Building computational systems that fulfill the dynamic needs of the people that use them requires various human social processes that involve communication, collaboration, learning, teaching, and programming. People's lives include much more than what they do at work. For people to enact the required social processes at work to a sufficient degree of quality, the rest of their lives have to be in such a state as to allow them to function well at work. Furthermore, people have different capacities with respect to communication, collaboration, learning, teaching, and programming - some are highly skilled and experienced and can buffer the rest of their lives, while others lack skill and experience and get overwhelmed by the rest of their lives. To the extent that I am responsible for orchestrating the required social processes at work, I need insight into people's lives and their ability to interact with others, and make changes to the systems in the required ways. This insight allows me to adjust their roles accordingly. So a big part of what I do at work is to speak to people about their lives, and about the social processes that we want to enact at work, and to think about these discussions.
+
+## 14.
+
+I change my internal state in order to move my body, move my body to change the state of the world, change the state of the world in order to change the internal state of others, in such a way that I earn money from it. The way we change the state of the world, and the way this brings about changes in the internal state of others is dependent on the technologies of the day, and the worldviews brought about by these technologies. To take part in this economy, to be rewarded for your movements according to the rules of the game, you have to entangle your mind with the knowledge that co-exists with the technology of the day to a sufficient degree that you can bring about the wished-for internal states in others. Sometimes it means doing this, and other times it means doing that.
