@@ -1,9 +1,11 @@
 
 # Leonomics
 
-_A blog for reflection.  All texts are written completely by myself. I am a South African living in Oslo, Norway. I work at the University of Oslo's Center for IT. My [CV](https://leonomics.com/cv.html) has more information about my professional background. Some of the [code](https://github.com/leondutoit) I write is open source._
+_A blog for reflection.  All texts are written completely by myself. I am a South African living in Oslo, Norway. I work at the University of Oslo's Center for IT. My [CV](https://leonomics.com/cv.html) has more information about my professional background._
 
 ## Posts
+
+[Value](https://leonomics.com/value.html) - _Where, how, when, what, why, 2026-04-08_
 
 [What I do at work](https://leonomics.com/what-i-do-at-work.html) - _Moving in economically advantageous ways, 2026-02-01_
 
