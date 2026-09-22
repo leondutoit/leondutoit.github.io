@@ -5,6 +5,8 @@ _A blog for reflection.  All texts are written completely by myself. I am a Sout
 
 ## Posts
 
+[A summer of sprinting](https://leonomics.com/a-summer-of-sprinting.html) - _Exploring a new discipline, 2026-09-22_
+
 [Value](https://leonomics.com/value.html) - _Where, how, when, what, why, 2026-04-08_
 
 [What I do at work](https://leonomics.com/what-i-do-at-work.html) - _Moving in economically advantageous ways, 2026-02-01_
